@@ -19,12 +19,12 @@ class SeashellMobilism:
     def process(self):
         driver = webdriver.Firefox()
         drv = webdriver.Firefox()
-        driver.implicitly_wait(10)
-        drv.implicitly_wait(10)
+        # driver.implicitly_wait(10)
+        # drv.implicitly_wait(10)
 
         f = open('urls1.txt', 'a', encoding="utf-8")
 
-        i = 640
+        i = 0
         while not self.done:
             self.done = True
             start_i = "https://forum.mobilism.org/viewforum.php?f=399&start=" + str(i)
