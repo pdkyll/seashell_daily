@@ -24,7 +24,7 @@ class SeashellMobilism:
         driver.implicitly_wait(30)
         drv.implicitly_wait(30)
 
-        f = open('urls2.txt', 'a', encoding="utf-8")
+        f = open('urls1.txt', 'a', encoding="utf-8")
 
         i = 280
         while not self.done:
