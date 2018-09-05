@@ -10,13 +10,15 @@ class SeashellMobilism:
     def __init__(self, lastdate):
         self.lastdate = self.toDate(lastdate)
         self.done = False
-        self.kws = ['icon pack', 'KLWP', 'WhatsApp', 'facebook', 'Substratum', 'GO Launcher', 'Hindi', 'Dictionary',
-                    'Learn English', 'Smart Launcher', 'P Launcher', 'Twitter', 'Spanish', 'French', 'Netflix',
-                    'Gboard', 'Microsoft Launcher', 'Turbo Launcher', 'OO Launcher', 'Chrooma', 'Fleksy',
+        self.kws = ['x86', 'icon pack', 'KLWP', 'WhatsApp', 'facebook', 'Substratum', 'GO Launcher', 'Hindi',
+                    'Dictionary', 'Learn English', 'Smart Launcher', 'P Launcher', 'Twitter', 'Spanish', 'French',
+                    'Netflix', 'Gboard', 'Microsoft Launcher', 'Turbo Launcher', 'OO Launcher', 'Chrooma', 'Fleksy',
                     'Launcher Oreo', 'Google Drive', 'MosaLingua', 'ATV Launcher', 'Total Launcher', 'Drivemode',
-                    'German', 'Dropbox', 'Memrise', 'EMUI', 'Nougat Launcher', 'icons', 'X Launcher']
+                    'German', 'Dropbox', 'Memrise', 'EMUI', 'Nougat Launcher', 'icons', 'X Launcher', 'Arc Launcher',
+                    'CM Launcher', 'KWGT','Pie Launcher','POCO Launcher','Portuguese','Indonesian','Chinese']
         self.lkws = ['http://www.opera.com', 'https://www.facebook.com', 'https://twitter.com', 'https://t.me',
-                     'https://plus.google.com']
+                     'https://plus.google.com', 'http://www.audiomack.com', 'https://instagram.com',
+                     'https://docs.google.com', 'https://www.youtube.com', 'http://twitter.com', 'http://www.bbc.co.uk']
 
     def process(self):
         driver = webdriver.Firefox()
