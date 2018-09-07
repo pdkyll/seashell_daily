@@ -15,10 +15,13 @@ class SeashellMobilism:
                     'Netflix', 'Gboard', 'Microsoft Launcher', 'Turbo Launcher', 'OO Launcher', 'Chrooma', 'Fleksy',
                     'Launcher Oreo', 'Google Drive', 'MosaLingua', 'ATV Launcher', 'Total Launcher', 'Drivemode',
                     'German', 'Dropbox', 'Memrise', 'EMUI', 'Nougat Launcher', 'icons', 'X Launcher', 'Arc Launcher',
-                    'CM Launcher', 'KWGT','Pie Launcher','POCO Launcher','Portuguese','Indonesian','Chinese']
-        self.lkws = ['http://www.opera.com', 'https://www.facebook.com', 'https://twitter.com', 'https://t.me',
+                    'CM Launcher', 'KWGT', 'Pie Launcher', 'POCO Launcher', 'Portuguese', 'Indonesian', 'Chinese',
+                    'Italian', 'Swedish', 'Dutch', 'Danish', 'Catalan', 'Russian', 'Arabic',
+                    'Romanian', 'Latin', 'Filipino', 'Korean', 'S8 Launcher']
+        self.lkws = ('http://www.opera.com', 'https://www.facebook.com', 'https://twitter.com', 'https://t.me',
                      'https://plus.google.com', 'http://www.audiomack.com', 'https://instagram.com',
-                     'https://docs.google.com', 'https://www.youtube.com', 'http://twitter.com', 'http://www.bbc.co.uk']
+                     'https://docs.google.com', 'https://www.youtube.com', 'http://twitter.com', 'http://www.bbc.co.uk',
+                     'http://www.machapp.net', 'http://machapp.net')
 
     def process(self):
         driver = webdriver.Firefox()
@@ -28,7 +31,7 @@ class SeashellMobilism:
 
         f = open('urls1.txt', 'a', encoding="utf-8")
 
-        i = 280
+        i = 0
         while not self.done:
             self.done = True
             start_i = "https://forum.mobilism.org/viewforum.php?f=399&start=" + str(i)
@@ -89,12 +92,15 @@ class SeashellMobilism:
                 return False
         return True
 
+    #         return any(re.search(kw, title, re.IGNORECASE) for kw in self.kws)
+
     def isLink(self, linkhref):
-        for kw in self.lkws:
-            if linkhref.startswith(kw):
-                return False
-        return True
+        # for kw in self.lkws:
+        #     if linkhref.startswith(kw):
+        #         return False
+        # return True
+        return not linkhref.startswith(self.lkws)
 
 
-mob = SeashellMobilism("Aug 31st, 2018, 4:45 pm")
+mob = SeashellMobilism("Sep 4th, 2018, 7:32 pm")
 mob.process()
