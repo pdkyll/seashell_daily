@@ -17,11 +17,26 @@ class SeashellMobilism:
                     'German', 'Dropbox', 'Memrise', 'EMUI', 'Nougat Launcher', 'icons', 'X Launcher', 'Arc Launcher',
                     'CM Launcher', 'KWGT', 'Pie Launcher', 'POCO Launcher', 'Portuguese', 'Indonesian', 'Chinese',
                     'Italian', 'Swedish', 'Dutch', 'Danish', 'Catalan', 'Russian', 'Arabic',
-                    'Romanian', 'Latin', 'Filipino', 'Korean', 'S8 Launcher']
+                    'Romanian', 'Latin', 'Filipino', 'Korean', 'S8 Launcher', 'Language Learning', 'Prayer']
         self.lkws = ('http://www.opera.com', 'https://www.facebook.com', 'https://twitter.com', 'https://t.me',
                      'https://plus.google.com', 'http://www.audiomack.com', 'https://instagram.com',
-                     'https://docs.google.com', 'https://www.youtube.com', 'http://twitter.com', 'http://www.bbc.co.uk',
-                     'http://www.machapp.net', 'http://machapp.net')
+                     'https://www.instagram.com', 'https://docs.google.com', 'https://www.youtube.com',
+                     'http://twitter.com', 'http://www.bbc.co.uk', 'http://www.fotmob.com', 'http://www.facebook.com',
+                     'http://www.machapp.net', 'http://machapp.net', 'http://www.reactle.com',
+                     'http://developer.samsung.com', 'https://icons8.com', 'http://www.camscanner.com',
+                     'http://www.elephantsdream.org', 'http://www.bigbuckbunny.org', 'http://forum.xda-developers.com',
+                     'http://tubemate.net', 'https://books.fbreader.org', 'http://truecaller.com/',
+                     'http://iconhandbook.co.uk', 'http://talk.sonymobile.com', 'https://powerbrowserapp.com',
+                     'http://wordswag.co', 'https://travel.sygic.com', 'http://www.mycarly.com',
+                     'http://support.mycarly.com', 'http://yatse.tv', 'http://kodi.tv', 'http://creativecommons.org',
+                     'https://www.boutiqueobdfacile.com', 'http://www.outilsobdfacile.com', 'http://bit.ly',
+                     'http://ugl.flashlight.de', 'http://www.adobe.com', 'http://www.fstopapp.com',
+                     'http://gromaudio.com', 'http://tubemate.net', 'https://youtu.be', 'https://paranoiaworks.mobi',
+                     'https://pteo.paranoiaworks.mobi', 'http://www.caristaapp.com', 'http://www.caristaapp.com',
+                     'http://www.ipndata.sk', 'https://play.google.com', 'https://morecast.com',
+                     'http://www.morecast.com', 'http://www.polarisoffice.com', 'https://getsatisfaction.com',
+                     'http://neutronmp.com', 'http://forum.bsplayer.com', 'http://www.waze.com',
+                     'http://www.fstopapp.com', 'https://github.com')
 
     def process(self):
         driver = webdriver.Firefox()
