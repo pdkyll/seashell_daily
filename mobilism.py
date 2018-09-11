@@ -12,7 +12,7 @@ class SeashellMobilism:
         self.done = False
         self.kws = ['x86', 'icon pack', 'KLWP', 'WhatsApp', 'facebook', 'Substratum', 'GO Launcher', 'Hindi',
                     'Dictionary', 'Learn English', 'Smart Launcher', 'P Launcher', 'Twitter', 'Spanish', 'French',
-                    'Netflix', 'Gboard', 'Microsoft Launcher', 'Turbo Launcher', 'OO Launcher', 'Chrooma', 'Fleksy',
+                    'Netflix', 'Gboard', 'Microsoft Launcher', 'Turbo Launcher', 'Chrooma', 'Fleksy',
                     'Launcher Oreo', 'Google Drive', 'MosaLingua', 'ATV Launcher', 'Total Launcher', 'Drivemode',
                     'German', 'Dropbox', 'Memrise', 'EMUI', 'Nougat Launcher', 'icons', 'X Launcher', 'Arc Launcher',
                     'CM Launcher', 'KWGT', 'Pie Launcher', 'POCO Launcher', 'Portuguese', 'Indonesian', 'Chinese',
@@ -117,5 +117,5 @@ class SeashellMobilism:
         return not linkhref.startswith(self.lkws)
 
 
-mob = SeashellMobilism("Sep 4th, 2018, 7:32 pm")
+mob = SeashellMobilism("Sep 7th, 2018, 1:55 pm")
 mob.process()
