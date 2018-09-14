@@ -20,23 +20,24 @@ class SeashellMobilism:
                     'Romanian', 'Latin', 'Filipino', 'Korean', 'S8 Launcher', 'Language Learning', 'Prayer']
         self.lkws = ('http://www.opera.com', 'https://www.facebook.com', 'https://twitter.com', 'https://t.me',
                      'https://plus.google.com', 'http://www.audiomack.com', 'https://instagram.com',
-                     'https://www.instagram.com', 'https://docs.google.com', 'https://www.youtube.com',
-                     'http://twitter.com', 'http://www.bbc.co.uk', 'http://www.fotmob.com', 'http://www.facebook.com',
-                     'http://www.machapp.net', 'http://machapp.net', 'http://www.reactle.com',
-                     'http://developer.samsung.com', 'https://icons8.com', 'http://www.camscanner.com',
-                     'http://www.elephantsdream.org', 'http://www.bigbuckbunny.org', 'http://forum.xda-developers.com',
-                     'http://tubemate.net', 'https://books.fbreader.org', 'http://truecaller.com/',
-                     'http://iconhandbook.co.uk', 'http://talk.sonymobile.com', 'https://powerbrowserapp.com',
-                     'http://wordswag.co', 'https://travel.sygic.com', 'http://www.mycarly.com',
-                     'http://support.mycarly.com', 'http://yatse.tv', 'http://kodi.tv', 'http://creativecommons.org',
-                     'https://www.boutiqueobdfacile.com', 'http://www.outilsobdfacile.com', 'http://bit.ly',
-                     'http://ugl.flashlight.de', 'http://www.adobe.com', 'http://www.fstopapp.com',
-                     'http://gromaudio.com', 'http://tubemate.net', 'https://youtu.be', 'https://paranoiaworks.mobi',
-                     'https://pteo.paranoiaworks.mobi', 'http://www.caristaapp.com', 'http://www.caristaapp.com',
-                     'http://www.ipndata.sk', 'https://play.google.com', 'https://morecast.com',
-                     'http://www.morecast.com', 'http://www.polarisoffice.com', 'https://getsatisfaction.com',
-                     'http://neutronmp.com', 'http://forum.bsplayer.com', 'http://www.waze.com',
-                     'http://www.fstopapp.com', 'https://github.com')
+                     'https://www.instagram.com', 'http://instagram.com', 'https://docs.google.com',
+                     'https://www.youtube.com', 'http://twitter.com', 'http://www.bbc.co.uk', 'http://www.fotmob.com',
+                     'http://www.facebook.com', 'http://www.machapp.net', 'http://machapp.net',
+                     'http://www.reactle.com', 'http://developer.samsung.com', 'https://icons8.com',
+                     'http://www.camscanner.com', 'http://www.elephantsdream.org', 'http://www.bigbuckbunny.org',
+                     'http://forum.xda-developers.com', 'http://tubemate.net', 'https://books.fbreader.org',
+                     'http://truecaller.com/', 'http://iconhandbook.co.uk', 'http://talk.sonymobile.com',
+                     'https://powerbrowserapp.com', 'http://wordswag.co', 'https://travel.sygic.com',
+                     'http://www.mycarly.com', 'http://support.mycarly.com', 'http://yatse.tv', 'http://kodi.tv',
+                     'http://creativecommons.org', 'https://www.boutiqueobdfacile.com',
+                     'http://www.outilsobdfacile.com', 'http://bit.ly', 'http://ugl.flashlight.de',
+                     'http://www.adobe.com', 'http://www.fstopapp.com', 'http://gromaudio.com', 'http://tubemate.net',
+                     'https://youtu.be', 'https://paranoiaworks.mobi', 'https://pteo.paranoiaworks.mobi',
+                     'http://www.caristaapp.com', 'http://www.caristaapp.com', 'http://www.ipndata.sk',
+                     'https://play.google.com', 'https://morecast.com', 'http://www.morecast.com',
+                     'http://www.polarisoffice.com', 'https://getsatisfaction.com', 'http://neutronmp.com',
+                     'http://forum.bsplayer.com', 'http://www.waze.com', 'http://www.fstopapp.com',
+                     'https://github.com', 'http://tasks.org')
 
     def process(self):
         driver = webdriver.Firefox()
@@ -117,5 +118,5 @@ class SeashellMobilism:
         return not linkhref.startswith(self.lkws)
 
 
-mob = SeashellMobilism("Sep 7th, 2018, 1:55 pm")
+mob = SeashellMobilism("Sep 11th, 2018, 1:57 pm")
 mob.process()
