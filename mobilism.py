@@ -42,8 +42,8 @@ class SeashellMobilism:
     def process(self):
         driver = webdriver.Firefox()
         drv = webdriver.Firefox()
-        driver.implicitly_wait(30)
-        drv.implicitly_wait(30)
+        driver.implicitly_wait(10)
+        drv.implicitly_wait(10)
 
         f = open('urls1.txt', 'a', encoding="utf-8")
 
@@ -118,5 +118,5 @@ class SeashellMobilism:
         return not linkhref.startswith(self.lkws)
 
 
-mob = SeashellMobilism("Sep 11th, 2018, 1:57 pm")
+mob = SeashellMobilism("Sep 14th, 2018, 3:02 pm")
 mob.process()
