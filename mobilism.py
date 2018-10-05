@@ -37,14 +37,13 @@ class SeashellMobilism:
                      'https://play.google.com', 'https://morecast.com', 'http://www.morecast.com',
                      'http://www.polarisoffice.com', 'https://getsatisfaction.com', 'http://neutronmp.com',
                      'http://forum.bsplayer.com', 'http://www.waze.com', 'http://www.fstopapp.com',
-                     'https://github.com', 'http://tasks.org')
+                     'https://github.com', 'http://tasks.org', 'http://www.flaticon', 'http://www.garmin.com',
+                     'http://www.navigon.com', 'https://zenmate.com','https://facebook.com','https://vk.com','http://youtu.be')
 
     def process(self):
 
-
         # driver = webdriver.PhantomJS(service_args=['--load-images=no'])
         # drv = webdriver.PhantomJS(service_args=['--load-images=no'])
-
 
         # firefox_profile = webdriver.FirefoxProfile()
         # firefox_profile.set_preference('permissions.default.image', 2)
@@ -55,13 +54,11 @@ class SeashellMobilism:
         # drv = webdriver.Firefox(firefox_profile=firefox_profile,firefox_options=options)
 
         options = webdriver.ChromeOptions()
-        prefs = {'profile.managed_default_content_settings.images':2}
+        prefs = {'profile.managed_default_content_settings.images': 2}
         options.add_experimental_option("prefs", prefs)
         options.add_argument("--headless")
         driver = webdriver.Chrome(chrome_options=options)
         drv = webdriver.Chrome(chrome_options=options)
-
-
 
         driver.implicitly_wait(10)
         drv.implicitly_wait(10)
@@ -141,5 +138,5 @@ class SeashellMobilism:
 
 mob = SeashellMobilism("Oct 2nd, 2018, 7:40 pm")
 mob.process()
-#https://forum.mobilism.org/viewforum.php?f=399
-#https://forum.mobilism.org/viewtopic.php?f=427&t=2782547
+# https://forum.mobilism.org/viewforum.php?f=399
+# https://forum.mobilism.org/viewtopic.php?f=427&t=2782547
