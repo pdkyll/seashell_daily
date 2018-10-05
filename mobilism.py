@@ -38,7 +38,8 @@ class SeashellMobilism:
                      'http://www.polarisoffice.com', 'https://getsatisfaction.com', 'http://neutronmp.com',
                      'http://forum.bsplayer.com', 'http://www.waze.com', 'http://www.fstopapp.com',
                      'https://github.com', 'http://tasks.org', 'http://www.flaticon', 'http://www.garmin.com',
-                     'http://www.navigon.com', 'https://zenmate.com','https://facebook.com','https://vk.com','http://youtu.be')
+                     'http://www.navigon.com', 'https://zenmate.com', 'https://facebook.com', 'https://vk.com',
+                     'http://youtu.be', 'http://code.google.com', 'https://market.android.com')
 
     def process(self):
 
