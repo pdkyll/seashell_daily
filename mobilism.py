@@ -52,7 +52,7 @@ class SeashellMobilism:
         # options = webdriver.FirefoxOptions()
         # options.add_argument("--headless")
         # driver = webdriver.Firefox(firefox_profile=firefox_profile,firefox_options=options)
-        # drv = webdriver.Chrome(chrome_options=options)
+        # drv = webdriver.Firefox(firefox_profile=firefox_profile,firefox_options=options)
 
         options = webdriver.ChromeOptions()
         prefs = {'profile.managed_default_content_settings.images':2}
