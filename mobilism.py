@@ -39,7 +39,10 @@ class SeashellMobilism:
                      'http://forum.bsplayer.com', 'http://www.waze.com', 'http://www.fstopapp.com',
                      'https://github.com', 'http://tasks.org', 'http://www.flaticon', 'http://www.garmin.com',
                      'http://www.navigon.com', 'https://zenmate.com', 'https://facebook.com', 'https://vk.com',
-                     'http://youtu.be', 'http://code.google.com', 'https://market.android.com')
+                     'http://youtu.be', 'http://code.google.com', 'https://market.android.com',
+                     'https://support.google.com', 'https://chrome.google.com', 'https://www.twitter.com',
+                     'http://www.qobuz.com', 'http://goo.gl', 'http://forum.mobilism.org', 'http://youtube.com',
+                     'http://sleep.urbandroid.org')
 
     def process(self):
 
@@ -137,7 +140,7 @@ class SeashellMobilism:
         return not linkhref.startswith(self.lkws)
 
 
-mob = SeashellMobilism("Oct 5th, 2018, 6:16 pm")
+mob = SeashellMobilism("Oct 9th, 2018, 9:40 pm")
 mob.process()
 # https://forum.mobilism.org/viewforum.php?f=399
-# https://forum.mobilism.org/viewtopic.php?f=1332&t=2788568
+# https://https://forum.mobilism.org/viewtopic.php?f=423&t=2792824
