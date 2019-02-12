@@ -20,8 +20,8 @@ class SeashellCoderprog:
         prefs = {'profile.managed_default_content_settings.images': 2}
         options.add_experimental_option("prefs", prefs)
         options.add_argument("--headless")
-        driver = webdriver.Chrome(chrome_options=options)
-        drv = webdriver.Chrome(chrome_options=options)
+        driver = webdriver.Chrome(options=options)
+        drv = webdriver.Chrome(options=options)
 
         driver.implicitly_wait(self.pt)
         drv.implicitly_wait(self.pt)
@@ -92,10 +92,5 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("Advances in Financial Machine Learning")
-#mob = SeashellCoderprog("Azure Administration: Implement and Manage Storage")
-
-
+mob = SeashellCoderprog("Regression Analysis for Statistics & Machine Learning in R")
 mob.process()
-# https://forum.mobilism.org/viewforum.php?f=399
-# https://forum.mobilism.org/viewtopic.php?f=438&t=2984511
