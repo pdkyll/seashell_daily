@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from datetime import datetime
 import re
-
+import time
 
 class Seashell0daydownT:
     def __init__(self, stopurl):
@@ -26,11 +26,11 @@ class Seashell0daydownT:
         driver.implicitly_wait(self.pt)
         drv.implicitly_wait(self.pt)
 
-        f = open('urls0daydown-Tutorials.txt', 'a', encoding="utf-8")
+        f = open('urls0daydown-Windows.txt', 'a', encoding="utf-8")
 
         i = 1
         while not self.done:
-            start_i = "https://www.0daydown.com/category/tutorials/page/" + str(i)
+            start_i = "https://www.0daydown.com/category/software/windows/page/" + str(i)
             print("\n")
             print(start_i)
             driver.get(start_i)
@@ -73,11 +73,20 @@ class Seashell0daydownT:
         elems = driver.find_elements_by_class_name("external")
 
         for e in elems:
-            f.write(e.get_attribute("href"))
+            dlink = e.get_attribute("href")
+
+            if "pan.baidu.com" in dlink:
+                f.write('###')
+                rstr = e.find_element_by_xpath('..').text.replace("链接: ", "").replace(" 密码: ", "\n")
+                f.write(rstr)
+                f.write('\n###')
+            else:
+                f.write(dlink)
             f.write('\n')
         f.write('\n')
+        time.sleep( 0.5 )
 
 
-mob = Seashell0daydownT("https://www.0daydown.com/02/997079.html")
-
+mob = Seashell0daydownT("https://www.0daydown.com/02/560891.html")
+#Cadence Allegro and OrCAD 17.20.000-2016 HF051 Update
 mob.process()
