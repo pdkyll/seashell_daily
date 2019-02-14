@@ -77,7 +77,11 @@ class Seashell0daydownT:
 
             if "pan.baidu.com" in dlink:
                 f.write('###')
-                rstr = e.find_element_by_xpath('..').text.replace("链接: ", "").replace(" 密码: ", "\n")
+                rstr = e.find_element_by_xpath('..').text \
+                    .replace("Download 百度云", "") \
+                    .replace("链接: ", "") \
+                    .replace(" 密码: ", "\n")\
+                    .replace(" 提取码: ", "\n")
                 f.write(rstr)
                 f.write('\n###')
             else:
