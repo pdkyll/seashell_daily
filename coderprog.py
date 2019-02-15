@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from datetime import datetime
 import re
-
+import time
 
 class SeashellCoderprog:
     def __init__(self, stoptitle):
@@ -45,6 +45,7 @@ class SeashellCoderprog:
                 print(elem.get_attribute("href"))
 
                 self.processitem(drv, elem, fb, fv)
+                time.sleep( 0.5 )
 
             i += 1
 
@@ -92,5 +93,5 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("Regression Analysis for Statistics & Machine Learning in R")
+mob = SeashellCoderprog("Analysis of Algorithms (Video Lectures)")
 mob.process()

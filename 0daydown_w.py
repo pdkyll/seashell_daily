@@ -49,7 +49,7 @@ class Seashell0daydownT:
                 #print(elem.get_attribute("href"))
 
                 self.processitem(drv, elem, f)
-
+                time.sleep( 0.5 )
             i += 1
 
         f.close()
@@ -88,9 +88,9 @@ class Seashell0daydownT:
                 f.write(dlink)
             f.write('\n')
         f.write('\n')
-        time.sleep( 0.5 )
 
 
-mob = Seashell0daydownT("https://www.0daydown.com/02/560891.html")
+
+mob = Seashell0daydownT("https://www.0daydown.com/02/997618.html")
 #Cadence Allegro and OrCAD 17.20.000-2016 HF051 Update
 mob.process()

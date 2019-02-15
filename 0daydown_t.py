@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from datetime import datetime
 import re
-
+import time
 
 class Seashell0daydownT:
     def __init__(self, stopurl):
@@ -49,7 +49,7 @@ class Seashell0daydownT:
                 #print(elem.get_attribute("href"))
 
                 self.processitem(drv, elem, f)
-
+                time.sleep( 0.5 )
             i += 1
 
         f.close()
@@ -78,6 +78,6 @@ class Seashell0daydownT:
         f.write('\n')
 
 
-mob = Seashell0daydownT("https://www.0daydown.com/02/997079.html")
+mob = Seashell0daydownT("https://www.0daydown.com/02/997838.html")
 
 mob.process()
