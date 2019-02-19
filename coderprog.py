@@ -40,6 +40,7 @@ class SeashellCoderprog:
                 title = elem.get_attribute("title")
                 if title == self.stoptitle:
                     self.done = True
+                    print("Meet last done")
                     break
 
                 print(elem.get_attribute("href"))

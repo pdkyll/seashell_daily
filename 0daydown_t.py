@@ -44,6 +44,7 @@ class Seashell0daydownT:
                 url = elem.get_attribute('href')
                 if url == self.stopurl:
                     self.done = True
+                    print("Meet last done")
                     break
 
                 #print(elem.get_attribute("href"))
@@ -78,6 +79,6 @@ class Seashell0daydownT:
         f.write('\n')
 
 
-mob = Seashell0daydownT("https://www.0daydown.com/02/997838.html")
+mob = Seashell0daydownT("https://www.0daydown.com/02/999332.html")
 
 mob.process()

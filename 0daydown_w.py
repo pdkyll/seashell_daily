@@ -44,6 +44,7 @@ class Seashell0daydownT:
                 url = elem.get_attribute('href')
                 if url == self.stopurl:
                     self.done = True
+                    print("Meet last done")
                     break
 
                 #print(elem.get_attribute("href"))
@@ -91,6 +92,6 @@ class Seashell0daydownT:
 
 
 
-mob = Seashell0daydownT("https://www.0daydown.com/02/997618.html")
+mob = Seashell0daydownT("https://www.0daydown.com/02/999459.html")
 #Cadence Allegro and OrCAD 17.20.000-2016 HF051 Update
 mob.process()
