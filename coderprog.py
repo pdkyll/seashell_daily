@@ -94,5 +94,5 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("Impractical Python Projects: Playful Programming Activities to Make You Smarter")
+mob = SeashellCoderprog("JavaScript Bible – Beginner JavaScript and ES6 Bootcamp 2019")
 mob.process()
