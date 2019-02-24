@@ -92,5 +92,5 @@ class Seashell0daydownT:
 
 
 
-mob = Seashell0daydownT("https://www.0daydown.com/02/1000616.html")
+mob = Seashell0daydownT("https://www.0daydown.com/02/1001971.html")
 mob.process()
