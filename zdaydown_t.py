@@ -6,6 +6,8 @@ from selenium.webdriver.common.keys import Keys
 from datetime import datetime
 import re
 import time
+from zdaydown_w import *
+
 
 class Seashell0daydownT:
     def __init__(self, stopurl):
@@ -26,11 +28,11 @@ class Seashell0daydownT:
         driver.implicitly_wait(self.pt)
         drv.implicitly_wait(self.pt)
 
-        f = open('urls0daydown-Windows.txt', 'a', encoding="utf-8")
+        f = open('urls-0daydown-Tutorials.txt', 'a', encoding="utf-8")
 
         i = 1
         while not self.done:
-            start_i = "https://www.0daydown.com/category/software/windows/page/" + str(i)
+            start_i = "https://www.0daydown.com/category/tutorials/page/" + str(i)
             print("\n")
             print(start_i)
             driver.get(start_i)
@@ -74,23 +76,12 @@ class Seashell0daydownT:
         elems = driver.find_elements_by_class_name("external")
 
         for e in elems:
-            dlink = e.get_attribute("href")
-
-            if "pan.baidu.com" in dlink:
-                f.write('###')
-                rstr = e.find_element_by_xpath('..').text \
-                    .replace("Download 百度云", "") \
-                    .replace("链接: ", "") \
-                    .replace(" 密码: ", "\n")\
-                    .replace(" 提取码: ", "\n")
-                f.write(rstr)
-                f.write('\n###')
-            else:
-                f.write(dlink)
+            f.write(e.get_attribute("href"))
             f.write('\n')
         f.write('\n')
 
 
-
-mob = Seashell0daydownT("https://www.0daydown.com/02/1001971.html")
+mob = Seashell0daydownT("https://www.0daydown.com/02/1004352.html")
+mob.process()
+mob = Seashell0daydownW("https://www.0daydown.com/02/1004335.html")
 mob.process()
