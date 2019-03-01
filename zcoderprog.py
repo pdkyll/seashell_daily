@@ -94,5 +94,5 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("JavaScript Bible – Beginner JavaScript and ES6 Bootcamp 2019")
+mob = SeashellCoderprog("Testing Vue.js Applications")
 mob.process()
