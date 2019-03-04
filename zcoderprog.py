@@ -94,5 +94,5 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("Testing Vue.js Applications")
+mob = SeashellCoderprog("Building a Paid Membership Site with Django")
 mob.process()
