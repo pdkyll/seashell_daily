@@ -94,5 +94,5 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("Building a Paid Membership Site with Django")
+mob = SeashellCoderprog("Computer Graphics Programming in OpenGL with JAVA, 2nd Edition")
 mob.process()
