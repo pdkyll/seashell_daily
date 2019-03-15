@@ -94,5 +94,5 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("Computer Graphics Programming in OpenGL with JAVA, 2nd Edition")
+mob = SeashellCoderprog("Real-Time Software Design for Embedded Systems")
 mob.process()
