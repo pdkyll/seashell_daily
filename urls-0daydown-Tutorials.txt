@@ -1,939 +1,1118 @@
 **************************************************
-Amazon Machine Learning
-https://www.0daydown.com/03/1013998.html
+Become a High Earning Cloud Architect
+https://www.0daydown.com/03/1016903.html
 **************************************************
-https://rg.to/file/fd2e56767947f61942e2712836087c87/AmazMagLer.part01.rar.html
-https://rg.to/file/0a3d01efd0a4b3c8ca297033e5815244/AmazMagLer.part02.rar.html
-https://rg.to/file/74643fc69dcb82e1a5f2391d532f48b9/AmazMagLer.part03.rar.html
-https://rg.to/file/c0e23aed8df6e71457963a7258dc5314/AmazMagLer.part04.rar.html
-https://rg.to/file/0fc462ed0bb24af1de6e0824d1f6d057/AmazMagLer.part05.rar.html
-https://rg.to/file/e9dddaaccb7c23aa3037c761868e41cd/AmazMagLer.part06.rar.html
-https://rg.to/file/80791f08d7901e8ba11b5e3f0b598427/AmazMagLer.part07.rar.html
-https://rg.to/file/58a3620ecaae29a58e0fe50a8a6e4088/AmazMagLer.part08.rar.html
-https://rg.to/file/3ca512727ae41db330b495570f8fe76b/AmazMagLer.part09.rar.html
-https://rg.to/file/05b5131c22268f493a402adda67f23ee/AmazMagLer.part09.rar.html
-https://rg.to/file/82c295eb13c3b67f6ec40ccc604ee05a/AmazMagLer.part10.rar.html
-https://rg.to/file/1948fcfb8ceef29915b4091ef9447152/AmazMagLer.part10.rar.html
-https://rg.to/file/fe5cd79036c3a13c6a0b8cab663160fd/AmazMagLer.part11.rar.html
-https://rg.to/file/7b7cfb392fcd45c83914f311938bcba1/AmazMagLer.part12.rar.html
-https://rg.to/file/5dd9882caad7ce7098b307a0eaee770f/AmazMagLer.part13.rar.html
-https://rg.to/file/4118fa6d5c3f66e1f9e9a1729f6eb71d/AmazMagLer.part14.rar.html
-https://rg.to/file/e8c159326094f28a831e3c7f041fa559/AmazMagLer.part15.rar.html
-https://rg.to/file/3d3ce70dc0b938dbcd1da1e605410c66/AmazMagLer.part16.rar.html
-https://rg.to/file/4bea234f9a0f4e651fde7482ef4918c3/AmazMagLer.part17.rar.html
-https://rg.to/file/046ad7c05d503ee45c7fb3c2f7a11ce0/AmazMagLer.part18.rar.html
-https://rg.to/file/6f5c12bbcbded9bd73195086b1cecdb8/AmazMagLer.part19.rar.html
-https://rg.to/file/98c400d05ce7f1ce493e838c43b512dd/AmazMagLer.part20.rar.html
-https://rg.to/file/2024f74720e03361abb15ea8f0c97855/AmazMagLer.part21.rar.html
-https://rg.to/file/ec97ad2f72467356b7e4de2662be6e95/AmazMagLer.part22.rar.html
-https://rg.to/file/a5c6a9e8e96466f91553f24b78fa2698/AmazMagLer.part23.rar.html
-https://nitroflare.com/view/24AA5A68064607B/AmazMagLer.part01.rar
-https://nitroflare.com/view/54330233F65271F/AmazMagLer.part02.rar
-https://nitroflare.com/view/3E0C4164F19D98D/AmazMagLer.part03.rar
-https://nitroflare.com/view/A875AAA929652C3/AmazMagLer.part04.rar
-https://nitroflare.com/view/37BE0B227059334/AmazMagLer.part05.rar
-https://nitroflare.com/view/A2823A1A4D6A08A/AmazMagLer.part06.rar
-https://nitroflare.com/view/2235992FA012CDA/AmazMagLer.part07.rar
-https://nitroflare.com/view/946B437239B36B5/AmazMagLer.part08.rar
-https://nitroflare.com/view/587869C5C87D428/AmazMagLer.part09.rar
-https://nitroflare.com/view/8B5415BC138CE90/AmazMagLer.part10.rar
-https://nitroflare.com/view/EB7BBEDF3CB8F29/AmazMagLer.part11.rar
-https://nitroflare.com/view/313816A43F9702C/AmazMagLer.part12.rar
-https://nitroflare.com/view/75EB45CA65F50A4/AmazMagLer.part13.rar
-https://nitroflare.com/view/DDEE4B9AE0AFEFD/AmazMagLer.part14.rar
-https://nitroflare.com/view/A4193032A19AA49/AmazMagLer.part15.rar
-https://nitroflare.com/view/7D20FE09871555E/AmazMagLer.part16.rar
-https://nitroflare.com/view/3EBE2AEDC531BBC/AmazMagLer.part17.rar
-https://nitroflare.com/view/5DA60848FEF1933/AmazMagLer.part18.rar
-https://nitroflare.com/view/74C48304EB182A0/AmazMagLer.part19.rar
-https://nitroflare.com/view/91EE8B1EF500B80/AmazMagLer.part20.rar
-https://nitroflare.com/view/99DDBF3ED7B37E8/AmazMagLer.part21.rar
-https://nitroflare.com/view/E735D416EA92920/AmazMagLer.part22.rar
-https://nitroflare.com/view/07299FFE241E9DF/AmazMagLer.part23.rar
+https://rg.to/file/3adadb4f2295b7cab080c075a9bc8bc0/Become_a_High_Earning_Cloud_Architect.part1.rar.html
+https://rg.to/file/eab1b3b999d5050f00ccc0ebce0aea36/Become_a_High_Earning_Cloud_Architect.part2.rar.html
+https://rg.to/file/3f8368ff0779f03a176ca57462ccef38/Become_a_High_Earning_Cloud_Architect.part3.rar.html
+https://rg.to/file/4d79afab7e5f3e19d27812733f56794d/Become_a_High_Earning_Cloud_Architect.part4.rar.html
+https://nitroflare.com/view/50E341AB3B4CCC0/Become_a_High_Earning_Cloud_Architect.part1.rar
+https://nitroflare.com/view/427F4875303D087/Become_a_High_Earning_Cloud_Architect.part2.rar
+https://nitroflare.com/view/022C97534FC8E53/Become_a_High_Earning_Cloud_Architect.part3.rar
+https://nitroflare.com/view/EF20C5C569634B8/Become_a_High_Earning_Cloud_Architect.part4.rar
 
 **************************************************
-The Trusted Committer Role in InnerSource
-https://www.0daydown.com/03/1014000.html
+Autodesk Inventor 2020 Essential Training
+https://www.0daydown.com/03/1016921.html
 **************************************************
-https://rg.to/file/bc1392c3aeb9dd70bab820cf050978c7/TTrusRoInt.part1.rar.html
-https://rg.to/file/7c8cb0b71e04e6d95326605463344fac/TTrusRoInt.part2.rar.html
-https://rg.to/file/dc6579694a29f9c7201404192f431476/TTrusRoInt.part3.rar.html
-https://rg.to/file/cd676d48423b2c2906d99cc2f1a0fe71/TTrusRoInt.part4.rar.html
-https://rg.to/file/498b7c039cb558c65b001675303fe989/TTrusRoInt.part5.rar.html
-https://nitroflare.com/view/1DAB574A834F385/TTrusRoInt.part1.rar
-https://nitroflare.com/view/E0C0860228E95BB/TTrusRoInt.part2.rar
-https://nitroflare.com/view/5A7610419CD814E/TTrusRoInt.part3.rar
-https://nitroflare.com/view/7454B4095149839/TTrusRoInt.part4.rar
-https://nitroflare.com/view/2AE81680A78E3C4/TTrusRoInt.part5.rar
+https://rg.to/file/190f48011845da84ef99c1e2ff2a5742/Autodesk_Inventor_2020_Essential_Training.part1.rar.html
+https://rg.to/file/28f9f34edb3bb44b2e2939db308244f3/Autodesk_Inventor_2020_Essential_Training.part2.rar.html
+https://nitroflare.com/view/514FD6A7E078302/Autodesk_Inventor_2020_Essential_Training.part1.rar
+https://nitroflare.com/view/A67AF4E4902C132/Autodesk_Inventor_2020_Essential_Training.part2.rar
 
 **************************************************
-Data Structures and Algorithms in python
-https://www.0daydown.com/03/1014022.html
+AutoCAD 2020 Essential Training
+https://www.0daydown.com/03/1016895.html
 **************************************************
-https://rg.to/file/80762d047a818c655139ea349181baf0/Data_Structures_and_Algorithms_in_python.part1.rar.html
-https://rg.to/file/c6e5222774be9099a7fe000986ff9700/Data_Structures_and_Algorithms_in_python.part2.rar.html
-https://rg.to/file/59acd179c831dd9ca04234e553f5f6f3/Data_Structures_and_Algorithms_in_python.part3.rar.html
-https://nitroflare.com/view/3935F8294858EBC/Data_Structures_and_Algorithms_in_python.part1.rar
-https://nitroflare.com/view/13C0D896B6F8CD7/Data_Structures_and_Algorithms_in_python.part2.rar
-https://nitroflare.com/view/E370169ED932385/Data_Structures_and_Algorithms_in_python.part3.rar
+https://www.lynda.com/AutoCAD-tutorials/Design-build-powerful-drawings-AutoCAD-Electrical/806149/2800522-4.html%5B/caption%5D
+https://www.lynda.com/AutoCAD-tutorials/AutoCAD-2020-Essential-Training/784284-2.html
+https://rg.to/file/b20d55ef41560a2fdb40bbe186a7ce0d/AutoCAD_2020_Essential_Training.rar.html
+https://nitroflare.com/view/36F9A027BB911C1/AutoCAD_2020_Essential_Training.rar
 
 **************************************************
-User Interface & User Experience Design (UI/UX) w/ Adobe XD
-https://www.0daydown.com/03/1014026.html
+Character Modeling in Blender 2.7 - 3D modeling with Blender
+https://www.0daydown.com/03/1016956.html
 **************************************************
-https://rg.to/file/8cb71c2a310808ceb5c4e6b1c066f0ef/User_Interface_&_User_Experience_Design_(UIUX)_w_Adobe_XD.part1.rar.html
-https://rg.to/file/53df450bedc0542e5c67fce3560bd955/User_Interface_&_User_Experience_Design_(UIUX)_w_Adobe_XD.part2.rar.html
-https://rg.to/file/1f27acb4f1c39ca7d87b092cb6848d49/User_Interface_&_User_Experience_Design_(UIUX)_w_Adobe_XD.part3.rar.html
-https://rg.to/file/58bfb302948dcaa47f99ba4fe199a1a4/User_Interface_&_User_Experience_Design_(UIUX)_w_Adobe_XD.part4.rar.html
-https://rg.to/file/71d2e87641fd92a3f4a4981c1c8b3240/User_Interface_&_User_Experience_Design_(UIUX)_w_Adobe_XD.part5.rar.html
-https://nitroflare.com/view/8F415EA6CBF97FA/User_Interface_%26_User_Experience_Design_%28UIUX%29_w_Adobe_XD.part1.rar
-https://nitroflare.com/view/58FE479F2E03573/User_Interface_%26_User_Experience_Design_%28UIUX%29_w_Adobe_XD.part2.rar
-https://nitroflare.com/view/37B734FF6ACB4EF/User_Interface_%26_User_Experience_Design_%28UIUX%29_w_Adobe_XD.part3.rar
-https://nitroflare.com/view/E44CC31AB6385A0/User_Interface_%26_User_Experience_Design_%28UIUX%29_w_Adobe_XD.part4.rar
-https://nitroflare.com/view/C431A9BFB3FC513/User_Interface_%26_User_Experience_Design_%28UIUX%29_w_Adobe_XD.part5.rar
+https://rg.to/file/791294888717f7d8bb1dba6d4cb549c9/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part01.rar.html
+https://rg.to/file/0b9ec3b5fdf3891793edf494a2f8820d/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part02.rar.html
+https://rg.to/file/c5c95001d8abd6d89193aa7ced5da453/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part03.rar.html
+https://rg.to/file/ea9adabd6c27ab21ab401b0afcfa9171/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part04.rar.html
+https://rg.to/file/0aae3134f60614d69e4121dc6667d2b0/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part05.rar.html
+https://rg.to/file/9610d4ce25b6f072177eb08c18cfd59d/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part06.rar.html
+https://rg.to/file/fc67a7417c685d42156b67cacb338c96/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part07.rar.html
+https://rg.to/file/7cbd8e5bb23a3836157fd8bd6d61dd27/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part08.rar.html
+https://rg.to/file/7c1b54de9b8dbf0d3bc4fdac59fbc88e/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part09.rar.html
+https://rg.to/file/8c1f080f1918ff7d3f3879a2ad5d821a/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part10.rar.html
+https://rg.to/file/79269dd496e0cc2c83af77c75e5e8af6/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part11.rar.html
+https://rg.to/file/2f891114bca26b8f3af0a495693d3942/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part12.rar.html
+https://rg.to/file/dc795f6e826c424770dc41e119cdf501/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part13.rar.html
+https://rg.to/file/cd8fff165f81ef09a5ac35273c2b620b/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part14.rar.html
+https://nitroflare.com/view/8414540FE193EC7/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part01.rar
+https://nitroflare.com/view/6D39E70A6A0E091/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part02.rar
+https://nitroflare.com/view/102E56984A56846/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part03.rar
+https://nitroflare.com/view/CDE7C00701B5AC2/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part04.rar
+https://nitroflare.com/view/9A168E629EDCBB1/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part05.rar
+https://nitroflare.com/view/38F64B3D8BE35E2/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part06.rar
+https://nitroflare.com/view/63A2D9FB673CBAA/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part07.rar
+https://nitroflare.com/view/FCD914EEC39186F/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part08.rar
+https://nitroflare.com/view/CDC967559F4FAA0/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part09.rar
+https://nitroflare.com/view/3BB29419BD10243/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part10.rar
+https://nitroflare.com/view/58428CDEBE3BCEE/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part11.rar
+https://nitroflare.com/view/E073B8DB6BA57D3/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part12.rar
+https://nitroflare.com/view/A4D8D2174197D7D/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part13.rar
+https://nitroflare.com/view/C5B1F67AEE52C6B/Character_Modeling_in_Blender_2.7_-_3D_modeling_with_Blender.part14.rar
 
 **************************************************
-Mastering SQL (Using MySQL, Java, and Go)
-https://www.0daydown.com/03/1013925.html
+Lynda – Learning Mastercam for SOLIDWORKS
+https://www.0daydown.com/03/1016847.html
 **************************************************
-https://rg.to/file/a318a90e4ad855dd5336c829be066588/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/cfe6d8b4e171b15cd8463f4cb2f04668/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/3fa1149c16d38b3722650e1c2f3e73f6/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/e592a105619dd2466b45abcddc61287f/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/40c20611197b2a034d7d8467cf0f795d/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/796cb873ee240bb2d1a2a2be9c863c18/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/856a2b0c872f29b70d5adbdf4435a0fe/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/5d26b6df95c34d7772786de78cb25999/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/1c77a12f8a18e37ea570d7d29da29a29/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/54a20162b87690f5986112c1c9fe3c6a/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/affb96aef0adc26422d9f85ca84dec0d/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/b16b6db9745b12a8dfa33133385fd887/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/b3f75ad341e932482d881e2681ba335c/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/0e5a4485d3dae9dec0fcf7abfc7338ab/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/91ec7237bab68a609f6a78c14e21cd35/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/c60427ffd351415351e4678ab9abe4bf/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://rg.to/file/c998104423295f801e2236cd881f46bf/Mastering_SQL_(Using_MySQL_Java_and_Go)
-https://nitroflare.com/view/81CD5292AEA104F/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part01.rar
-https://nitroflare.com/view/D8A8BE3A75F2419/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part02.rar
-https://nitroflare.com/view/0ECC2F1CB9CB88F/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part03.rar
-https://nitroflare.com/view/870F92F262D2FC6/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part04.rar
-https://nitroflare.com/view/B31E72C013D1ACE/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part05.rar
-https://nitroflare.com/view/26CAD5F10E20D76/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part06.rar
-https://nitroflare.com/view/CC0196BC92E36BE/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part07.rar
-https://nitroflare.com/view/EC43B70A1444146/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part08.rar
-https://nitroflare.com/view/9DB33D19FEB7BA6/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part09.rar
-https://nitroflare.com/view/CDE84FC1A479619/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part10.rar
-https://nitroflare.com/view/FFAA07205ACCE46/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part11.rar
-https://nitroflare.com/view/0A90D6457F9187B/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part12.rar
-https://nitroflare.com/view/470B65DE7A9AF55/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part13.rar
-https://nitroflare.com/view/CA60FE39712B571/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part14.rar
-https://nitroflare.com/view/1E425220E5E6FA3/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part15.rar
-https://nitroflare.com/view/78BE565B68501FC/Mastering_SQL_%28Using_MySQL_Java_and_Go%29.part16.rar
+https://rg.to/file/0391bd4a87c760a126716030cbb2a0a3/LcLearnMastercamSOLIDWORKS.rar.html
+https://nitroflare.com/view/54033AFEA99A299/LcLearnMastercamSOLIDWORKS.rar
 
 **************************************************
-Mathematics for Computer Games Development using Unity
-https://www.0daydown.com/03/1013927.html
+CISSP Certification Domain 4: Communication and Network Security Video Boot Camp 2019
+https://www.0daydown.com/03/1016724.html
 **************************************************
-https://www.udemy.com/games_mathematics/
-https://rg.to/file/9df6824dc65534873219f2a0f5b599dd/Mathematics_for_Computer_Games_Development_using_Unity.part01.rar.html
-https://rg.to/file/6e830e3e352ce8177b81bc20b1e9c94a/Mathematics_for_Computer_Games_Development_using_Unity.part02.rar.html
-https://rg.to/file/8feeffda8a5ee5b86ae2a570f5ba273a/Mathematics_for_Computer_Games_Development_using_Unity.part03.rar.html
-https://rg.to/file/977debef00b10b579bf9cbd1b18252cb/Mathematics_for_Computer_Games_Development_using_Unity.part04.rar.html
-https://rg.to/file/bf329801814a1bdea06247f4acb64368/Mathematics_for_Computer_Games_Development_using_Unity.part05.rar.html
-https://rg.to/file/0e058de8a07df5886be0fbef4f6cace1/Mathematics_for_Computer_Games_Development_using_Unity.part06.rar.html
-https://rg.to/file/81d3147a9da2e76e0eda4255f25c84f6/Mathematics_for_Computer_Games_Development_using_Unity.part07.rar.html
-https://rg.to/file/2745a681ff890e45f84c0d06e8485433/Mathematics_for_Computer_Games_Development_using_Unity.part08.rar.html
-https://rg.to/file/246a9f08b20ae0dcb95fbd26ea3acedd/Mathematics_for_Computer_Games_Development_using_Unity.part09.rar.html
-https://rg.to/file/d9eaa1880b9cb588091aaf6da9405ba6/Mathematics_for_Computer_Games_Development_using_Unity.part10.rar.html
-https://rg.to/file/3452c28d84577863a80c805f5a41cbb9/Mathematics_for_Computer_Games_Development_using_Unity.part10.rar.html
-https://rg.to/file/ee789571d14934673729875ada7b949c/Mathematics_for_Computer_Games_Development_using_Unity.part11.rar.html
-https://rg.to/file/f881b9f7a8b5370c6efe57555daecda8/Mathematics_for_Computer_Games_Development_using_Unity.part12.rar.html
-https://rg.to/file/793a101d013c03b10147d8a428b548f6/Mathematics_for_Computer_Games_Development_using_Unity.part13.rar.html
-https://rg.to/file/055ffb35973d452cd075211931805b63/Mathematics_for_Computer_Games_Development_using_Unity.part14.rar.html
-https://nitroflare.com/view/A64C076A79F0156/Mathematics_for_Computer_Games_Development_using_Unity.part01.rar
-https://nitroflare.com/view/101DD1D6CF9208C/Mathematics_for_Computer_Games_Development_using_Unity.part02.rar
-https://nitroflare.com/view/FA5013A9356F2FE/Mathematics_for_Computer_Games_Development_using_Unity.part03.rar
-https://nitroflare.com/view/77BB8423F259D5E/Mathematics_for_Computer_Games_Development_using_Unity.part04.rar
-https://nitroflare.com/view/CB2B3CEA9C77BFB/Mathematics_for_Computer_Games_Development_using_Unity.part05.rar
-https://nitroflare.com/view/2CB215EAFBCE0A9/Mathematics_for_Computer_Games_Development_using_Unity.part06.rar
-https://nitroflare.com/view/D675CAE399D9FB6/Mathematics_for_Computer_Games_Development_using_Unity.part07.rar
-https://nitroflare.com/view/B00C2F235E8F52C/Mathematics_for_Computer_Games_Development_using_Unity.part08.rar
-https://nitroflare.com/view/5354E59EC7788F4/Mathematics_for_Computer_Games_Development_using_Unity.part09.rar
-https://nitroflare.com/view/78482245E538920/Mathematics_for_Computer_Games_Development_using_Unity.part10.rar
-https://nitroflare.com/view/67412B67A5EE7A2/Mathematics_for_Computer_Games_Development_using_Unity.part11.rar
-https://nitroflare.com/view/670BE13E043A9A3/Mathematics_for_Computer_Games_Development_using_Unity.part12.rar
-https://nitroflare.com/view/24DF42E7A05FC62/Mathematics_for_Computer_Games_Development_using_Unity.part13.rar
-https://nitroflare.com/view/EA392585A2F63A4/Mathematics_for_Computer_Games_Development_using_Unity.part14.rar
+https://rg.to/file/befc8b6100a513c733fb391c7d5da1f4/CISSP_Certification_Domain_4.part1.rar.html
+https://rg.to/file/dcfa89f75e693759ee6225c3d2442dca/CISSP_Certification_Domain_4.part2.rar.html
+https://nitroflare.com/view/330DB31C193515E/CISSP_Certification_Domain_4.part1.rar
+https://nitroflare.com/view/230BC18C68ACC22/CISSP_Certification_Domain_4.part2.rar
 
 **************************************************
-Skillshare – How to UV Unwrap Anything in Blender
-https://www.0daydown.com/03/1014095.html
+CompTIA A+ (220-1001): Cert Prep 1 The Basics
+https://www.0daydown.com/03/1016714.html
 **************************************************
-https://rg.to/file/cb78cc073f28f8c582dc6ba027fd2800/SkSHowtoUVUnwrapAnythinginBlender.part1.rar.html
-https://rg.to/file/4eb93d989957d7623c43b4f76fb9fce8/SkSHowtoUVUnwrapAnythinginBlender.part2.rar.html
-https://rg.to/file/097bef1e9afa0437390e1029d8083cff/SkSHowtoUVUnwrapAnythinginBlender.part3.rar.html
-https://nitroflare.com/view/C094B939413420C/SkSHowtoUVUnwrapAnythinginBlender.part1.rar
-https://nitroflare.com/view/994C7EBA5084C80/SkSHowtoUVUnwrapAnythinginBlender.part2.rar
-https://nitroflare.com/view/3936B6B58E0651A/SkSHowtoUVUnwrapAnythinginBlender.part3.rar
+https://certification.comptia.org/certifications
+https://rg.to/file/759abaebe1b6b0dbc3fe1e1e6fb0ecf2/CompTIA_A_(U-1001)__Cert_Prep_1_The_Basics.part1.rar.html
+https://rg.to/file/bc8c638e9ee56cd91c7e26eac60ce03c/CompTIA_A_(U-1001)__Cert_Prep_1_The_Basics.part2.rar.html
+https://rg.to/file/c3304eba305bd52ea194f33e54ddf606/CompTIA_A_(U-1001)__Cert_Prep_1_The_Basics.part3.rar.html
+https://nitroflare.com/view/3E0D95A0CAE6E3E/CompTIA_A_%28U-1001%29__Cert_Prep_1_The_Basics.part1.rar
+https://nitroflare.com/view/2E6C26FD726A836/CompTIA_A_%28U-1001%29__Cert_Prep_1_The_Basics.part2.rar
+https://nitroflare.com/view/0CEBA70846674E0/CompTIA_A_%28U-1001%29__Cert_Prep_1_The_Basics.part3.rar
 
 **************************************************
-Gumroad – Advanced Sketching with 3D by Eytan Zana
-https://www.0daydown.com/03/1014096.html
+3ds Max 2020 Essential Training
+https://www.0daydown.com/03/1016919.html
 **************************************************
-https://rg.to/file/39873fd8be52a5640f71ef861cce6f2d/GRAdvancedSketchingwith3D.part1.rar.html
-https://rg.to/file/aed59a0869c5538b7acf791c347efc70/GRAdvancedSketchingwith3D.part2.rar.html
-https://rg.to/file/d13cdab1f1ea87e1008f1562bbb89b8f/GRAdvancedSketchingwith3D.part3.rar.html
-https://rg.to/file/ace350b7c6cec56d4220e2798a809fec/GRAdvancedSketchingwith3D.part4.rar.html
-https://nitroflare.com/view/3EFE806775A7E76/GRAdvancedSketchingwith3D.part1.rar
-https://nitroflare.com/view/7F28F731D81ACE4/GRAdvancedSketchingwith3D.part2.rar
-https://nitroflare.com/view/9ED912EA7277C06/GRAdvancedSketchingwith3D.part3.rar
-https://nitroflare.com/view/08A3B85BD9CD0F2/GRAdvancedSketchingwith3D.part4.rar
+https://rg.to/file/93deac9dbc9c658f84462f682da3de58/3ds_Max_2020_Essential_Training.part1.rar.html
+https://rg.to/file/7ad69a5ad2ff48d6ee4b9d47ffca6d2f/3ds_Max_2020_Essential_Training.part2.rar.html
+https://rg.to/file/e1d511c689d6c558f9b9c094cf5f1900/3ds_Max_2020_Essential_Training.part3.rar.html
+https://nitroflare.com/view/CEC15B27562ECBD/3ds_Max_2020_Essential_Training.part1.rar
+https://nitroflare.com/view/46F6C7A5E7A14BD/3ds_Max_2020_Essential_Training.part2.rar
+https://nitroflare.com/view/920EFD416B7D956/3ds_Max_2020_Essential_Training.part3.rar
 
 **************************************************
-JAVA Programming MASTERCLASS - 50+ Hours - JAVA For Beginner
-https://www.0daydown.com/03/1013737.html
+READY TO USE form validation templates with jQuery
+https://www.0daydown.com/03/1016634.html
 **************************************************
-https://rg.to/file/12eee53963e8712d5d3bfd113f6a795d/50.Hours.JAVA_For_Beginner.Part.one.part01.rar.html
-https://rg.to/file/951fea3bdaca22039983ba148333e69d/50.Hours.JAVA_For_Beginner.Part.one.part02.rar.html
-https://rg.to/file/7ec00c0468652b909ba3569e2d4d96b5/50.Hours.JAVA_For_Beginner.Part.one.part03.rar.html
-https://rg.to/file/2095678234e05737c317464b0e8d0e2b/50.Hours.JAVA_For_Beginner.Part.one.part04.rar.html
-https://rg.to/file/95b2cc83d2d44ede30f7c9a27acf6d51/50.Hours.JAVA_For_Beginner.Part.one.part05.rar.html
-https://rg.to/file/42b28cf52f58719d6ccba573c1a08ba2/50.Hours.JAVA_For_Beginner.Part.one.part06.rar.html
-https://rg.to/file/300ced5e22ea7202d866bf5540538bcf/50.Hours.JAVA_For_Beginner.Part.one.part07.rar.html
-https://rg.to/file/e84f6849c5e3d8698657380fc18c49c4/50.Hours.JAVA_For_Beginner.Part.one.part08.rar.html
-https://rg.to/file/5e957f7980f303413a3a5f3461a4aec6/50.Hours.JAVA_For_Beginner.Part.one.part09.rar.html
-https://rg.to/file/eaef978313a40462aaf9dd195844a247/50.Hours.JAVA_For_Beginner.Part.one.part10.rar.html
-https://rg.to/file/8546256041a9b4395acc4d34b800eb7a/50.Hours.JAVA_For_Beginner.Part.one.part11.rar.html
-https://rg.to/file/c1f7d925cf32078b16861c2d0315c3f2/50.Hours.JAVA_For_Beginner.Part.one.part12.rar.html
-https://rg.to/file/1569d28ca2e73747cd1a211de6e91562/50.Hours.JAVA_For_Beginner.Part.one.part13.rar.html
-https://rg.to/file/1f0f849b1b078e6ccc7d026c3dba9ee4/50.Hours.JAVA_For_Beginner.Part.one.part14.rar.html
-https://rg.to/file/6497238fb8cb7d33120383cec287c657/50.Hours.JAVA_For_Beginner.Part.one.part15.rar.html
-https://rg.to/file/bc2f404b361612689748cd8b3c2d0ad3/50.Hours.JAVA_For_Beginner.Part.one.part16.rar.html
-https://rg.to/file/b2eeb0936cea99b702f7bb5580e3fa7a/50.Hours.JAVA_For_Beginner.Part.one.part17.rar.html
-https://rg.to/file/beb8b35c341f33600dedbf228a865ca3/50.Hours.JAVA_For_Beginner.Part.one.part18.rar.html
-https://rg.to/file/739692546b39553bdd1d316ff2c4bc99/50.Hours.JAVA_For_Beginner.Part.one.part19.rar.html
-https://rg.to/file/66d7886d254c4889f37b85b386f98ef4/50.Hours.JAVA_For_Beginner.Part.Two.part1.rar.html
-https://rg.to/file/2baff4f163a87a8a5f5a7c444dd9e6c2/50.Hours.JAVA_For_Beginner.Part.Two.part2.rar.html
-https://rg.to/file/bb1d39d0062e53e9c34a8d30d0b191da/50.Hours.JAVA_For_Beginner.Part.Two.part3.rar.html
-https://rg.to/file/f6a112c5dcef8b5bf894bab33bdcc23f/50.Hours.JAVA_For_Beginner.Part.Two.part4.rar.html
-https://rg.to/file/f3cb33c0b94a2b1ed19a6777761f23c0/50.Hours.JAVA_For_Beginner.Part.Two.part5.rar.html
-https://rg.to/file/8709522e16c315d111143a61e1bf35ac/50.Hours.JAVA_For_Beginner.Part.Two.part6.rar.html
-https://rg.to/file/afec652bed1f4d37d5a95e8db53e45a7/50.Hours.JAVA_For_Beginner.Part.Two.part7.rar.html
-https://nitroflare.com/view/423267D6FB36EFE/50.Hours.JAVA_For_Beginner.Part.one.part01.rar
-https://nitroflare.com/view/560F14FC12762B8/50.Hours.JAVA_For_Beginner.Part.one.part02.rar
-https://nitroflare.com/view/C1E7604BD771F75/50.Hours.JAVA_For_Beginner.Part.one.part03.rar
-https://nitroflare.com/view/19A3AE5C520A78F/50.Hours.JAVA_For_Beginner.Part.one.part04.rar
-https://nitroflare.com/view/F563CEEAB5AD4C1/50.Hours.JAVA_For_Beginner.Part.one.part05.rar
-https://nitroflare.com/view/F2C2FD9EB3F897C/50.Hours.JAVA_For_Beginner.Part.one.part06.rar
-https://nitroflare.com/view/CDF718EB172ADB7/50.Hours.JAVA_For_Beginner.Part.one.part07.rar
-https://nitroflare.com/view/1F297A963DB420A/50.Hours.JAVA_For_Beginner.Part.one.part08.rar
-https://nitroflare.com/view/2393277435F872D/50.Hours.JAVA_For_Beginner.Part.one.part09.rar
-https://nitroflare.com/view/E03A6E46082F4F6/50.Hours.JAVA_For_Beginner.Part.one.part10.rar
-https://nitroflare.com/view/CF78FA63E55A38B/50.Hours.JAVA_For_Beginner.Part.one.part11.rar
-https://nitroflare.com/view/EB6BEC46FFE72B0/50.Hours.JAVA_For_Beginner.Part.one.part12.rar
-https://nitroflare.com/view/E55AF27AC368171/50.Hours.JAVA_For_Beginner.Part.one.part13.rar
-https://nitroflare.com/view/3F2DAB595D9101F/50.Hours.JAVA_For_Beginner.Part.one.part14.rar
-https://nitroflare.com/view/43D639A322B44BB/50.Hours.JAVA_For_Beginner.Part.one.part15.rar
-https://nitroflare.com/view/CB66E0B3896E038/50.Hours.JAVA_For_Beginner.Part.one.part16.rar
-https://nitroflare.com/view/DD4CC17ED1C57E6/50.Hours.JAVA_For_Beginner.Part.one.part17.rar
-https://nitroflare.com/view/5FA17110BA0D91E/50.Hours.JAVA_For_Beginner.Part.one.part18.rar
-https://nitroflare.com/view/BE7255C61982E99/50.Hours.JAVA_For_Beginner.Part.one.part19.rar
-https://nitroflare.com/view/70C6375F391E803/50.Hours.JAVA_For_Beginner.Part.Two.part1.rar
-https://nitroflare.com/view/5902548042B0FD5/50.Hours.JAVA_For_Beginner.Part.Two.part2.rar
-https://nitroflare.com/view/418C2E374430834/50.Hours.JAVA_For_Beginner.Part.Two.part3.rar
-https://nitroflare.com/view/86DD1B95FDB43B9/50.Hours.JAVA_For_Beginner.Part.Two.part4.rar
-https://nitroflare.com/view/E5871B8F79629AA/50.Hours.JAVA_For_Beginner.Part.Two.part5.rar
-https://nitroflare.com/view/080CB6CC9CF9688/50.Hours.JAVA_For_Beginner.Part.Two.part6.rar
-https://nitroflare.com/view/67ED7CACB7BD31B/50.Hours.JAVA_For_Beginner.Part.Two.part7.rar
+https://rg.to/file/cd79cd04420d7670b2f343d4e583082e/READY_TO_USE_form_validation_templates_with_jQuery.part1.rar.html
+https://rg.to/file/91312126f152a17ac8f29fd07974bf1a/READY_TO_USE_form_validation_templates_with_jQuery.part2.rar.html
+https://rg.to/file/9b34630936caa9d2f42a5bf73105f9b9/READY_TO_USE_form_validation_templates_with_jQuery.part3.rar.html
+https://rg.to/file/880a00573ff29f88bdf3400a3ec56868/READY_TO_USE_form_validation_templates_with_jQuery.part4.rar.html
+https://rg.to/file/8423c914be9a09b34b04ef066658e54a/READY_TO_USE_form_validation_templates_with_jQuery.part5.rar.html
+https://rg.to/file/c87ed21a8511748d2f99547025d1d6b3/READY_TO_USE_form_validation_templates_with_jQuery.part6.rar.html
+https://rg.to/file/85116e147c0ee4413fc67707ccfe2b99/READY_TO_USE_form_validation_templates_with_jQuery.part7.rar.html
+https://nitroflare.com/view/894B9534C9385C9/READY_TO_USE_form_validation_templates_with_jQuery.part1.rar
+https://nitroflare.com/view/1CD63F36CFF6F69/READY_TO_USE_form_validation_templates_with_jQuery.part2.rar
+https://nitroflare.com/view/4BDB25EB7BA5247/READY_TO_USE_form_validation_templates_with_jQuery.part3.rar
+https://nitroflare.com/view/FA3F7E2E94B4963/READY_TO_USE_form_validation_templates_with_jQuery.part4.rar
+https://nitroflare.com/view/6B6DBBAF6592A4C/READY_TO_USE_form_validation_templates_with_jQuery.part5.rar
+https://nitroflare.com/view/9977F6DC518C0B6/READY_TO_USE_form_validation_templates_with_jQuery.part6.rar
+https://nitroflare.com/view/B52AB8F2F78C9BB/READY_TO_USE_form_validation_templates_with_jQuery.part7.rar
 
 **************************************************
-Complete ARKIT 2.0 : Build 15 Apps for iOS12 with Scenekit
-https://www.0daydown.com/03/1013729.html
+How to Create Amazing Graphics Using Photoshop
+https://www.0daydown.com/03/1016636.html
 **************************************************
-https://rg.to/file/52b460b316d097f9b4287a760a1ca934/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part01.rar.html
-https://rg.to/file/0de9d587b0e20044e2f6ac29ab1d0d2c/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part02.rar.html
-https://rg.to/file/62fdd00219282d1ac998ac27ccada9c5/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part03.rar.html
-https://rg.to/file/3703ee9a130ce4f74f23dd8c284c77f3/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part04.rar.html
-https://rg.to/file/8a04946ba0bbbab2b2eb0e2336037aef/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part05.rar.html
-https://rg.to/file/710f89b8b19c6e7a7f4c660038e00831/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part06.rar.html
-https://rg.to/file/16c72a34ef631f05225ae841f695261d/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part07.rar.html
-https://rg.to/file/f935adab70946c4f0ea32e8c96417a62/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part08.rar.html
-https://rg.to/file/cbbc5e23958543e2c4d120bc5368d77b/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part09.rar.html
-https://rg.to/file/6fb6f8f6f116a502ad9391b6ad912eb7/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part10.rar.html
-https://rg.to/file/c8f2d34e7ae508d197d946e1fd3fb47e/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part11.rar.html
-https://nitroflare.com/view/AE374960E2398A5/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part01.rar
-https://nitroflare.com/view/0CB800331A1B1F7/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part02.rar
-https://nitroflare.com/view/EEB6315F194D12F/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part03.rar
-https://nitroflare.com/view/B98AC53ADD1A4B2/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part04.rar
-https://nitroflare.com/view/304137EC4138107/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part05.rar
-https://nitroflare.com/view/EA73479FA899EA0/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part06.rar
-https://nitroflare.com/view/4E6284D7DFD4DC9/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part07.rar
-https://nitroflare.com/view/0E9E4569D8D034F/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part08.rar
-https://nitroflare.com/view/4250DDFCD18D530/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part09.rar
-https://nitroflare.com/view/FD7A3AF807D502F/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part10.rar
-https://nitroflare.com/view/DC8132A97AACAD2/Complete_ARKIT_2.0__Build_15_Apps_for_iOS12_with_Scenekit.part11.rar
+https://rg.to/file/d7688d8a3dfd69710a7020f9d060ef50/How_to_Create_Amazing_Graphics_Using_Photoshop.rar.html
+https://nitroflare.com/view/74289982F5A15F0/How_to_Create_Amazing_Graphics_Using_Photoshop.rar
 
 **************************************************
-3DMotive – Catacomb in ZBrush Series Volume 3
-https://www.0daydown.com/03/1013716.html
+Ethical Hacking With Python, JavaScript and Kali Linux
+https://www.0daydown.com/03/1016638.html
 **************************************************
-https://rg.to/file/3fa6a5a0d3541578d5c4bcf5f57115b7/3DMCatacombinZBrushSeriesVolume3.part1.rar.html
-https://rg.to/file/2816967ef853a1c71c32713dafd27645/3DMCatacombinZBrushSeriesVolume3.part2.rar.html
-https://nitroflare.com/view/AE2AAE1A5641767/3DMCatacombinZBrushSeriesVolume3.part1.rar
-https://nitroflare.com/view/61A1EA7215691CE/3DMCatacombinZBrushSeriesVolume3.part2.rar
+https://rg.to/file/4c5498e46ce96e60928c26461c40248f/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part01.rar.html
+https://rg.to/file/41709398ff0c366fd56731afcc87c853/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part02.rar.html
+https://rg.to/file/443788766dd3f9c3e020488367dd477b/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part03.rar.html
+https://rg.to/file/8a6300e4ac855d54064611a02805a40f/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part04.rar.html
+https://rg.to/file/a15182bb7e2eaf1c4c904aff13853a98/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part05.rar.html
+https://rg.to/file/db86c41ebce9cc927692db7919b4e96e/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part06.rar.html
+https://rg.to/file/b1fb9dcb20c9a0570478a67ea2c501b9/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part07.rar.html
+https://rg.to/file/724eaeed0ee8db94c75e834e4ecb5d2b/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part08.rar.html
+https://rg.to/file/54052d7f160449c042ee2c1d074d4dbf/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part08.rar.html
+https://rg.to/file/110543b6c24c7d0ea9d51eb382f529e7/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part09.rar.html
+https://rg.to/file/15da94132e077de2aac83f6bb2e33056/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part10.rar.html
+https://rg.to/file/c39a32b3583871d7bfd41d812aaa6873/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part11.rar.html
+https://rg.to/file/8d91092524a9069ff689fd009f7c8b26/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part12.rar.html
+https://rg.to/file/f3e2856bf6c49690c3121ad7c0bd281f/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part13.rar.html
+https://rg.to/file/5f272cf6b451b89a33ee2782407fe920/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part14.rar.html
+https://rg.to/file/20fc37b0a683b92b3b0267c19e411d6b/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part15.rar.html
+https://rg.to/file/e38842769b73622333df2b63a0f07625/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part16.rar.html
+https://rg.to/file/8f7b498fd058de458e204025825604c5/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part17.rar.html
+https://rg.to/file/16239fd3380bc6b864356a9b4f721187/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part18.rar.html
+https://rg.to/file/4232e3088aa8a7330d393c9d068b564c/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part19.rar.html
+https://rg.to/file/d2b39a0163de568466069649dfdec954/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part20.rar.html
+https://nitroflare.com/view/ECB4AD1BA2A3D03/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part01.rar
+https://nitroflare.com/view/D04565E8AA305B7/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part02.rar
+https://nitroflare.com/view/B5AA317339AAEF0/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part03.rar
+https://nitroflare.com/view/9E3136F0208961F/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part04.rar
+https://nitroflare.com/view/FC143A09BC012F6/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part05.rar
+https://nitroflare.com/view/BF4F0533829EEAB/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part06.rar
+https://nitroflare.com/view/298136529C5176A/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part07.rar
+https://nitroflare.com/view/C2DE87A6D822A68/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part08.rar
+https://nitroflare.com/view/ADA6C576CD2D3AD/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part09.rar
+https://nitroflare.com/view/9C9C1A162329B16/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part10.rar
+https://nitroflare.com/view/53C87958BFCC6FC/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part11.rar
+https://nitroflare.com/view/F09F070F58B84D8/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part12.rar
+https://nitroflare.com/view/FCAFB673CCBD41A/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part13.rar
+https://nitroflare.com/view/4C57D92AE2CD2AE/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part14.rar
+https://nitroflare.com/view/B0B6BB1FC0B6D14/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part15.rar
+https://nitroflare.com/view/D8B3C388DC963B4/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part16.rar
+https://nitroflare.com/view/07AC0B19D2694C5/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part17.rar
+https://nitroflare.com/view/1EE30C08ED85DA5/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part18.rar
+https://nitroflare.com/view/4B0B99B0A7C17B4/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part19.rar
+https://nitroflare.com/view/C5A3CC238363ED0/Ethical_Hacking_With_Python_JavaScript_and_Kali_Linux.part20.rar
 
 **************************************************
-Vue.js Essential Training
-https://www.0daydown.com/03/1013531.html
+Optimization with Metaheuristics in Python
+https://www.0daydown.com/03/1016642.html
 **************************************************
-https://www.lynda.com/course-tutorials/Vue-js-Essential-Training/5028668-2.html
-https://rg.to/file/55d5faca15c39e85e74c6bbba9114c22/Vue.js_Essential_Training.part1.rar.html
-https://rg.to/file/eb924caac3a1a4f2b415a1ce3c833504/Vue.js_Essential_Training.part2.rar.html
-https://nitroflare.com/view/0205882E95F4D18/Vue.js_Essential_Training.part1.rar
-https://nitroflare.com/view/09E4332BD0AB183/Vue.js_Essential_Training.part2.rar
+https://rg.to/file/97e05e59f943c96c77843fc84b7468fc/Optimization.with.Metaheuristics.in.Python.part1.rar.html
+https://rg.to/file/6c7ae819c35531c31b29ea03514c5e6b/Optimization.with.Metaheuristics.in.Python.part2.rar.html
+https://rg.to/file/261bfa56c73da9736a19366c97fb613b/Optimization.with.Metaheuristics.in.Python.part3.rar.html
+https://rg.to/file/a487ec885e2db8b7db574e0f220a0217/Optimization.with.Metaheuristics.in.Python.part4.rar.html
+https://nitroflare.com/view/9E542A47201AE85/Optimization.with.Metaheuristics.in.Python.part1.rar
+https://nitroflare.com/view/FB706A476F912C3/Optimization.with.Metaheuristics.in.Python.part2.rar
+https://nitroflare.com/view/CB4858C49F5073A/Optimization.with.Metaheuristics.in.Python.part3.rar
+https://nitroflare.com/view/6B44C316242D23C/Optimization.with.Metaheuristics.in.Python.part4.rar
 
 **************************************************
-Python Project: Building Portfolio App With Python Tkinter
-https://www.0daydown.com/03/1013529.html
+CompTIA Pentest+ (Ethical Hacking) Course and Practice Exam
+https://www.0daydown.com/03/1016644.html
 **************************************************
-https://rg.to/file/d8156da1ea8f3ff638ed8011b1353255/Python_Project_Building_Portfolio_App_With_Python_Tkinter.part1.rar.html
-https://rg.to/file/0e59aa5c83c33aa3feb874820fa989e8/Python_Project_Building_Portfolio_App_With_Python_Tkinter.part2.rar.html
-https://nitroflare.com/view/C94D4B90F1D2602/Python_Project_Building_Portfolio_App_With_Python_Tkinter.part1.rar
-https://nitroflare.com/view/F9446F37219B139/Python_Project_Building_Portfolio_App_With_Python_Tkinter.part2.rar
+https://rg.to/file/00beb4d6a2a9bf23e79a5b08297c70f0/CompTIA.Pentest.part01.rar.html
+https://rg.to/file/704cb64ea9ebca00bfaf4e70804f782f/CompTIA.Pentest.part02.rar.html
+https://rg.to/file/122b9a3aa0e64d45ef18b107e16a7c8c/CompTIA.Pentest.part03.rar.html
+https://rg.to/file/9620aba01badad76a28db21948f12661/CompTIA.Pentest.part04.rar.html
+https://rg.to/file/c935d5d5cd5bd592270d0a4132988edc/CompTIA.Pentest.part05.rar.html
+https://rg.to/file/b5d131e19cad664883612f960584bfa0/CompTIA.Pentest.part06.rar.html
+https://rg.to/file/54a50f7d23660336ab775b90d7f594a6/CompTIA.Pentest.part07.rar.html
+https://rg.to/file/9df5b78a65c7892dbd1cd756417a207a/CompTIA.Pentest.part08.rar.html
+https://rg.to/file/87ccc0559041b2fa3ed9fc7cde50e0b7/CompTIA.Pentest.part09.rar.html
+https://rg.to/file/4e1c10645962379c0415c02c0707ea3b/CompTIA.Pentest.part10.rar.html
+https://nitroflare.com/view/EFB1A833D5FF086/CompTIA.Pentest.part01.rar
+https://nitroflare.com/view/1B30684160F4955/CompTIA.Pentest.part02.rar
+https://nitroflare.com/view/FFBD86899000ADD/CompTIA.Pentest.part03.rar
+https://nitroflare.com/view/ACF2DFC24BA94C5/CompTIA.Pentest.part04.rar
+https://nitroflare.com/view/7FFC8E8F4D45579/CompTIA.Pentest.part05.rar
+https://nitroflare.com/view/73A265AD318BAE4/CompTIA.Pentest.part06.rar
+https://nitroflare.com/view/6D8DE6E042EBCA8/CompTIA.Pentest.part07.rar
+https://nitroflare.com/view/B08A6B586DC231B/CompTIA.Pentest.part08.rar
+https://nitroflare.com/view/5D53611A6B15C32/CompTIA.Pentest.part09.rar
+https://nitroflare.com/view/5C385E82A671A6F/CompTIA.Pentest.part10.rar
 
 **************************************************
-Exploring ASP.NET Core: Fundamentals
-https://www.0daydown.com/03/1013527.html
+Beat the Codility Coding Interview in Python
+https://www.0daydown.com/03/1016648.html
 **************************************************
-https://rg.to/file/f1fe734384947392edbadfd9bab20fda/expAscoFun.part1.rar.html
-https://rg.to/file/0f64021d4f1c7440bc9bbf5b3bff9d7e/expAscoFun.part2.rar.html
-https://rg.to/file/6935cbef5aab976943feb791b543f983/expAscoFun.part3.rar.html
-https://nitroflare.com/view/4FC5CF26A740447/expAscoFun.part1.rar
-https://nitroflare.com/view/2E394AE6FD424BC/expAscoFun.part2.rar
-https://nitroflare.com/view/871AC5B6A0A1CE6/expAscoFun.part3.rar
+https://rg.to/file/a399725788af5a4bacc506a61cc87132/Beat_the_Codility_Coding_Interview_in_Python.part1.rar.html
+https://rg.to/file/04625dfbe7bdc64c2f8d625c088b0930/Beat_the_Codility_Coding_Interview_in_Python.part2.rar.html
+https://nitroflare.com/view/FAADB485630D4AC/Beat_the_Codility_Coding_Interview_in_Python.part1.rar
+https://nitroflare.com/view/A250885785B5645/Beat_the_Codility_Coding_Interview_in_Python.part2.rar
 
 **************************************************
-HTML, CSS, JavaScript - Build 6 Creative Projects
-https://www.0daydown.com/03/1013525.html
+Gumroad – Arnold – Look Development and Compositing by Nick Hodgson
+https://www.0daydown.com/03/1016520.html
 **************************************************
-https://www.udemy.com/html-css-javascript-course-build-6-creative-projects/
-https://rg.to/file/bbfece438c80c71906a3955c5251c2ac/HTML,_CSS,_JavaScript_-_Build_6_Creative_Projects.part1.rar.html
-https://rg.to/file/9c4846addc2ddd517fde8649e49bc8f1/HTML,_CSS,_JavaScript_-_Build_6_Creative_Projects.part2.rar.html
-https://rg.to/file/3977f3f8cb3d782e0c054a276751d063/HTML,_CSS,_JavaScript_-_Build_6_Creative_Projects.part3.rar.html
-https://rg.to/file/72b6a26fb30cab3c8efab56cff821987/HTML,_CSS,_JavaScript_-_Build_6_Creative_Projects.part4.rar.html
-https://rg.to/file/e551890a445683e54969c8d7a0f3ff88/HTML,_CSS,_JavaScript_-_Build_6_Creative_Projects.part5.rar.html
-https://nitroflare.com/view/09686F640246442/HTML%2C_CSS%2C_JavaScript_-_Build_6_Creative_Projects.part1.rar
-https://nitroflare.com/view/70CC77757E1E211/HTML%2C_CSS%2C_JavaScript_-_Build_6_Creative_Projects.part2.rar
-https://nitroflare.com/view/E9FD2BD41A8B1A7/HTML%2C_CSS%2C_JavaScript_-_Build_6_Creative_Projects.part3.rar
-https://nitroflare.com/view/6BCC77E5B2A922F/HTML%2C_CSS%2C_JavaScript_-_Build_6_Creative_Projects.part4.rar
-https://nitroflare.com/view/6B209E44149F384/HTML%2C_CSS%2C_JavaScript_-_Build_6_Creative_Projects.part5.rar
+https://rg.to/file/92e8234d5397324c40f8aca081cf1bd4/GRArnoldLookDevelopmentandCompositing.part01.rar.html
+https://rg.to/file/8f39a6e6d589d495cfffdc98b8e35c6e/GRArnoldLookDevelopmentandCompositing.part02.rar.html
+https://rg.to/file/212297e6a569d3c7c3bc1f77d5212497/GRArnoldLookDevelopmentandCompositing.part03.rar.html
+https://rg.to/file/67eb3fda457b65435d0eb7ce0431e403/GRArnoldLookDevelopmentandCompositing.part04.rar.html
+https://rg.to/file/14161b4e42b04076314874f8260425e7/GRArnoldLookDevelopmentandCompositing.part05.rar.html
+https://rg.to/file/299633106340141d8de8f30c68eba996/GRArnoldLookDevelopmentandCompositing.part06.rar.html
+https://rg.to/file/888136689f52acde8f4f11d6a29c5854/GRArnoldLookDevelopmentandCompositing.part07.rar.html
+https://rg.to/file/7fd8331488b7990ad1bb60437d5c1bad/GRArnoldLookDevelopmentandCompositing.part08.rar.html
+https://rg.to/file/adf67c86a0f6e1d24f55182df564f513/GRArnoldLookDevelopmentandCompositing.part09.rar.html
+https://rg.to/file/71c6d84256d9ad2d3bde933116918ac2/GRArnoldLookDevelopmentandCompositing.part10.rar.html
+https://rg.to/file/60dbf071b69e237ed9affd4f21db76a9/GRArnoldLookDevelopmentandCompositing.part11.rar.html
+https://rg.to/file/6335d3cda5f4b5af69f2227a5d03ab44/GRArnoldLookDevelopmentandCompositing.part12.rar.html
+https://rg.to/file/319dfa753bce29244e73da3203fd104a/GRArnoldLookDevelopmentandCompositing.part13.rar.html
+https://rg.to/file/745779989f6d73c7aee78d6a9a712669/GRArnoldLookDevelopmentandCompositing.part14.rar.html
+https://rg.to/file/ae7d0e3304ca995ccae7744147f1a403/GRArnoldLookDevelopmentandCompositing.part15.rar.html
+https://nitroflare.com/view/FBD6CBBA9DC1D6D/GRArnoldLookDevelopmentandCompositing.part01.rar
+https://nitroflare.com/view/3773BC100C50054/GRArnoldLookDevelopmentandCompositing.part02.rar
+https://nitroflare.com/view/461ED5FCA420CBA/GRArnoldLookDevelopmentandCompositing.part03.rar
+https://nitroflare.com/view/307391978487C59/GRArnoldLookDevelopmentandCompositing.part04.rar
+https://nitroflare.com/view/48BC7701E5A1146/GRArnoldLookDevelopmentandCompositing.part05.rar
+https://nitroflare.com/view/B8641056F629BC5/GRArnoldLookDevelopmentandCompositing.part06.rar
+https://nitroflare.com/view/EF8457A343FA748/GRArnoldLookDevelopmentandCompositing.part07.rar
+https://nitroflare.com/view/871A481BDC901BC/GRArnoldLookDevelopmentandCompositing.part08.rar
+https://nitroflare.com/view/A2C8604A548AB2E/GRArnoldLookDevelopmentandCompositing.part09.rar
+https://nitroflare.com/view/BCFC3A5EB6850C9/GRArnoldLookDevelopmentandCompositing.part10.rar
+https://nitroflare.com/view/8F9C6018AC3E076/GRArnoldLookDevelopmentandCompositing.part11.rar
+https://nitroflare.com/view/4DE5B8B1534BB55/GRArnoldLookDevelopmentandCompositing.part12.rar
+https://nitroflare.com/view/6AAF4A490CB839C/GRArnoldLookDevelopmentandCompositing.part13.rar
+https://nitroflare.com/view/B99E3ED5691EE31/GRArnoldLookDevelopmentandCompositing.part14.rar
+https://nitroflare.com/view/4FBFB2B1DD3A64C/GRArnoldLookDevelopmentandCompositing.part15.rar
 
 **************************************************
-Java Part 2: Various Updates, Security and RIA
-https://www.0daydown.com/03/1013519.html
+Oracle PL/SQL is My Game: EXAM 1Z0-144
+https://www.0daydown.com/03/1016278.html
 **************************************************
-https://rg.to/file/39c7d340ef596f42da1781e3e2404e17/JaPrt2VUpd.part1.rar.html
-https://rg.to/file/47cdeb37f5310bc904cc36590edbd207/JaPrt2VUpd.part2.rar.html
-https://rg.to/file/08f9ed9ff37d1bffdde2292eef577b00/JaPrt2VUpd.part3.rar.html
-https://rg.to/file/8a84e614d292d219d7caeb7021c06498/JaPrt2VUpd.part4.rar.html
-https://nitroflare.com/view/5D649099860D381/JaPrt2VUpd.part1.rar
-https://nitroflare.com/view/FB05C13C1231B6F/JaPrt2VUpd.part2.rar
-https://nitroflare.com/view/670A0B387ACFDB3/JaPrt2VUpd.part3.rar
-https://nitroflare.com/view/96B86B543331918/JaPrt2VUpd.part4.rar
+https://www.udemy.com/oracle-plsql-is-my-game-exam-1z0-144/
+https://rg.to/file/1cb04a576f2afcf0b4ec1eff4767e9f0/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part1.rar.html
+https://rg.to/file/6ff665c86ddf897d2fd6db532d41c01f/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part2.rar.html
+https://rg.to/file/ea134bf348f0c8618c82cfe486d051fe/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part3.rar.html
+https://rg.to/file/c3dc09aeaa9bba5a92be2c036aebdf91/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part4.rar.html
+https://rg.to/file/0e8f3c8ea9a673a865a06e77a1805387/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part5.rar.html
+https://rg.to/file/c7de3d94bc159146503ac2ac9b8d6f7f/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part6.rar.html
+https://nitroflare.com/view/9C8F48F61270D52/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part1.rar
+https://nitroflare.com/view/E6C08B2B0E42D84/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part2.rar
+https://nitroflare.com/view/9A1A978CF7129B4/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part3.rar
+https://nitroflare.com/view/29DBF90A76C8CD6/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part4.rar
+https://nitroflare.com/view/E449D57F57A7037/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part5.rar
+https://nitroflare.com/view/E9E435E22A9A541/Oracle_PLSQL_is_My_Game_EXAM_1Z0-144.part6.rar
 
 **************************************************
-Java Part 1: What's New
-https://www.0daydown.com/03/1013521.html
+SQL Beginner to Guru: MySQL Edition - Master SQL with MySQL
+https://www.0daydown.com/03/1016280.html
 **************************************************
-https://rg.to/file/f2aca75c74e6d9bfc4d2bb87240696a5/Japt1WhNew.part1.rar.html
-https://rg.to/file/6670d00f93570f71abb46713923c829d/Japt1WhNew.part2.rar.html
-https://rg.to/file/6e325d23acfd4f181a906f723088e0b4/Japt1WhNew.part3.rar.html
-https://rg.to/file/a19deb9438fb25003f3651c8d35ddc0a/Japt1WhNew.part4.rar.html
-https://nitroflare.com/view/853367F6058749B/Japt1WhNew.part1.rar
-https://nitroflare.com/view/29458B1F953B91E/Japt1WhNew.part2.rar
-https://nitroflare.com/view/D76F470CDB58060/Japt1WhNew.part3.rar
-https://nitroflare.com/view/61D2B5129753131/Japt1WhNew.part4.rar
+https://www.udemy.com/sql-beginner-to-guru-mysql-edition/
+https://rg.to/file/ff0acd2795de5a8c060a0703e6dc1204/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part01.rar.html
+https://rg.to/file/d68946dcc619b11c46f515fa80d40914/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part02.rar.html
+https://rg.to/file/e769030752b39e3c0e70b51642a95173/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part03.rar.html
+https://rg.to/file/33f92265895e94f9787bba9a430aae41/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part04.rar.html
+https://rg.to/file/eaf130b660970fd94481275e159ce77b/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part05.rar.html
+https://rg.to/file/6d198864026b173061f017cd73d08d49/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part06.rar.html
+https://rg.to/file/abca34cbb412daae7c92661964b6af26/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part07.rar.html
+https://rg.to/file/9b79814e411a6590cb32266e282a5ec3/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part08.rar.html
+https://rg.to/file/ea1dd3274f4e75cc13dced2c7141489c/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part09.rar.html
+https://nitroflare.com/view/7951526F73DCB90/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part01.rar
+https://nitroflare.com/view/412223B70602670/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part02.rar
+https://nitroflare.com/view/AA3A48B6AEE8EAE/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part03.rar
+https://nitroflare.com/view/0757BC5A4F7CF3D/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part04.rar
+https://nitroflare.com/view/D6ADE18B5900BF5/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part05.rar
+https://nitroflare.com/view/1FC12463EB08063/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part06.rar
+https://nitroflare.com/view/9AE70D1EFAA9EF3/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part07.rar
+https://nitroflare.com/view/20946B53C1659A2/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part08.rar
+https://nitroflare.com/view/16E48239030B796/SQL_Beginner_to_Guru_MySQL_Edition_-_Master_SQL_with_MySQL.part09.rar
 
 **************************************************
-Fundamentals of Photo Editing in GIMP
-https://www.0daydown.com/03/1013511.html
+CISSP Certification Domain 1: Security and Risk Management Video Boot Camp 2019
+https://www.0daydown.com/03/1016288.html
 **************************************************
-https://rg.to/file/4fc50140a4ba5ac5fab75384a0f213ae/Fundamentals_of_Photo_Editing_in_GIMP.part1.rar.html
-https://rg.to/file/773f0303389170094fef911ba3195fda/Fundamentals_of_Photo_Editing_in_GIMP.part2.rar.html
-https://rg.to/file/7913d8f4e55a5e807e5cc4ad86283b55/Fundamentals_of_Photo_Editing_in_GIMP.part3.rar.html
-https://nitroflare.com/view/63CE59CED221526/Fundamentals_of_Photo_Editing_in_GIMP.part1.rar
-https://nitroflare.com/view/9495823E448C997/Fundamentals_of_Photo_Editing_in_GIMP.part2.rar
-https://nitroflare.com/view/B35FC77C20AA9CA/Fundamentals_of_Photo_Editing_in_GIMP.part3.rar
+https://rg.to/file/cd1028764b40f703b5c34bc1389b4dbd/CISSP_Certification_Domain_1.rar.html
+https://nitroflare.com/view/9D42F9C45116CBC/CISSP_Certification_Domain_1.rar
 
 **************************************************
-C# Programming: Start Coding in C#. Complete C# Programming
-https://www.0daydown.com/03/1013408.html
+CISSP Certification Domain 3: Security Architecture and Engineering Video Boot Camp 2019
+https://www.0daydown.com/03/1016286.html
 **************************************************
-https://www.udemy.com/c-sharp-programming-language/
-https://rg.to/file/0b6c5acd4356098f41205e0f91cff592/C#_Programming_Start_Coding_in_C#._Complete_C#_Programming.part1.rar.html
-https://rg.to/file/f4771322f884f672f8444ab46f02a9ed/C#_Programming_Start_Coding_in_C#._Complete_C#_Programming.part2.rar.html
-https://rg.to/file/4327ac2df04d47dd3c5a71aa037ebcfb/C#_Programming_Start_Coding_in_C#._Complete_C#_Programming.part3.rar.html
-https://nitroflare.com/view/3016FED726DCDBA/C%23_Programming_Start_Coding_in_C%23._Complete_C%23_Programming.part1.rar
-https://nitroflare.com/view/25058C95C0CFA8B/C%23_Programming_Start_Coding_in_C%23._Complete_C%23_Programming.part2.rar
-https://nitroflare.com/view/9AD79A76B79DA50/C%23_Programming_Start_Coding_in_C%23._Complete_C%23_Programming.part3.rar
+https://rg.to/file/4399df57cddf7c592ccdc3d61d812d50/CISSP_Certification_Domain_3.part1.rar.html
+https://rg.to/file/d3df55c045f509242396c4400fd0c305/CISSP_Certification_Domain_3.part2.rar.html
+https://nitroflare.com/view/E90FFC4534A6DBC/CISSP_Certification_Domain_3.part1.rar
+https://nitroflare.com/view/8A323736C60A80C/CISSP_Certification_Domain_3.part2.rar
 
 **************************************************
-The Complete Microsoft Excel One On One Masterclass (2019)
-https://www.0daydown.com/03/1013418.html
+CISSP Certification Domain 8: Software Development Security Video Boot Camp 2019
+https://www.0daydown.com/03/1016290.html
 **************************************************
-https://rg.to/file/135003043afc4f5afdf52916ec203281/The_Complete_Microsoft_Excel_One_On_One_Masterclass_(2019)
-https://rg.to/file/8b1872154a9e013476fc60a13b42cfa6/The_Complete_Microsoft_Excel_One_On_One_Masterclass_(2019)
-https://rg.to/file/b71ddc8d0191d1e0c783fb463843ab21/The_Complete_Microsoft_Excel_One_On_One_Masterclass_(2019)
-https://rg.to/file/6eca5466f653c919abc1b07d889b7a0d/The_Complete_Microsoft_Excel_One_On_One_Masterclass_(2019)
-https://rg.to/file/24bf801adda3b67b781cf772b932be98/The_Complete_Microsoft_Excel_One_On_One_Masterclass_(2019)
-https://rg.to/file/50d170b8641b5729af70070815916f33/The_Complete_Microsoft_Excel_One_On_One_Masterclass_(2019)
-https://rg.to/file/2abd0672baf82e0d7418479175f2b522/The_Complete_Microsoft_Excel_One_On_One_Masterclass_(2019)
-https://rg.to/file/1dd11c9787900f58e577233879be5051/The_Complete_Microsoft_Excel_One_On_One_Masterclass_(2019)
-https://rg.to/file/a9af086f1807a483a98ba255fe6721d4/The_Complete_Microsoft_Excel_One_On_One_Masterclass_(2019)
-https://rg.to/file/4b3f68937e99147aaa3037ecb65fe9ea/The_Complete_Microsoft_Excel_One_On_One_Masterclass_(2019)
-https://nitroflare.com/view/814A47FE453EE50/The_Complete_Microsoft_Excel_One_On_One_Masterclass_%282019%29.part01.rar
-https://nitroflare.com/view/C6EA270FC8E3D1E/The_Complete_Microsoft_Excel_One_On_One_Masterclass_%282019%29.part02.rar
-https://nitroflare.com/view/79413B8B126CF92/The_Complete_Microsoft_Excel_One_On_One_Masterclass_%282019%29.part03.rar
-https://nitroflare.com/view/CE8FFF81755D95A/The_Complete_Microsoft_Excel_One_On_One_Masterclass_%282019%29.part04.rar
-https://nitroflare.com/view/8D1A7C055D13484/The_Complete_Microsoft_Excel_One_On_One_Masterclass_%282019%29.part05.rar
-https://nitroflare.com/view/90B27D3A3475394/The_Complete_Microsoft_Excel_One_On_One_Masterclass_%282019%29.part06.rar
-https://nitroflare.com/view/62C1B12FB32F047/The_Complete_Microsoft_Excel_One_On_One_Masterclass_%282019%29.part07.rar
-https://nitroflare.com/view/3AB20DC52E22AA9/The_Complete_Microsoft_Excel_One_On_One_Masterclass_%282019%29.part08.rar
-https://nitroflare.com/view/521C5EE616C1AB2/The_Complete_Microsoft_Excel_One_On_One_Masterclass_%282019%29.part09.rar
-https://nitroflare.com/view/EA6DBFECF731EC1/The_Complete_Microsoft_Excel_One_On_One_Masterclass_%282019%29.part10.rar
+https://rg.to/file/2ce95041d63f72166fd747a61cda91a2/CISSP_Certification_Domain_8.rar.html
+https://nitroflare.com/view/B4EE46BFF3CFCD8/CISSP_Certification_Domain_8.rar
 
 **************************************************
-Skillshare – Intro to Unity Development
-https://www.0daydown.com/03/1013588.html
+Advanced Photography: Flash
+https://www.0daydown.com/03/1016304.html
 **************************************************
-https://rg.to/file/8e92cd18babb52e85dffea46546d8d7a/SkSIntrotoUnityDevelopment.part1.rar.html
-https://rg.to/file/a7425d41d52d59845d1217c58d87e75f/SkSIntrotoUnityDevelopment.part2.rar.html
-https://rg.to/file/c9d999eee04c5e0c4b253282f6ebbb41/SkSIntrotoUnityDevelopment.part3.rar.html
-https://nitroflare.com/view/B57DB4804C0C203/SkSIntrotoUnityDevelopment.part1.rar
-https://nitroflare.com/view/457A245839279FB/SkSIntrotoUnityDevelopment.part2.rar
-https://nitroflare.com/view/DCA0AA5D2527AC1/SkSIntrotoUnityDevelopment.part3.rar
+https://www.lynda.com/course-tutorials/Advanced-Photography-Flash/5005077-2.html
+https://rg.to/file/2ac9a3dc7bd114ff2952f77e68ceb0b1/Advanced_Photography_Flash.part1.rar.html
+https://rg.to/file/538822673ea882fc54db1d68aa5b4c36/Advanced_Photography_Flash.part2.rar.html
+https://rg.to/file/d77fd810a0e54581faea81932c994fc9/Advanced_Photography_Flash.part3.rar.html
+https://rg.to/file/8165916e3eb9b129c505ebb3e8509d39/Advanced_Photography_Flash.part4.rar.html
+https://rg.to/file/ca0f6cdd28181237d96080963319e444/Advanced_Photography_Flash.part5.rar.html
+https://rg.to/file/544ac698e964882fb114eeceb658e4d6/Advanced_Photography_Flash.part6.rar.html
+https://nitroflare.com/view/1707F4C976F9E9F/Advanced_Photography_Flash.part1.rar
+https://nitroflare.com/view/50CB0E722874D05/Advanced_Photography_Flash.part2.rar
+https://nitroflare.com/view/0EAA6A6D1DA8503/Advanced_Photography_Flash.part3.rar
+https://nitroflare.com/view/ABFDC082B7701E1/Advanced_Photography_Flash.part4.rar
+https://nitroflare.com/view/B2E38C8E7D5E524/Advanced_Photography_Flash.part5.rar
+https://nitroflare.com/view/A60BA74104EF842/Advanced_Photography_Flash.part6.rar
 
 **************************************************
-Complete Bubble Developer Course: Build Apps Without Coding
-https://www.0daydown.com/03/1013270.html
+2D Game Development with Javascript and CSS3 - Create a Memory Game
+https://www.0daydown.com/03/1016156.html
 **************************************************
-https://rg.to/file/9d0866fae83b0a0412a120fcf5db0403/CompleteBubbleDeveloperCourseBuildA.part1.rar.html
-https://rg.to/file/b5fe5f8addfdafbbe469b048cd02d690/CompleteBubbleDeveloperCourseBuildA.part2.rar.html
-https://rg.to/file/ac8a1e322e2e4043db529ab3fdb55db0/CompleteBubbleDeveloperCourseBuildA.part3.rar.html
-https://rg.to/file/f10c0b906a6f6e786058eec0957891b4/CompleteBubbleDeveloperCourseBuildA.part4.rar.html
-https://rg.to/file/0b175d6392b0360072520547e1cefc66/CompleteBubbleDeveloperCourseBuildA.part5.rar.html
-https://rg.to/file/9b5bc956eefa3802ccc15cc79565a234/CompleteBubbleDeveloperCourseBuildA.part6.rar.html
-https://nitroflare.com/view/F53AA586284B15E/CompleteBubbleDeveloperCourseBuildA.part1.rar
-https://nitroflare.com/view/AC9E478350144BA/CompleteBubbleDeveloperCourseBuildA.part2.rar
-https://nitroflare.com/view/DE264D6B880BCB2/CompleteBubbleDeveloperCourseBuildA.part3.rar
-https://nitroflare.com/view/C4FA65EC1F0FCC5/CompleteBubbleDeveloperCourseBuildA.part4.rar
-https://nitroflare.com/view/D709102BDA6BD20/CompleteBubbleDeveloperCourseBuildA.part5.rar
-https://nitroflare.com/view/0FF07A6BFC16974/CompleteBubbleDeveloperCourseBuildA.part6.rar
+https://rg.to/file/9badc3a5c4e64c8036aa5c1eacc173f1/2D_Game_Development_with_Javascript_and_CSS3_-_Create_a_Memory_Game_%5BVideo%5D.part1.rar.html
+https://rg.to/file/10e5cd74e22e7c7f2d1670fe0c42e52e/2D_Game_Development_with_Javascript_and_CSS3_-_Create_a_Memory_Game_%5BVideo%5D.part2.rar.html
+https://nitroflare.com/view/E7AD2E90BE2E870/2D_Game_Development_with_Javascript_and_CSS3_-_Create_a_Memory_Game__Video_.part1.rar
+https://nitroflare.com/view/A4CCB22F0160661/2D_Game_Development_with_Javascript_and_CSS3_-_Create_a_Memory_Game__Video_.part2.rar
 
 **************************************************
-How to Travel The World for FREE as a Photographer
-https://www.0daydown.com/03/1013062.html
+CISSP Certification Domain 7: Security Operations Video Boot Camp 2019
+https://www.0daydown.com/03/1016158.html
 **************************************************
-https://rg.to/file/1f09ec9ebdb1f816efc1eda9dc00b695/How_to_Travel_The_World_for_FREE_as_a_Photographer.part1.rar.html
-https://rg.to/file/f5587ef4beb1dadc1f3ea285683a52df/How_to_Travel_The_World_for_FREE_as_a_Photographer.part2.rar.html
-https://rg.to/file/110bfe3af562180fa904b07e7c34b056/How_to_Travel_The_World_for_FREE_as_a_Photographer.part3.rar.html
-https://nitroflare.com/view/4F6AD7D8C88D190/How_to_Travel_The_World_for_FREE_as_a_Photographer.part1.rar
-https://nitroflare.com/view/8399C4F5B6AB602/How_to_Travel_The_World_for_FREE_as_a_Photographer.part2.rar
-https://nitroflare.com/view/4F2698A73EFB1D7/How_to_Travel_The_World_for_FREE_as_a_Photographer.part3.rar
+https://rg.to/file/74877bb761e34af7f17c052f3aa83380/CISSP_Certification_Domain_7.part1.rar.html
+https://rg.to/file/8210e148bc2c09529dd547230ac3dbe7/CISSP_Certification_Domain_7.part2.rar.html
+https://nitroflare.com/view/FB6002856BA24D9/CISSP_Certification_Domain_7.part1.rar
+https://nitroflare.com/view/8340A98AE194B0D/CISSP_Certification_Domain_7.part2.rar
 
 **************************************************
-Animation for Graphic Designers: How to Animate a Logo
-https://www.0daydown.com/03/1013066.html
+Photoshop | GIMP: Quick & Easy Image Hacks for Beginners
+https://www.0daydown.com/03/1016172.html
 **************************************************
-https://rg.to/file/0086356239524722dafb0ba6dd485828/Animation_for_Graphic_Designers_How_to_Animate_a_Logo.part1.rar.html
-https://rg.to/file/7c889970754df87646315a499fe83b50/Animation_for_Graphic_Designers_How_to_Animate_a_Logo.part2.rar.html
-https://rg.to/file/b5085e676419119f4384f6a5913f7897/Animation_for_Graphic_Designers_How_to_Animate_a_Logo.part3.rar.html
-https://rg.to/file/941ca1e160188daaef9510326b46fdf0/Animation_for_Graphic_Designers_How_to_Animate_a_Logo.part4.rar.html
-https://nitroflare.com/view/847FD9855EB4BB2/Animation_for_Graphic_Designers_How_to_Animate_a_Logo.part1.rar
-https://nitroflare.com/view/232EC497FB9CE6E/Animation_for_Graphic_Designers_How_to_Animate_a_Logo.part2.rar
-https://nitroflare.com/view/28E110E24A1C0EE/Animation_for_Graphic_Designers_How_to_Animate_a_Logo.part3.rar
-https://nitroflare.com/view/110FD411E9E0C07/Animation_for_Graphic_Designers_How_to_Animate_a_Logo.part4.rar
+https://www.udemy.com/photoshop-gimp-spotlight-top-image-hacks-you-need-to-know/
+https://rg.to/file/413a86796d8359155d7b034cdb088ea1/Photoshop__GIMP_Quick_&_Easy_Image_Hacks_for_Beginners.part1.rar.html
+https://rg.to/file/8c433f5c4c3147cccf08dada01a16823/Photoshop__GIMP_Quick_&_Easy_Image_Hacks_for_Beginners.part2.rar.html
+https://nitroflare.com/view/E70670C7BC88655/Photoshop__GIMP_Quick_%26_Easy_Image_Hacks_for_Beginners.part1.rar
+https://nitroflare.com/view/C6E1E8324BFFEC2/Photoshop__GIMP_Quick_%26_Easy_Image_Hacks_for_Beginners.part2.rar
 
 **************************************************
-Capture One Pro 12 Essential Training
-https://www.0daydown.com/03/1013080.html
+Photoshop: Quick & Easy Animation Like a Professional
+https://www.0daydown.com/03/1016176.html
 **************************************************
-https://www.lynda.com/Capture-One-Pro-tutorials/Capture-One-Pro-12-Essential-Training/5025106-2.html
-https://rg.to/file/a76aec5a97929c7b6f571befc02996b0/LcCapture_One_Pro_12_Essential_Training.part1.rar.html
-https://rg.to/file/58fb12c737c88db6aa873c22f5bfd754/LcCapture_One_Pro_12_Essential_Training.part2.rar.html
-https://rg.to/file/185b139234ffc3f37135e65646a054f8/LcCapture_One_Pro_12_Essential_Training.part3.rar.html
-https://nitroflare.com/view/6D455CD54F4646D/LcCapture_One_Pro_12_Essential_Training.part1.rar
-https://nitroflare.com/view/BBE110A34AF5743/LcCapture_One_Pro_12_Essential_Training.part2.rar
-https://nitroflare.com/view/33C67F8D95D54F7/LcCapture_One_Pro_12_Essential_Training.part3.rar
+https://www.udemy.com/animate-in-photoshop-easy-video-rotoscoping-animating/
+https://rg.to/file/a3576e4366c6dca7675e9288732493ad/Photoshop_Quick_&_Easy_Animation_Like_a_Professional.part1.rar.html
+https://rg.to/file/ba6896c2e78519a6e5c300a0e214b59d/Photoshop_Quick_&_Easy_Animation_Like_a_Professional.part2.rar.html
+https://nitroflare.com/view/45F6248025C6893/Photoshop_Quick_%26_Easy_Animation_Like_a_Professional.part1.rar
+https://nitroflare.com/view/2BA6E3844D24FA5/Photoshop_Quick_%26_Easy_Animation_Like_a_Professional.part2.rar
 
 **************************************************
-Python 3: Deep Dive (Part 3)
-https://www.0daydown.com/03/1012950.html
+Android Animations
+https://www.0daydown.com/03/1016071.html
 **************************************************
-https://rg.to/file/5908cd1c84b8e2dfdbb7a8a916828551/Python_3_Deep_Dive_Part_3.part1.rar.html
-https://rg.to/file/92c3e86573d18eb25b47a3f2a8ca7041/Python_3_Deep_Dive_Part_3.part2.rar.html
-https://rg.to/file/21686ad677df16b1705ff56ff733c6ef/Python_3_Deep_Dive_Part_3.part3.rar.html
-https://rg.to/file/95fcb751f8d6871d9c216d5991ea8528/Python_3_Deep_Dive_Part_3.part4.rar.html
-https://nitroflare.com/view/C69529C3086BAEF/Python_3_Deep_Dive_Part_3.part1.rar
-https://nitroflare.com/view/F659FBBBEA15958/Python_3_Deep_Dive_Part_3.part2.rar
-https://nitroflare.com/view/A94DC1280E852AC/Python_3_Deep_Dive_Part_3.part3.rar
-https://nitroflare.com/view/ED3B6B33DB37CD6/Python_3_Deep_Dive_Part_3.part4.rar
+https://rg.to/file/bfd73e4c53ba130134b618a42a01f9ea/Android_Animations.rar.html
+https://nitroflare.com/view/1F04DED909A108C/Android_Animations.rar
 
 **************************************************
-Skillshare – SketchUp Exterior Rending with Vray
-https://www.0daydown.com/03/1013105.html
+Building an API with ASP.NET Web API
+https://www.0daydown.com/03/1016077.html
 **************************************************
-https://rg.to/file/ddfa6372731bd4401d8843762192f147/SkSSketchUpExteriorRendingwithVray.rar.html
-https://nitroflare.com/view/9CFF90E766542A2/SkSSketchUpExteriorRendingwithVray.rar
+https://rg.to/file/d851af02e4545586f8882e1db708e3cf/Building_an_API_with_ASP.NET_Web_API.rar.html
+https://nitroflare.com/view/70952143BE0BA1A/Building_an_API_with_ASP.NET_Web_API.rar
 
 **************************************************
-Circuit Design, Simulation and PCB Fabrication Bundle
-https://www.0daydown.com/03/1012816.html
+Learn to make stunning text effects in photoshop
+https://www.0daydown.com/03/1015953.html
 **************************************************
-https://rg.to/file/1cf8f2abcbbc53ceec8cb789f9c976d5/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part01.rar.html
-https://rg.to/file/926e628eeffac25b71e97275414a7f7c/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part02.rar.html
-https://rg.to/file/717aa5e2e7dfc485de35326932c1ecf4/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part03.rar.html
-https://rg.to/file/09dcfa8898f678b5c9838ef9ec2d4a95/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part04.rar.html
-https://rg.to/file/1a37b86b05213583031da86d98bd8375/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part05.rar.html
-https://rg.to/file/04aa6f649f4f6abd2c7d16fb34f1468d/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part06.rar.html
-https://rg.to/file/b7a8732fe025dd70e8c6e571850da9f2/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part07.rar.html
-https://rg.to/file/18896ebc87eb3bf11662564a0f6d3cd2/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part08.rar.html
-https://rg.to/file/9c67659f1ebecc81cfd4f585a77b65f4/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part09.rar.html
-https://rg.to/file/0a4df3b08613c9048c3d19f14e106a73/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part10.rar.html
-https://rg.to/file/48b289ced459710dd269db736288c39e/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part11.rar.html
-https://rg.to/file/9b1ac05ab2a82fb189cffde8d8c4cc24/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part12.rar.html
-https://rg.to/file/352de64c59f9a66a951fa6d957bf9562/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part13.rar.html
-https://rg.to/file/e072e94f04c5ebac92a9f28ce2a87603/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part14.rar.html
-https://rg.to/file/ae1a0f791ce72f92d22796d650be2aa5/Circuit_Design,_Simulation_and_PCB_Fabrication_Bundle.part15.rar.html
-https://nitroflare.com/view/B44248291781C12/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part01.rar
-https://nitroflare.com/view/549575C9FFFC382/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part02.rar
-https://nitroflare.com/view/6FF05C04BA10B21/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part03.rar
-https://nitroflare.com/view/90889DD573E7D9E/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part04.rar
-https://nitroflare.com/view/FA6143546D001C4/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part05.rar
-https://nitroflare.com/view/7F6A66886D40820/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part06.rar
-https://nitroflare.com/view/84D9DD7276D4EB9/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part07.rar
-https://nitroflare.com/view/C9DE32D038D95E4/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part08.rar
-https://nitroflare.com/view/649949A5FDA9C5D/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part09.rar
-https://nitroflare.com/view/2F87D1059EAB597/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part10.rar
-https://nitroflare.com/view/0702565FF191390/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part11.rar
-https://nitroflare.com/view/6C994B4A39CB2B2/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part12.rar
-https://nitroflare.com/view/ED794620CB0BEC8/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part13.rar
-https://nitroflare.com/view/21205FBBFCC1487/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part14.rar
-https://nitroflare.com/view/B59594D05CA40BE/Circuit_Design%2C_Simulation_and_PCB_Fabrication_Bundle.part15.rar
+https://www.udemy.com/learn-to-make-stunning-text-effects-in-photoshop/
+https://rg.to/file/e2195ecf078958a167c3205b0100b9cc/UdeLearn_to_make__stunning_text_effects_in_photoshop.part1.rar.html
+https://rg.to/file/5cb19cc2fa80c6dbee1b89b37a3fa9cd/UdeLearn_to_make__stunning_text_effects_in_photoshop.part2.rar.html
+https://nitroflare.com/view/9530123CC8FEAE3/UdeLearn_to_make__stunning_text_effects_in_photoshop.part1.rar
+https://nitroflare.com/view/7F5AA403229B514/UdeLearn_to_make__stunning_text_effects_in_photoshop.part2.rar
 
 **************************************************
-Master OpenAPI and the Swagger Framework
-https://www.0daydown.com/03/1012814.html
+Game Dev Crash Course
+https://www.0daydown.com/03/1015813.html
 **************************************************
-https://www.udemy.com/master-openapi-and-the-swagger-framework/
-https://rg.to/file/4cc188f14226d6a1531e6102f601cbaf/Master_OpenAPI_and_the_Swagger_Framework.part1.rar.html
-https://rg.to/file/7fb84bc3fe5c04b4733d80837bae1220/Master_OpenAPI_and_the_Swagger_Framework.part2.rar.html
-https://nitroflare.com/view/EAF202A6C59B8A5/Master_OpenAPI_and_the_Swagger_Framework.part1.rar
-https://nitroflare.com/view/E387A53B8E18F16/Master_OpenAPI_and_the_Swagger_Framework.part2.rar
+https://rg.to/file/f4fef13adbfc8e05a41bce57a1599429/UdGameDevCrashCourseClickteamFusion2.5.rar.html
+https://nitroflare.com/view/A55630ADD7DE6E6/UdGameDevCrashCourseClickteamFusion2.5.rar
 
 **************************************************
-The Confluence Cloud Crash Course 2019
-https://www.0daydown.com/03/1012812.html
+Big Picture: Unity VR Development
+https://www.0daydown.com/03/1016330.html
 **************************************************
-https://rg.to/file/8cb22e9adee761ebd4fd01253436a78c/The_Confluence_Cloud_Crash_Course_2019.rar.html
-https://nitroflare.com/view/797AE02D3771628/The_Confluence_Cloud_Crash_Course_2019.rar
+https://rg.to/file/6d7a4a82c2974139cfa3c62c929f194a/PtBigPictureUnityVRDevelopment.rar.html
+https://nitroflare.com/view/02D99BD9EECC7F2/PtBigPictureUnityVRDevelopment.rar
 
 **************************************************
-Access 365 Advanced
-https://www.0daydown.com/03/1012686.html
+Modern Java - Learn Java 8 features by coding it
+https://www.0daydown.com/03/1015771.html
 **************************************************
-https://rg.to/file/43b60484f36aee680a8ec4d09a007036/Acc36Adv.part1.rar.html
-https://rg.to/file/2f37f20283df5719ecabf0af041bb432/Acc36Adv.part2.rar.html
-https://nitroflare.com/view/D436D15FB698BA8/Acc36Adv.part1.rar
-https://nitroflare.com/view/5243AFD3910476F/Acc36Adv.part2.rar
+https://www.udemy.com/modern-java-learn-java-8-features-by-coding-it/
+https://rg.to/file/15ef48a970e47f50af00838fe85f671a/Modern_Java_-_Learn_Java_8_features_by_coding_it.part01.rar.html
+https://rg.to/file/9ea6ad040a787440e3da3d3c723e503c/Modern_Java_-_Learn_Java_8_features_by_coding_it.part02.rar.html
+https://rg.to/file/e8c4a21526347616d57a262a74825756/Modern_Java_-_Learn_Java_8_features_by_coding_it.part03.rar.html
+https://rg.to/file/b01cc2d1dba6d0ab7bcb3642346f40ad/Modern_Java_-_Learn_Java_8_features_by_coding_it.part04.rar.html
+https://rg.to/file/121def535bf6912358087f8184a7e571/Modern_Java_-_Learn_Java_8_features_by_coding_it.part05.rar.html
+https://rg.to/file/3fe5b8a544b415f74e8532c593a47cf5/Modern_Java_-_Learn_Java_8_features_by_coding_it.part06.rar.html
+https://rg.to/file/88f404b0aa2b653a641bddaace8f0028/Modern_Java_-_Learn_Java_8_features_by_coding_it.part07.rar.html
+https://rg.to/file/6f5124318bcf50bf7662a0d83a650dc1/Modern_Java_-_Learn_Java_8_features_by_coding_it.part08.rar.html
+https://rg.to/file/ab10b1eb3b1656ddc94cc69812dd4d23/Modern_Java_-_Learn_Java_8_features_by_coding_it.part08.rar.html
+https://rg.to/file/63bb15ddfae0dc3820c1594bf29d6bb8/Modern_Java_-_Learn_Java_8_features_by_coding_it.part09.rar.html
+https://rg.to/file/24a56e32b15c47e16715a5bc2107cc69/Modern_Java_-_Learn_Java_8_features_by_coding_it.part10.rar.html
+https://nitroflare.com/view/FF43316AED9C405/Modern_Java_-_Learn_Java_8_features_by_coding_it.part01.rar
+https://nitroflare.com/view/AFEC78253F93C0F/Modern_Java_-_Learn_Java_8_features_by_coding_it.part02.rar
+https://nitroflare.com/view/CD05DB6CD2C928B/Modern_Java_-_Learn_Java_8_features_by_coding_it.part03.rar
+https://nitroflare.com/view/7D161B90F738746/Modern_Java_-_Learn_Java_8_features_by_coding_it.part04.rar
+https://nitroflare.com/view/F6E0A8677B4D05D/Modern_Java_-_Learn_Java_8_features_by_coding_it.part05.rar
+https://nitroflare.com/view/463F0831507CEE7/Modern_Java_-_Learn_Java_8_features_by_coding_it.part06.rar
+https://nitroflare.com/view/165446FBA6039DA/Modern_Java_-_Learn_Java_8_features_by_coding_it.part07.rar
+https://nitroflare.com/view/26540BE166EE00F/Modern_Java_-_Learn_Java_8_features_by_coding_it.part08.rar
+https://nitroflare.com/view/E75EF21241B762E/Modern_Java_-_Learn_Java_8_features_by_coding_it.part09.rar
+https://nitroflare.com/view/70C23B8A6FAF6CF/Modern_Java_-_Learn_Java_8_features_by_coding_it.part10.rar
 
 **************************************************
-3ds Max and V-Ray: Interior Lighting and Rendering
-https://www.0daydown.com/03/1012698.html
+Xamarin Forms 2018 - Apps para Android, iOS e UWP - 8 Apps
+https://www.0daydown.com/03/1015773.html
 **************************************************
-https://www.lynda.com/course-tutorials/3ds-Max-V-Ray-Interior-Lighting-Rendering/794108-2.html
-https://rg.to/file/2bb81048a06918fb50d9ccc1d6f3f937/3ds_Max_and_V-Ray_Interior_Lighting_and_Rendering.part1.rar.html
-https://rg.to/file/bd8eae982793ef515fbd40c130d2e7f7/3ds_Max_and_V-Ray_Interior_Lighting_and_Rendering.part2.rar.html
-https://rg.to/file/5fe2648cb7c9acd05385a9aca0de9acd/3ds_Max_and_V-Ray_Interior_Lighting_and_Rendering.part3.rar.html
-https://rg.to/file/05a5c7bc3d02b6359e5a3f7f7986a73c/3ds_Max_and_V-Ray_Interior_Lighting_and_Rendering.part4.rar.html
-https://nitroflare.com/view/EDBD58DD59C2288/3ds_Max_and_V-Ray_Interior_Lighting_and_Rendering.part1.rar
-https://nitroflare.com/view/4537A3A2E0636C6/3ds_Max_and_V-Ray_Interior_Lighting_and_Rendering.part2.rar
-https://nitroflare.com/view/678A4D0C27A00C0/3ds_Max_and_V-Ray_Interior_Lighting_and_Rendering.part3.rar
-https://nitroflare.com/view/F87FD7EFBE0581B/3ds_Max_and_V-Ray_Interior_Lighting_and_Rendering.part4.rar
+https://www.udemy.com/xamarin-forms-2018-apps-para-android-ios-e-uwp-8-apps/
+https://rg.to/file/86c2efe4e81892b7c9c3d407e5ef214c/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part01.rar.html
+https://rg.to/file/03cafb9a66aa60bc8933b8111f126ab6/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part02.rar.html
+https://rg.to/file/0ade5b755fdf29118e9d13bc905d220c/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part03.rar.html
+https://rg.to/file/4004a9ff53385f533470adc7814a9dc2/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part04.rar.html
+https://rg.to/file/7b8f1374eaf52021885272e2092f6ef6/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part05.rar.html
+https://rg.to/file/008c8c1458e054a58d84e4ec6cde07e0/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part06.rar.html
+https://rg.to/file/149380d24df51f92f2874ba3f0c1fb95/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part07.rar.html
+https://rg.to/file/ee217184348c1506404a482d89b0670f/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part08.rar.html
+https://rg.to/file/572f607400d1a157aa35dc46b8f4cc2a/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part09.rar.html
+https://rg.to/file/eebf0bfc7ebf50112c61e8360adfe366/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part10.rar.html
+https://rg.to/file/9a4fc1b3232e9d05e610ddd19da2ca04/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part11.rar.html
+https://rg.to/file/df48d26bfe0c5419d4ddcf466bd44495/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part12.rar.html
+https://rg.to/file/5a7d868b8af7d5d77b9b6f076c6c90a3/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part13.rar.html
+https://rg.to/file/c0c26c0d81ba81545f3565660caae7d4/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part14.rar.html
+https://rg.to/file/f0c3a0319adfb00070746e1ab0bb90f3/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part15.rar.html
+https://rg.to/file/1614ecc59e255b043dec4feb04481c47/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part16.rar.html
+https://rg.to/file/451bc807170370ac17bf7bf184b60c00/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part17.rar.html
+https://rg.to/file/72dd7a3aefe617dd4dbf3abfa56c5238/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part18.rar.html
+https://rg.to/file/3dc2d4089dc762ec37afc1df07d0c515/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part19.rar.html
+https://rg.to/file/782d2f83465ba08d1f8630cc944468ec/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part20.rar.html
+https://rg.to/file/eb18c6355844138ec6c260fe28636782/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part21.rar.html
+https://rg.to/file/9759a342a3c07260f7f08911783fd905/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part22.rar.html
+https://rg.to/file/0b002e38d4cadadacf7c75fb0c8ccdc6/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part23.rar.html
+https://rg.to/file/939b889046422f91e9728abe29832ff1/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part24.rar.html
+https://rg.to/file/dcc27c6bce714faa7db72328840f9db5/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part25.rar.html
+https://rg.to/file/ecc2ddb4e833c3c4b4ce73ef940a5286/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part26.rar.html
+https://rg.to/file/77c5eb182818d27afc6a0a1c2edd89bd/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part27.rar.html
+https://rg.to/file/5a1a3db6095e9f3def5823a556713450/Xamarin_Forms_2018_-_Apps_para_Android,_iOS_e_UWP_-_8_Apps.part28.rar.html
+https://nitroflare.com/view/C0EF690DFC44DEB/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part01.rar
+https://nitroflare.com/view/6916727063FD2F3/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part02.rar
+https://nitroflare.com/view/FA204DEAC2BEED6/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part03.rar
+https://nitroflare.com/view/3DA00D5E8594C6E/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part04.rar
+https://nitroflare.com/view/6460CC57C03C6CD/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part05.rar
+https://nitroflare.com/view/A08EF5E4850C136/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part06.rar
+https://nitroflare.com/view/F61CA788D3EC9FC/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part07.rar
+https://nitroflare.com/view/B5281D71C0DF982/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part08.rar
+https://nitroflare.com/view/73C5CF862484207/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part09.rar
+https://nitroflare.com/view/73482C0CEF8DE89/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part10.rar
+https://nitroflare.com/view/828F236F26CD50A/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part11.rar
+https://nitroflare.com/view/780895C53159DF7/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part12.rar
+https://nitroflare.com/view/7B430F366B67635/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part13.rar
+https://nitroflare.com/view/A2D144B3709FA01/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part14.rar
+https://nitroflare.com/view/8D07DF2FA227EA5/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part15.rar
+https://nitroflare.com/view/98889041D2F4C64/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part16.rar
+https://nitroflare.com/view/6318403D58282F8/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part17.rar
+https://nitroflare.com/view/11B39CFD960849E/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part18.rar
+https://nitroflare.com/view/544AB0E42DCB537/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part19.rar
+https://nitroflare.com/view/644ACF8D5334BDF/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part20.rar
+https://nitroflare.com/view/B33A869C981958F/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part21.rar
+https://nitroflare.com/view/6D206AB43109A14/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part22.rar
+https://nitroflare.com/view/72E813BC96B18AA/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part23.rar
+https://nitroflare.com/view/6992BA4BD079C22/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part24.rar
+https://nitroflare.com/view/5802DDB43C98245/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part25.rar
+https://nitroflare.com/view/896745016256269/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part26.rar
+https://nitroflare.com/view/F1A62924A96E1E9/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part27.rar
+https://nitroflare.com/view/5A1FEC43AAB0C7D/Xamarin_Forms_2018_-_Apps_para_Android%2C_iOS_e_UWP_-_8_Apps.part28.rar
 
 **************************************************
-Mastering C++: The Definitive Beyond the Basics Video Series to Applying Intermediate and Advanced C++ Techniques
-https://www.0daydown.com/03/1012708.html
+Creating Spicy Chili Peppers Using the Volume Mesher
+https://www.0daydown.com/03/1015781.html
 **************************************************
-https://bit.ly/2EJ8GpW
-https://rg.to/file/0eb4e37711f6256c03a983f2eaaaee62/MasccDef.part1.rar.html
-https://rg.to/file/0a0bd614d9b8294dc5504b1e00fa3712/MasccDef.part2.rar.html
-https://rg.to/file/e0ddd179c473387637ffc52db36c801f/MasccDef.part3.rar.html
-https://nitroflare.com/view/1F09079858C1D78/MasccDef.part1.rar
-https://nitroflare.com/view/8467DC1D641AAEA/MasccDef.part2.rar
-https://nitroflare.com/view/2E839319BA8A20E/MasccDef.part3.rar
+https://skl.sh/2OrGJ9x
+https://rg.to/file/92669ed02400adff596484215659bbab/Creating_Spicy_Chili_Peppers_Using_the_Volume_Mesher.part1.rar.html
+https://rg.to/file/465b22fd700f5becf0a348216db916c7/Creating_Spicy_Chili_Peppers_Using_the_Volume_Mesher.part2.rar.html
+https://nitroflare.com/view/58B7957C0820D2F/Creating_Spicy_Chili_Peppers_Using_the_Volume_Mesher.part1.rar
+https://nitroflare.com/view/8C75BFDCD3CA7D6/Creating_Spicy_Chili_Peppers_Using_the_Volume_Mesher.part2.rar
 
 **************************************************
-Revit 2019 Architectural Course For Beginner With Project
-https://www.0daydown.com/03/1012562.html
+QuickBooks Pro 2019 Essential Training
+https://www.0daydown.com/03/1015791.html
 **************************************************
-https://www.udemy.com/revit2017/
-https://rg.to/file/96ff46289ceff1b26a25347527db7c61/Revit_2019_Architectural_Course_For_Beginner_With_Project.part1.rar.html
-https://rg.to/file/c4af69d4e02bc583bb0b6ff08e6170ec/Revit_2019_Architectural_Course_For_Beginner_With_Project.part2.rar.html
-https://rg.to/file/33e36be5f50b1e92b9b27f908cd5950a/Revit_2019_Architectural_Course_For_Beginner_With_Project.part3.rar.html
-https://rg.to/file/daa21a480be310fcc81c15052df9a843/Revit_2019_Architectural_Course_For_Beginner_With_Project.part4.rar.html
-https://rg.to/file/d04343abfb3cdd5c799a6358e0c4413e/Revit_2019_Architectural_Course_For_Beginner_With_Project.part5.rar.html
-https://nitroflare.com/view/9778E94F243511C/Revit_2019_Architectural_Course_For_Beginner_With_Project.part1.rar
-https://nitroflare.com/view/4FE056491346130/Revit_2019_Architectural_Course_For_Beginner_With_Project.part2.rar
-https://nitroflare.com/view/EB9C5FB703A6D33/Revit_2019_Architectural_Course_For_Beginner_With_Project.part3.rar
-https://nitroflare.com/view/88094C72C46CEE6/Revit_2019_Architectural_Course_For_Beginner_With_Project.part4.rar
-https://nitroflare.com/view/CFFA9B670A5CB18/Revit_2019_Architectural_Course_For_Beginner_With_Project.part5.rar
+https://www.lynda.com/QuickBooks-Pro-tutorials/QuickBooks-Pro-2019-Essential-Training/786351-2.html
+https://rg.to/file/1c9e26188fa7dceeeef1e6ae36e165c0/QuickBooks_Pro_2019_Essential_Training.part1.rar.html
+https://rg.to/file/5fe4df45e684cb5ddfb241c605372dbe/QuickBooks_Pro_2019_Essential_Training.part2.rar.html
+https://nitroflare.com/view/E3759D2DC7060D1/QuickBooks_Pro_2019_Essential_Training.part1.rar
+https://nitroflare.com/view/A4A22048825BB90/QuickBooks_Pro_2019_Essential_Training.part2.rar
 
 **************************************************
-Python for Beginners: Learn Python Programming
-https://www.0daydown.com/03/1012517.html
+JavaScript Programming from A-Z: Learn to Code in JavaScript
+https://www.0daydown.com/03/1015673.html
 **************************************************
-https://rg.to/file/8881a08281ed2c3ce3277c03e393cf36/Python_for_Beginners_Learn_Python_Programming.part1.rar.html
-https://rg.to/file/9a0be1b6c44f578e2b9244752312ac9a/Python_for_Beginners_Learn_Python_Programming.part2.rar.html
-https://rg.to/file/b04214bbffbab7154825fc43820b2e2f/Python_for_Beginners_Learn_Python_Programming.part3.rar.html
-https://nitroflare.com/view/891602BDCF70564/Python_for_Beginners_Learn_Python_Programming.part1.rar
-https://nitroflare.com/view/B7C725B5BB12D78/Python_for_Beginners_Learn_Python_Programming.part2.rar
-https://nitroflare.com/view/08875E1356942E3/Python_for_Beginners_Learn_Python_Programming.part3.rar
+https://rg.to/file/ec7280fa21a837f0c93e7c44b7c2aa34/JavaScript_Programming_from_A-Z_Learn_to_Code_in_JavaScript.part1.rar.html
+https://rg.to/file/568eb544e9517606bb3ce542dca02a57/JavaScript_Programming_from_A-Z_Learn_to_Code_in_JavaScript.part2.rar.html
+https://nitroflare.com/view/7285C07460E062F/JavaScript_Programming_from_A-Z_Learn_to_Code_in_JavaScript.part1.rar
+https://nitroflare.com/view/A68F2F1B001458E/JavaScript_Programming_from_A-Z_Learn_to_Code_in_JavaScript.part2.rar
 
 **************************************************
-FL Studio 20: Customize FL Studio for Mac & PC
-https://www.0daydown.com/03/1012535.html
+Digishock 1.0 Basics: Create Operating System without code
+https://www.0daydown.com/03/1015675.html
 **************************************************
-https://rg.to/file/64467e0e50f3a731f07f9b87cae86d55/FL_Studio_20_Customize_FL_Studio_for_Mac_&_PC.part1.rar.html
-https://rg.to/file/cc9d9f4f11a38b3b3da367654b7b082f/FL_Studio_20_Customize_FL_Studio_for_Mac_&_PC.part2.rar.html
-https://nitroflare.com/view/EB178F75A02DF35/FL_Studio_20_Customize_FL_Studio_for_Mac_%26_PC.part1.rar
-https://nitroflare.com/view/5C21386D1086F5C/FL_Studio_20_Customize_FL_Studio_for_Mac_%26_PC.part2.rar
+https://rg.to/file/c6c325412318b6e06de360440c06e303/Digishock_1.0_Basics_Create_Operating_System_without_code.part1.rar.html
+https://rg.to/file/e28d01065b52a0a6cf83c8a9798c9255/Digishock_1.0_Basics_Create_Operating_System_without_code.part2.rar.html
+https://nitroflare.com/view/0D720E447E93C12/Digishock_1.0_Basics_Create_Operating_System_without_code.part1.rar
+https://nitroflare.com/view/5656D97A6AF1435/Digishock_1.0_Basics_Create_Operating_System_without_code.part2.rar
 
 **************************************************
-Gumroad – Fog Preset Pack – For Octane in Cinema4D
-https://www.0daydown.com/03/1012731.html
+Videohive Collection Mar 3 2019
+https://www.0daydown.com/03/1015811.html
 **************************************************
-https://rg.to/file/cd3abca935baef5cb5888294cfebcf65/GRFogPresetPackForOctaneinCinema4D.part1.rar.html
-https://rg.to/file/f04d3f103d98c6bbbd7761b517dbc0e4/GRFogPresetPackForOctaneinCinema4D.part2.rar.html
-https://nitroflare.com/view/4487470AD53E8BA/GRFogPresetPackForOctaneinCinema4D.part1.rar
-https://nitroflare.com/view/3787A53463F8F94/GRFogPresetPackForOctaneinCinema4D.part2.rar
+https://rg.to/file/518a53239c6390ebcf932c84683353e2/VideohiveCollectionMar32019.part01.rar.html
+https://rg.to/file/9a5c0411182d948b8ea835844f84a67c/VideohiveCollectionMar32019.part02.rar.html
+https://rg.to/file/4200c1b1ba27f431f9eb52f9c8b9ce96/VideohiveCollectionMar32019.part03.rar.html
+https://rg.to/file/8ebbade61f3140298af7d9fde73850af/VideohiveCollectionMar32019.part04.rar.html
+https://rg.to/file/761f2a0a060e40c41a7ee76b199572bd/VideohiveCollectionMar32019.part05.rar.html
+https://rg.to/file/3e066f77bcbd8a1037bfcf4299861871/VideohiveCollectionMar32019.part06.rar.html
+https://rg.to/file/8319407f8b0d944b5f0eaa2588919528/VideohiveCollectionMar32019.part07.rar.html
+https://rg.to/file/efa76c366b76e1e08e0640a3f2c27b45/VideohiveCollectionMar32019.part08.rar.html
+https://rg.to/file/ae7f610a224a001807da9c11cdadde07/VideohiveCollectionMar32019.part09.rar.html
+https://rg.to/file/9c946b1aa86706c09d2daa52fff2a018/VideohiveCollectionMar32019.part10.rar.html
+https://rg.to/file/a952423b68fe0334cdfd490eef9057a9/VideohiveCollectionMar32019.part10.rar.html
+https://rg.to/file/f6de50963fff8ffe9d7a4760e8d6bd2e/VideohiveCollectionMar32019.part11.rar.html
+https://rg.to/file/dca43192ef827a36b8356e922120f18d/VideohiveCollectionMar32019.part12.rar.html
+https://rg.to/file/43ed0a27e90a6f4cda4b4213bea6cdd3/VideohiveCollectionMar32019.part13.rar.html
+https://rg.to/file/f50183b29b96c1a6c755dcfe76044da8/VideohiveCollectionMar32019.part14.rar.html
+https://rg.to/file/e83d907eaf3550f1aae52ef6602b74c0/VideohiveCollectionMar32019.part15.rar.html
+https://rg.to/file/3eeed4444a5ac4497bf96781e034c768/VideohiveCollectionMar32019.part16.rar.html
+https://rg.to/file/fc675c9622cd04b6d54ebe033cc43085/VideohiveCollectionMar32019.part17.rar.html
+https://rg.to/file/17999d0e4e052bba5307f9154b5f876c/VideohiveCollectionMar32019.part18.rar.html
+https://rg.to/file/351d5ac6f54efc576422f97f2935d154/VideohiveCollectionMar32019.part19.rar.html
+https://rg.to/file/4d7753997506966a1105acc0acec9f4e/VideohiveCollectionMar32019.part20.rar.html
+https://rg.to/file/c003d190ce7fed2159d19fc488607f19/VideohiveCollectionMar32019.part21.rar.html
+https://rg.to/file/93728fedfe03d705106106d15c47c25e/VideohiveCollectionMar32019.part22.rar.html
+https://rg.to/file/34f3dbdf3172cc611609bf533e3cf0c3/VideohiveCollectionMar32019.part23.rar.html
+https://rg.to/file/353ebd52619186ea4b548f4ccc3d5bd3/VideohiveCollectionMar32019.part24.rar.html
+https://rg.to/file/ab6c7b54e938c67d8c761761a238e8ff/VideohiveCollectionMar32019.part25.rar.html
+https://rg.to/file/1ea92e7905ff4fcdbb6a71be05e73652/VideohiveCollectionMar32019.part26.rar.html
+https://rg.to/file/77cce2a17a2991cd45e40b9c0ddb7d02/VideohiveCollectionMar32019.part27.rar.html
+https://rg.to/file/d6aeb062f2a4cd4b334fd386de2c2356/VideohiveCollectionMar32019.part28.rar.html
+https://rg.to/file/a14b5ae88a8b9c1c17be61485119c771/VideohiveCollectionMar32019.part29.rar.html
+https://rg.to/file/6661c29640a796a09b4f17abd8981e3f/VideohiveCollectionMar32019.part30.rar.html
+https://rg.to/file/b399f9bd929bed59f84d359bcdd4f03d/VideohiveCollectionMar32019.part31.rar.html
+https://nitroflare.com/view/C09B43639CA702A/VideohiveCollectionMar32019.part01.rar
+https://nitroflare.com/view/47CF2A422A07B72/VideohiveCollectionMar32019.part02.rar
+https://nitroflare.com/view/BF0F2CBFBDF64CE/VideohiveCollectionMar32019.part03.rar
+https://nitroflare.com/view/51B6E103AEBE20A/VideohiveCollectionMar32019.part04.rar
+https://nitroflare.com/view/F64768A891E26DB/VideohiveCollectionMar32019.part05.rar
+https://nitroflare.com/view/4E016416CC5789E/VideohiveCollectionMar32019.part06.rar
+https://nitroflare.com/view/AEE1A117CB70804/VideohiveCollectionMar32019.part07.rar
+https://nitroflare.com/view/FD6461D92C73ADD/VideohiveCollectionMar32019.part08.rar
+https://nitroflare.com/view/B52120A9F4AF0EC/VideohiveCollectionMar32019.part09.rar
+https://nitroflare.com/view/785FB8724FC0C36/VideohiveCollectionMar32019.part10.rar
+https://nitroflare.com/view/0B9C443CC1642FD/VideohiveCollectionMar32019.part11.rar
+https://nitroflare.com/view/395DF66A5063ECF/VideohiveCollectionMar32019.part12.rar
+https://nitroflare.com/view/45ACA5B7A31A337/VideohiveCollectionMar32019.part13.rar
+https://nitroflare.com/view/D25F6E792E38D4D/VideohiveCollectionMar32019.part14.rar
+https://nitroflare.com/view/2E6EA840C38061E/VideohiveCollectionMar32019.part15.rar
+https://nitroflare.com/view/0F866C916C4140E/VideohiveCollectionMar32019.part16.rar
+https://nitroflare.com/view/67C03BA3D2FF5AC/VideohiveCollectionMar32019.part17.rar
+https://nitroflare.com/view/9360E87F2D1182D/VideohiveCollectionMar32019.part18.rar
+https://nitroflare.com/view/04738F190377531/VideohiveCollectionMar32019.part19.rar
+https://nitroflare.com/view/4578CD5D9465010/VideohiveCollectionMar32019.part20.rar
+https://nitroflare.com/view/7058D36F0DCD4B2/VideohiveCollectionMar32019.part21.rar
+https://nitroflare.com/view/A0C94AAF3D4582E/VideohiveCollectionMar32019.part22.rar
+https://nitroflare.com/view/2436F569DEE2E46/VideohiveCollectionMar32019.part23.rar
+https://nitroflare.com/view/629EB371EA6C391/VideohiveCollectionMar32019.part24.rar
+https://nitroflare.com/view/E8D4C3A6D589866/VideohiveCollectionMar32019.part25.rar
+https://nitroflare.com/view/A8F1DA79B8C445C/VideohiveCollectionMar32019.part26.rar
+https://nitroflare.com/view/B7515F49AA2D4F9/VideohiveCollectionMar32019.part27.rar
+https://nitroflare.com/view/029DA079DDF9646/VideohiveCollectionMar32019.part28.rar
+https://nitroflare.com/view/E65325111FF897F/VideohiveCollectionMar32019.part29.rar
+https://nitroflare.com/view/AD9358B18711054/VideohiveCollectionMar32019.part30.rar
+https://nitroflare.com/view/01D4BC050A838CA/VideohiveCollectionMar32019.part31.rar
 
 **************************************************
-Unity Asset Bundle 2 Mar 2019
-https://www.0daydown.com/03/1012721.html
+Skillshare – Create A Motion Comic Tutorial Bundle
+https://www.0daydown.com/03/1015812.html
 **************************************************
-https://rg.to/file/408012858dc66f3f375c833f36fa68d9/UnityAssetBundle2Mar2019.part01.rar.html
-https://rg.to/file/1385c40277525aa73a6488ba98871ec6/UnityAssetBundle2Mar2019.part02.rar.html
-https://rg.to/file/522791c20742ad9a990d13bc18ecc9e1/UnityAssetBundle2Mar2019.part03.rar.html
-https://rg.to/file/4b0e07d0886b1963b7aeec0229979dda/UnityAssetBundle2Mar2019.part04.rar.html
-https://rg.to/file/aa6f12c7f0edcc735224fbe2389e5a50/UnityAssetBundle2Mar2019.part05.rar.html
-https://rg.to/file/30ba65d558f711c4b78f1bc5ede2d1d8/UnityAssetBundle2Mar2019.part06.rar.html
-https://rg.to/file/d6093678d814a93114b246ef48d0533c/UnityAssetBundle2Mar2019.part07.rar.html
-https://rg.to/file/745a6daeded240353008d00ede9c7046/UnityAssetBundle2Mar2019.part08.rar.html
-https://rg.to/file/ff81a3fabce6b1527ef26fac895c8591/UnityAssetBundle2Mar2019.part09.rar.html
-https://nitroflare.com/view/B72900D7E828C5F/UnityAssetBundle2Mar2019.part01.rar
-https://nitroflare.com/view/AC1518962C8E824/UnityAssetBundle2Mar2019.part02.rar
-https://nitroflare.com/view/2D27FD06A0883C6/UnityAssetBundle2Mar2019.part03.rar
-https://nitroflare.com/view/E833F9820D6D00E/UnityAssetBundle2Mar2019.part04.rar
-https://nitroflare.com/view/905A4CFF8F0218C/UnityAssetBundle2Mar2019.part05.rar
-https://nitroflare.com/view/4851AC0C290A015/UnityAssetBundle2Mar2019.part06.rar
-https://nitroflare.com/view/7A24AF834D6851A/UnityAssetBundle2Mar2019.part07.rar
-https://nitroflare.com/view/4D66FC84DD12A17/UnityAssetBundle2Mar2019.part08.rar
-https://nitroflare.com/view/E65E3E56C817999/UnityAssetBundle2Mar2019.part09.rar
+https://rg.to/file/f2ef7431628fdb7be7ac2294ac8fbbd8/SkSCreateAMotionComicTutorialBundle.part1.rar.html
+https://rg.to/file/066c5bb71546e314806a8940ea0a436b/SkSCreateAMotionComicTutorialBundle.part2.rar.html
+https://rg.to/file/29ad6c43864ac09790f07b90fd1a3f27/SkSCreateAMotionComicTutorialBundle.part3.rar.html
+https://nitroflare.com/view/F9E98144410B0F5/SkSCreateAMotionComicTutorialBundle.part1.rar
+https://nitroflare.com/view/CC902CD3D690399/SkSCreateAMotionComicTutorialBundle.part2.rar
+https://nitroflare.com/view/EFED0E0FA2F2342/SkSCreateAMotionComicTutorialBundle.part3.rar
 
 **************************************************
-3DMotive – Catacomb in ZBrush Series Volume 2
-https://www.0daydown.com/03/1012720.html
+Gumroad – Megacity 01 – Modeling and rendering in Blender and Eevee
+https://www.0daydown.com/03/1015802.html
 **************************************************
-https://rg.to/file/e9fdc9c2cebef3ceedc191c5e01f33b2/3DMCatacombinZBrushSeriesVolume2.part1.rar.html
-https://rg.to/file/20ccc4e39f0eabc8d7212018be2ba759/3DMCatacombinZBrushSeriesVolume2.part2.rar.html
-https://rg.to/file/80e82aa9e7f70e7d620c690b1c1acc66/3DMCatacombinZBrushSeriesVolume2.part3.rar.html
-https://nitroflare.com/view/C38E35DF3C963D8/3DMCatacombinZBrushSeriesVolume2.part1.rar
-https://nitroflare.com/view/4123FBF43957411/3DMCatacombinZBrushSeriesVolume2.part2.rar
-https://nitroflare.com/view/751B659A15CA6A7/3DMCatacombinZBrushSeriesVolume2.part3.rar
+https://rg.to/file/8047a59d59b11c95bad423ba8208eacf/GRMegacity01ModelingandrenderinginBlenderandEevee.part1.rar.html
+https://rg.to/file/d4a2a4b5fc48a25e2ff7eaeab82f82fb/GRMegacity01ModelingandrenderinginBlenderandEevee.part2.rar.html
+https://rg.to/file/5f5922ccbe2bffa186aa4e1f0b87b537/GRMegacity01ModelingandrenderinginBlenderandEevee.part3.rar.html
+https://nitroflare.com/view/AA38E10D9C22498/GRMegacity01ModelingandrenderinginBlenderandEevee.part1.rar
+https://nitroflare.com/view/D3E3B24FBB9E2B9/GRMegacity01ModelingandrenderinginBlenderandEevee.part2.rar
+https://nitroflare.com/view/612736773C846AA/GRMegacity01ModelingandrenderinginBlenderandEevee.part3.rar
 
 **************************************************
-HTML5 and CSS3 Step-by-Step from the complete Scratch
-https://www.0daydown.com/03/1012403.html
+Jeff McErlain's Essentials: Chord Tone Soloing
+https://www.0daydown.com/03/1015803.html
 **************************************************
-https://www.udemy.com/html5-and-css3-step-by-step-from-the-complete-scratch/
-https://rg.to/file/f98e4cb46f2df5ee1a3f4215c114000d/HTML5_and_CSS3_Step-by-Step_from_the_complete_Scratch.part1.rar.html
-https://rg.to/file/22ac534fc8a6e97a5ee26cb1f8f5a4ae/HTML5_and_CSS3_Step-by-Step_from_the_complete_Scratch.part2.rar.html
-https://rg.to/file/99916a9f7e2a72ff53687b4f53775b21/HTML5_and_CSS3_Step-by-Step_from_the_complete_Scratch.part3.rar.html
-https://rg.to/file/84af9b854db5c36a41ebab41f8ef3137/HTML5_and_CSS3_Step-by-Step_from_the_complete_Scratch.part4.rar.html
-https://nitroflare.com/view/99C2F45741369DB/HTML5_and_CSS3_Step-by-Step_from_the_complete_Scratch.part1.rar
-https://nitroflare.com/view/1BA82509A77B9FC/HTML5_and_CSS3_Step-by-Step_from_the_complete_Scratch.part2.rar
-https://nitroflare.com/view/2BBE8E811D693C7/HTML5_and_CSS3_Step-by-Step_from_the_complete_Scratch.part3.rar
-https://nitroflare.com/view/898936493E16453/HTML5_and_CSS3_Step-by-Step_from_the_complete_Scratch.part4.rar
+https://truefire.com/essentials-guitar-lessons/chord-tone-soloing/c1157
+https://rg.to/file/ed51dd40d94bc855e5059e43b68c83f5/Chord.Tone.Soloing.part1.rar.html
+https://rg.to/file/c1cf193a2dbbcc0adc437a2ffe0408e6/Chord.Tone.Soloing.part2.rar.html
+https://nitroflare.com/view/4272D7DF8C4E425/Chord.Tone.Soloing.part1.rar
+https://nitroflare.com/view/A5D53ACF582F189/Chord.Tone.Soloing.part2.rar
 
 **************************************************
-Project in DevOps - Build Real World Processes
-https://www.0daydown.com/03/1012391.html
+Unity By Example : 20+ Mini Projects in Unity
+https://www.0daydown.com/03/1015381.html
 **************************************************
-https://rg.to/file/c73e2216201470c2714d5d1956a8f35b/Project_in_DevOps_-_Build_Real_World_Processes.part1.rar.html
-https://rg.to/file/09d528fb668df75f0b0461c43f96c324/Project_in_DevOps_-_Build_Real_World_Processes.part2.rar.html
-https://nitroflare.com/view/EC1A417F92D8A08/Project_in_DevOps_-_Build_Real_World_Processes.part1.rar
-https://nitroflare.com/view/0EDB205F67F51B4/Project_in_DevOps_-_Build_Real_World_Processes.part2.rar
 
 **************************************************
-Responsive Web Development HTML & CSS for Web Designers
-https://www.0daydown.com/03/1012240.html
+Concept Art Masterclass | Create Conceptual Art from Scratch
+https://www.0daydown.com/03/1015301.html
 **************************************************
-https://skl.sh/2JikBPX
-https://rg.to/file/4fea5f96051a12643c6d59f13b7136f6/Responsive_Web_Development_HTML_&_CSS_for_Web_Designers.part1.rar.html
-https://rg.to/file/ac55f51ad19a4d50332f2eb6c67a5d8d/Responsive_Web_Development_HTML_&_CSS_for_Web_Designers.part2.rar.html
-https://nitroflare.com/view/399141866444EB3/Responsive_Web_Development_HTML_%26_CSS_for_Web_Designers.part1.rar
-https://nitroflare.com/view/F2BFE4F7E731313/Responsive_Web_Development_HTML_%26_CSS_for_Web_Designers.part2.rar
+https://rg.to/file/a779c72c3cdad895381500371b0a592e/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part01.rar.html
+https://rg.to/file/e322fe048a2f55ed8ae3ea7a76d3a6de/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part02.rar.html
+https://rg.to/file/dbebc959ba233ff4f13f50798edee26c/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part03.rar.html
+https://rg.to/file/c456ac5980edfd309a53371f11c26416/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part04.rar.html
+https://rg.to/file/826e59552a0292edd289db4c7f18c194/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part05.rar.html
+https://rg.to/file/0467f3630747b8e711a3e0a07b7c4405/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part06.rar.html
+https://rg.to/file/847fb8d9533093b508ff3b2706a7ce86/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part07.rar.html
+https://rg.to/file/91b5a2d3e3895e7808e2c93a0a2be5d3/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part08.rar.html
+https://rg.to/file/385d51d41bf177d1970a2447d70b6ba9/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part09.rar.html
+https://rg.to/file/ccd407c312556fba90708428c0608fe4/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part10.rar.html
+https://rg.to/file/fb62666b51dc4646d1ae4c973011d95b/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part11.rar.html
+https://rg.to/file/58f81b898d424109683a1cde7f4a3f6b/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part12.rar.html
+https://rg.to/file/19b22e93bb0a1489362de4bcdebc8bba/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part13.rar.html
+https://rg.to/file/7bf334713ad5323218151a110d502b00/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part14.rar.html
+https://rg.to/file/2b2f5fcd5d75ba2ae4c92c1acb09d5ce/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part15.rar.html
+https://nitroflare.com/view/4DC784EA3E98929/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part01.rar
+https://nitroflare.com/view/92667CA1658DE7F/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part02.rar
+https://nitroflare.com/view/35EC0A21F3C3253/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part03.rar
+https://nitroflare.com/view/93D7BD7990D9A19/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part04.rar
+https://nitroflare.com/view/3E4E59CBFCD2729/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part05.rar
+https://nitroflare.com/view/7584056057B93C6/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part06.rar
+https://nitroflare.com/view/6A6DBDA91AF43C6/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part07.rar
+https://nitroflare.com/view/3055A01CEEC9C26/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part08.rar
+https://nitroflare.com/view/93F439ACCAAB312/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part09.rar
+https://nitroflare.com/view/4D9E6BEDDBBEA12/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part10.rar
+https://nitroflare.com/view/02E80A44B17E661/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part11.rar
+https://nitroflare.com/view/84926DEB9354F40/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part12.rar
+https://nitroflare.com/view/A8D643EB38352EE/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part13.rar
+https://nitroflare.com/view/FCBD2256E6145D6/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part14.rar
+https://nitroflare.com/view/0D6783221400ADE/Concept_Art_Masterclass__Create_Conceptual_Art_from_Scratch.part15.rar
 
 **************************************************
-Websockets, tcp and udp in c# .NET CORE 3.0
-https://www.0daydown.com/03/1012174.html
+The Complete Python Programming Course for Beginners
+https://www.0daydown.com/03/1015303.html
 **************************************************
-https://rg.to/file/94a11b7b678e7d11125ee52af26b2d18/Websockets_tcp_and_udp_in_c#_.NET_CORE_3.0.part1.rar.html
-https://rg.to/file/b5a24048080232489108537098bb0bfd/Websockets_tcp_and_udp_in_c#_.NET_CORE_3.0.part2.rar.html
-https://nitroflare.com/view/A738D7B1DA03A98/Websockets_tcp_and_udp_in_c%23_.NET_CORE_3.0.part1.rar
-https://nitroflare.com/view/425040D10733237/Websockets_tcp_and_udp_in_c%23_.NET_CORE_3.0.part2.rar
+https://rg.to/file/5ab1fa82ece4afa915fd7efdd96906f2/TheCompletePythonProgrammingCoursef.part01.rar.html
+https://rg.to/file/2950a5d59f083c9f302af53a02ed0ac3/TheCompletePythonProgrammingCoursef.part02.rar.html
+https://rg.to/file/6f30c74adf774e9ad3f8c9077015703a/TheCompletePythonProgrammingCoursef.part03.rar.html
+https://rg.to/file/8a79792943ccfcb36111f7615cf575be/TheCompletePythonProgrammingCoursef.part04.rar.html
+https://rg.to/file/f0d17f8cb87fe7e55f50415b36c926d7/TheCompletePythonProgrammingCoursef.part05.rar.html
+https://rg.to/file/a4298d1f2d07c349756bf0878f884008/TheCompletePythonProgrammingCoursef.part06.rar.html
+https://rg.to/file/a09d38728f58383cc0ea0656dfc38b6e/TheCompletePythonProgrammingCoursef.part07.rar.html
+https://rg.to/file/adf44855c94ce8c9c6b9ad1d2f6a0d89/TheCompletePythonProgrammingCoursef.part08.rar.html
+https://rg.to/file/b6753eb26a2ce17d41b0d374e6eb65f5/TheCompletePythonProgrammingCoursef.part09.rar.html
+https://rg.to/file/b4251776b6da38a6e0477c855a62b349/TheCompletePythonProgrammingCoursef.part10.rar.html
+https://rg.to/file/b3f90b1ba7d327d504e8aa90066ecb33/TheCompletePythonProgrammingCoursef.part11.rar.html
+https://rg.to/file/abadc4f976ac6eeb16cde3c3df58750d/TheCompletePythonProgrammingCoursef.part12.rar.html
+https://rg.to/file/1706d074bd519bf77067bae8b109c7a6/TheCompletePythonProgrammingCoursef.part13.rar.html
+https://rg.to/file/a52dd8bab493b5a0055c35f485dfa689/TheCompletePythonProgrammingCoursef.part14.rar.html
+https://rg.to/file/169bd13f7fba879f146844f7428973ca/TheCompletePythonProgrammingCoursef.part15.rar.html
+https://rg.to/file/e529e5b28a917e23d044c910db5c4a9e/TheCompletePythonProgrammingCoursef.part16.rar.html
+https://rg.to/file/c2a04e9f1d6d8179de53576bcbab57bb/TheCompletePythonProgrammingCoursef.part17.rar.html
+https://rg.to/file/7787bae71c27a3f6b4d5dcc255a2a2a9/TheCompletePythonProgrammingCoursef.part18.rar.html
+https://rg.to/file/d4953f8f238823251d12607bfb4e59a0/TheCompletePythonProgrammingCoursef.part19.rar.html
+https://rg.to/file/1b0ff51f35fc794a857ec4a6b21a0d9a/TheCompletePythonProgrammingCoursef.part20.rar.html
+https://rg.to/file/3e314a4196a1c226640e207e2773094e/TheCompletePythonProgrammingCoursef.part21.rar.html
+https://rg.to/file/295f7084dad9f75d6fe94a6edb0b79e1/TheCompletePythonProgrammingCoursef.part22.rar.html
+https://rg.to/file/e6b8a9d30aeb319db97b37648bd57d91/TheCompletePythonProgrammingCoursef.part23.rar.html
+https://nitroflare.com/view/57DBE3104AEF4BE/TheCompletePythonProgrammingCoursef.part01.rar
+https://nitroflare.com/view/5758B281067D868/TheCompletePythonProgrammingCoursef.part02.rar
+https://nitroflare.com/view/4DD803B3FDFE799/TheCompletePythonProgrammingCoursef.part03.rar
+https://nitroflare.com/view/6DCFBA9A4E89CB2/TheCompletePythonProgrammingCoursef.part04.rar
+https://nitroflare.com/view/3FFBCF13416B538/TheCompletePythonProgrammingCoursef.part05.rar
+https://nitroflare.com/view/AC8A7834EC6F880/TheCompletePythonProgrammingCoursef.part06.rar
+https://nitroflare.com/view/4652CDF5F8F0853/TheCompletePythonProgrammingCoursef.part07.rar
+https://nitroflare.com/view/C4E62083AF0220C/TheCompletePythonProgrammingCoursef.part08.rar
+https://nitroflare.com/view/C16A1BE5D72CC73/TheCompletePythonProgrammingCoursef.part09.rar
+https://nitroflare.com/view/A73AF7692FECD2B/TheCompletePythonProgrammingCoursef.part10.rar
+https://nitroflare.com/view/D27E87BBD72F962/TheCompletePythonProgrammingCoursef.part11.rar
+https://nitroflare.com/view/98958EA6435F0A4/TheCompletePythonProgrammingCoursef.part12.rar
+https://nitroflare.com/view/5BD62149A6039EC/TheCompletePythonProgrammingCoursef.part13.rar
+https://nitroflare.com/view/FC1F54767A575DA/TheCompletePythonProgrammingCoursef.part14.rar
+https://nitroflare.com/view/0B48B9531734BA0/TheCompletePythonProgrammingCoursef.part15.rar
+https://nitroflare.com/view/83A504D9E18EC21/TheCompletePythonProgrammingCoursef.part16.rar
+https://nitroflare.com/view/32A5175D5DE4E86/TheCompletePythonProgrammingCoursef.part17.rar
+https://nitroflare.com/view/E11ED3BC165964E/TheCompletePythonProgrammingCoursef.part18.rar
+https://nitroflare.com/view/FD1E75BAC085BBB/TheCompletePythonProgrammingCoursef.part19.rar
+https://nitroflare.com/view/567A6B4BAECC35E/TheCompletePythonProgrammingCoursef.part20.rar
+https://nitroflare.com/view/FC81E9737419BED/TheCompletePythonProgrammingCoursef.part21.rar
+https://nitroflare.com/view/FC1FAEB7DB4BB9E/TheCompletePythonProgrammingCoursef.part22.rar
+https://nitroflare.com/view/A9DD2CAC2B48461/TheCompletePythonProgrammingCoursef.part23.rar
 
 **************************************************
-Ethical Hacking + Bug Bounty in IT Security
-https://www.0daydown.com/03/1012176.html
+Clean Coding and Refactoring
+https://www.0daydown.com/03/1015305.html
 **************************************************
-https://rg.to/file/e90be146033f54491e102dbeb0bc5861/Ethical_Hacking___Bug_Bounty_in_IT_Security.part1.rar.html
-https://rg.to/file/7a4e5f726c16bfaa9a6f7d5e6b7ffafc/Ethical_Hacking___Bug_Bounty_in_IT_Security.part2.rar.html
-https://rg.to/file/c358cee2a2465367f47ab19027d94682/Ethical_Hacking___Bug_Bounty_in_IT_Security.part3.rar.html
-https://nitroflare.com/view/AF48BB7CAB1011E/Ethical_Hacking___Bug_Bounty_in_IT_Security.part1.rar
-https://nitroflare.com/view/96237E3C58F0727/Ethical_Hacking___Bug_Bounty_in_IT_Security.part2.rar
-https://nitroflare.com/view/DC3AA17BB685185/Ethical_Hacking___Bug_Bounty_in_IT_Security.part3.rar
+https://rg.to/file/5bd3b9eb65d805fc3afd28b279c29521/CleanCodingandRefactoring.part1.rar.html
+https://rg.to/file/7796f39f07392462e08233c4f44a5a48/CleanCodingandRefactoring.part2.rar.html
+https://rg.to/file/98b06dffcbb6ec18c2ef8272a9f19d3f/CleanCodingandRefactoring.part3.rar.html
+https://rg.to/file/f5c74083f4f202aa79e2fb5405a48607/CleanCodingandRefactoring.part4.rar.html
+https://rg.to/file/610c7351bee0686255d89ecbe33073e4/CleanCodingandRefactoring.part5.rar.html
+https://rg.to/file/376202eb7458bf48ba180c19638a1dba/CleanCodingandRefactoring.part6.rar.html
+https://nitroflare.com/view/85690CE163D3755/CleanCodingandRefactoring.part1.rar
+https://nitroflare.com/view/BF8CC88353A8E1E/CleanCodingandRefactoring.part2.rar
+https://nitroflare.com/view/64EC65FA4629F32/CleanCodingandRefactoring.part3.rar
+https://nitroflare.com/view/780AFC62704148B/CleanCodingandRefactoring.part4.rar
+https://nitroflare.com/view/D96A08567EC8B67/CleanCodingandRefactoring.part5.rar
+https://nitroflare.com/view/D63A8E30C83A2DE/CleanCodingandRefactoring.part6.rar
 
 **************************************************
-Gumroad – Concept Art For Games RTS Environment Design
-https://www.0daydown.com/03/1012310.html
+Python Programming for Developers
+https://www.0daydown.com/03/1015307.html
 **************************************************
-https://rg.to/file/20200714b872779c3fd395090bfeb6f4/GRConceptArtForGamesRTSEnvironmentDesign.rar.html
-https://nitroflare.com/view/58A020E5E914835/GRConceptArtForGamesRTSEnvironmentDesign.rar
+https://rg.to/file/a9fcad5ca7183f6763fe9917652affdf/PythonProgrammingforDevelopers.part01.rar.html
+https://rg.to/file/7ca5606105c13f2ebeb7c8a3affd40dd/PythonProgrammingforDevelopers.part02.rar.html
+https://rg.to/file/df97b2f17438357666aa7069380d951f/PythonProgrammingforDevelopers.part03.rar.html
+https://rg.to/file/33d53ca09a17b2174d611d7d3d06e65b/PythonProgrammingforDevelopers.part04.rar.html
+https://rg.to/file/ff0bc51cf9de28c1a74267ede0d98c65/PythonProgrammingforDevelopers.part05.rar.html
+https://rg.to/file/5e22f26812863c3a868d1158469beeef/PythonProgrammingforDevelopers.part06.rar.html
+https://rg.to/file/4febdfecc057fc1acd78b8856a69c4dc/PythonProgrammingforDevelopers.part07.rar.html
+https://rg.to/file/20e58123ab01bd900eb34654038cc390/PythonProgrammingforDevelopers.part08.rar.html
+https://rg.to/file/fc7d5a121cca992bcc28dcc0b0c60f5a/PythonProgrammingforDevelopers.part09.rar.html
+https://rg.to/file/8ea1ff027bb13015e02234ed55e237eb/PythonProgrammingforDevelopers.part10.rar.html
+https://rg.to/file/8da5477e16e890917744fbf2d913adf5/PythonProgrammingforDevelopers.part11.rar.html
+https://rg.to/file/2c8b9450ed75ad014b31689fededa41e/PythonProgrammingforDevelopers.part12.rar.html
+https://rg.to/file/5c90c9240dc6e90ccc6670fbdaa30053/PythonProgrammingforDevelopers.part13.rar.html
+https://rg.to/file/cd302b16971042cc233df4342cf6f91d/PythonProgrammingforDevelopers.part14.rar.html
+https://rg.to/file/7e94af8368c6de7567190af17792422e/PythonProgrammingforDevelopers.part15.rar.html
+https://rg.to/file/bd6e936398250e11a91c04ca7bd463ef/PythonProgrammingforDevelopers.part16.rar.html
+https://nitroflare.com/view/70D82EF791529F8/PythonProgrammingforDevelopers.part01.rar
+https://nitroflare.com/view/3E2F0136CB4C458/PythonProgrammingforDevelopers.part02.rar
+https://nitroflare.com/view/BFA0D65CDB408C0/PythonProgrammingforDevelopers.part03.rar
+https://nitroflare.com/view/EBD5F6AA4C5425F/PythonProgrammingforDevelopers.part04.rar
+https://nitroflare.com/view/9F73E33E374999E/PythonProgrammingforDevelopers.part05.rar
+https://nitroflare.com/view/D54959B23110B75/PythonProgrammingforDevelopers.part06.rar
+https://nitroflare.com/view/F0CAC34A112F6AE/PythonProgrammingforDevelopers.part07.rar
+https://nitroflare.com/view/5E1896E00053F6F/PythonProgrammingforDevelopers.part08.rar
+https://nitroflare.com/view/4F8841386DE4D16/PythonProgrammingforDevelopers.part09.rar
+https://nitroflare.com/view/ED7773256D4A007/PythonProgrammingforDevelopers.part10.rar
+https://nitroflare.com/view/CDCD5B35C71375F/PythonProgrammingforDevelopers.part11.rar
+https://nitroflare.com/view/0AAB3756B97237D/PythonProgrammingforDevelopers.part12.rar
+https://nitroflare.com/view/372D321CB55EB09/PythonProgrammingforDevelopers.part13.rar
+https://nitroflare.com/view/F1900A132069CD5/PythonProgrammingforDevelopers.part14.rar
+https://nitroflare.com/view/C29E5DE0934129E/PythonProgrammingforDevelopers.part15.rar
+https://nitroflare.com/view/27010596981624F/PythonProgrammingforDevelopers.part16.rar
 
 **************************************************
-Gumroad – How to Draw a futuristic weapon
-https://www.0daydown.com/03/1012311.html
+Xamarin Forms: Build Native Mobile Apps with C#
+https://www.0daydown.com/03/1015309.html
 **************************************************
-https://rg.to/file/d8993212ac01fe20ae832747668c1198/GRHowtoDrawafuturisticweapon.rar.html
-https://nitroflare.com/view/F6FEA4781B5748C/GRHowtoDrawafuturisticweapon.rar
+https://rg.to/file/faab2d0603b33dff99a1ecffaae59f53/XamarinFormsBuildNativeMobileAppsw.part1.rar.html
+https://rg.to/file/3ebcef78e514cab736392b1a432bb9f0/XamarinFormsBuildNativeMobileAppsw.part2.rar.html
+https://rg.to/file/63da7c4fabc5d0c83f99c4ece88f85a4/XamarinFormsBuildNativeMobileAppsw.part3.rar.html
+https://nitroflare.com/view/1FD700857CCD989/XamarinFormsBuildNativeMobileAppsw.part1.rar
+https://nitroflare.com/view/E9EBB0FB83925EB/XamarinFormsBuildNativeMobileAppsw.part2.rar
+https://nitroflare.com/view/CB75DAE938B8EC0/XamarinFormsBuildNativeMobileAppsw.part3.rar
 
 **************************************************
-NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL) 2019
-https://www.0daydown.com/03/1012120.html
+Planning Successful Websites and Apps
+https://www.0daydown.com/03/1015229.html
 **************************************************
-https://www.udemy.com/nodejs-the-complete-guide/
-https://rg.to/file/cd4ecdf1ba2adba0f745517636f36734/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/21189f0cdf922c1d3c6076cc71905a6b/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/a29c5e631b8c22bb5a1d8c4a394656c5/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/5e373bbd11309919d2d0dfb33cb7a73b/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/80e5c5884cd4e2a932e6fd133c5feb2b/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/cfc777d3ba32c6ff94f7b28054a0e4c5/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/d31efbe61d37ed7a1c90f619cf8b102e/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/83ea35881e38de8b3dc0d46ebfe3c93c/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/24177850a0562ee13a79b58614056dea/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/56ffd96f99dae52aa7f8f5c562e65e28/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/c09ba7937c5a2e21205647d30fd4d4e0/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/fd4878f387a92eddd0296fca5a189c67/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/a43bab0817158fee167da65b1748fd82/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/b5b4a1bb9023f406f24626a65b0ed3c7/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/e37349bf61e7aa05c84786f9739aeb8e/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/251b8f791f7c18bfccb1902e812e2bb2/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/064152072dc135d6f042cf84ace78f96/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/53dca3c895ddd9c82cbc34d41aaf6706/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/3b6ece5b178b888b0157da2d58d877cf/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/d268b934aed31c0873262e306d9bf217/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/f5cc3730f7b48d37c48924e62e891faf/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/b09ded2ffa285418a18ecff1d44b898d/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/8aa74f0e327e26a80f3c2fc3fd40f9ce/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/d9b65b9d54cb935a5c00a0fba710a67e/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/44c06f94b35af995c61c17900e0f7016/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/5a5a12241dc242d3f3e02443cdb89f6e/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://rg.to/file/00977ebbfddb914b6d4a920ae24717d7/NodeJS_-_The_Complete_Guide_(incl._MVC,_REST_APIs,_GraphQL)
-https://nitroflare.com/view/65D9C7732766FE5/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part01.rar
-https://nitroflare.com/view/1F823AC68E20442/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part02.rar
-https://nitroflare.com/view/9945A421973F0DF/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part03.rar
-https://nitroflare.com/view/75C81B9FBE0BFB9/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part04.rar
-https://nitroflare.com/view/834D9D838F85180/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part05.rar
-https://nitroflare.com/view/27202B0F66B23A8/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part06.rar
-https://nitroflare.com/view/5B752A5BDAECAAB/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part07.rar
-https://nitroflare.com/view/3F417F5A5307C95/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part08.rar
-https://nitroflare.com/view/2A11E5A17D4BCAF/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part09.rar
-https://nitroflare.com/view/1BBBBED36A12586/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part10.rar
-https://nitroflare.com/view/0893D93880F0C47/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part11.rar
-https://nitroflare.com/view/E78746E4D0AC125/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part12.rar
-https://nitroflare.com/view/39E67FDA5BE1C27/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part13.rar
-https://nitroflare.com/view/E0DBC5F9F7D4144/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part14.rar
-https://nitroflare.com/view/64678AE0B0D5D9A/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part15.rar
-https://nitroflare.com/view/2C424E293C5F87D/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part16.rar
-https://nitroflare.com/view/66226D5A720E335/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part17.rar
-https://nitroflare.com/view/F8C9481D026149D/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part18.rar
-https://nitroflare.com/view/343A45E2B3C27C0/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part19.rar
-https://nitroflare.com/view/DCBBB63BEAEF6BB/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part20.rar
-https://nitroflare.com/view/FBDCF9C8123739B/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part21.rar
-https://nitroflare.com/view/842AB11612A2B38/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part22.rar
-https://nitroflare.com/view/1DF8AB6C96B77B5/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part23.rar
-https://nitroflare.com/view/23AB4901FF6C0E1/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part24.rar
-https://nitroflare.com/view/47F99B827C5D102/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part25.rar
-https://nitroflare.com/view/48E0840242DDBDA/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part26.rar
-https://nitroflare.com/view/68DE556C2800D13/NodeJS_-_The_Complete_Guide_%28incl._MVC%2C_REST_APIs%2C_GraphQL%29.part27.rar
+https://rg.to/file/040b0c13837aec5c1e39c5a896f01aa6/Planning_Successful_Websites_and_Apps.part1.rar.html
+https://rg.to/file/de7765cf4b601a69be47f2f3d897b0b5/Planning_Successful_Websites_and_Apps.part2.rar.html
+https://rg.to/file/4218522615cd791119d404d8fdd926fd/Planning_Successful_Websites_and_Apps.part2.rar.html
+https://rg.to/file/1c3e97d2cc2dec7f31b63fa862821272/Planning_Successful_Websites_and_Apps.part3.rar.html
+https://rg.to/file/b52f4c05021177f567c17fef0483d57d/Planning_Successful_Websites_and_Apps.part4.rar.html
+https://rg.to/file/9b31853d033660a6ba6aff1969f02dd8/Planning_Successful_Websites_and_Apps.part5.rar.html
+https://rg.to/file/2ca4bd21c6ae66f332783caae3f22d6a/Planning_Successful_Websites_and_Apps.part6.rar.html
+https://rg.to/file/a78046cb0ea76d60ec9ca9b79d7bcc15/Planning_Successful_Websites_and_Apps.part7.rar.html
+https://nitroflare.com/view/9D548123E64E817/Planning_Successful_Websites_and_Apps.part1.rar
+https://nitroflare.com/view/68AC286853BDA87/Planning_Successful_Websites_and_Apps.part2.rar
+https://nitroflare.com/view/C206F06B3F5907F/Planning_Successful_Websites_and_Apps.part3.rar
+https://nitroflare.com/view/9E839010E10417E/Planning_Successful_Websites_and_Apps.part4.rar
+https://nitroflare.com/view/A05265E651F243E/Planning_Successful_Websites_and_Apps.part5.rar
+https://nitroflare.com/view/16E039D93687F5B/Planning_Successful_Websites_and_Apps.part6.rar
+https://nitroflare.com/view/45B8D4CB99CEC5A/Planning_Successful_Websites_and_Apps.part7.rar
 
 **************************************************
-Fashion Photography - Darklands shoot
-https://www.0daydown.com/03/1011730.html
+Bash Shell scripting
+https://www.0daydown.com/03/1015233.html
 **************************************************
-https://www.karltayloreducation.com/class/darklands-shoot/
-https://rg.to/file/cee81febdfc0ef4f3dd62dc08248a274/Darklands_shoot.part1.rar.html
-https://rg.to/file/9845862a393b989ec41aacb0cb4a4b53/Darklands_shoot.part2.rar.html
-https://nitroflare.com/view/2F8E27FC3E9BC69/Darklands_shoot.part1.rar
-https://nitroflare.com/view/38DDA01388CBCF4/Darklands_shoot.part2.rar
+https://rg.to/file/7290ac195e384396f89d11f784fd3ee2/Bash_Shell_scripting.part1.rar.html
+https://rg.to/file/f39ba377fd4cdcd6f2a801544558b60e/Bash_Shell_scripting.part2.rar.html
+https://rg.to/file/e45992de71579969b837a0b00ea93409/Bash_Shell_scripting.part3.rar.html
+https://nitroflare.com/view/7E8B93ABDEA5013/Bash_Shell_scripting.part1.rar
+https://nitroflare.com/view/6911BA6A27558B7/Bash_Shell_scripting.part2.rar
+https://nitroflare.com/view/7E19FC201AD9BD1/Bash_Shell_scripting.part3.rar
 
 **************************************************
-Master Data Analysis with Python - Intro to Pandas
-https://www.0daydown.com/03/1011726.html
+Learn ASP.NET Core using MVC 6 and Entity Framework Core 1.0
+https://www.0daydown.com/03/1015235.html
 **************************************************
-https://rg.to/file/3e77f3573d24f3b4202e7769b4090097/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part1.rar.html
-https://rg.to/file/7dab75db978303ee87876dfc94e439e3/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part2.rar.html
-https://rg.to/file/2048886c2d841a81b769d1adf6c12c9c/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part3.rar.html
-https://rg.to/file/d2ee6d9ce6eeccf9de295160292af707/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part4.rar.html
-https://rg.to/file/df44512fa3c01eaf63e1229a0fcd9bb6/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part5.rar.html
-https://rg.to/file/08c39af1d42df6f7c561bf9f9b0afd52/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part6.rar.html
-https://rg.to/file/6f61b5e8f1d628c0ecd1100abbdf3b8a/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part7.rar.html
-https://rg.to/file/a1b378587a0c7cf35dc5bd2753577e7d/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part8.rar.html
-https://nitroflare.com/view/39CEA0778D28E1F/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part1.rar
-https://nitroflare.com/view/E090807BBBA9FD0/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part2.rar
-https://nitroflare.com/view/6F4BF0D688DEEF4/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part3.rar
-https://nitroflare.com/view/BAC62EFB6AA17B9/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part4.rar
-https://nitroflare.com/view/EBF7A7DE6A15BEE/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part5.rar
-https://nitroflare.com/view/D1FA469DA8F8993/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part6.rar
-https://nitroflare.com/view/F571458E1403422/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part7.rar
-https://nitroflare.com/view/03A6384169D5014/Master_Data_Analysis_with_Python_-_Intro_to_Pandas.part8.rar
+https://rg.to/file/29b6547f0a63c43a59a04ada20d65fe3/Learn_ASP.NET_Core_using_MVC_6_and_Entity_Framework_Core_1.0.rar.html
+https://nitroflare.com/view/2BAD77DC4DF5CCD/Learn_ASP.NET_Core_using_MVC_6_and_Entity_Framework_Core_1.0.rar
 
 **************************************************
-Cracking Java Programming Interview for Selenium Testers
-https://www.0daydown.com/03/1011724.html
+Java For Complete Beginners: From Zero To Hero
+https://www.0daydown.com/03/1015239.html
 **************************************************
-https://rg.to/file/50602170e24635bfd02cd9b43e340cf5/Cracking__Java_Programming_Interview_for_Selenium_Testers.part1.rar.html
-https://rg.to/file/7c8cc6ed910b57296d3959b215788bcb/Cracking__Java_Programming_Interview_for_Selenium_Testers.part2.rar.html
-https://rg.to/file/2100a7c7a47132d833018d6383da6344/Cracking__Java_Programming_Interview_for_Selenium_Testers.part2.rar.html
-https://rg.to/file/9d1523a48924243173f7237ad4c1192d/Cracking__Java_Programming_Interview_for_Selenium_Testers.part3.rar.html
-https://nitroflare.com/view/B70C017B0075E13/Cracking__Java_Programming_Interview_for_Selenium_Testers.part1.rar
-https://nitroflare.com/view/202E11CA3864CD9/Cracking__Java_Programming_Interview_for_Selenium_Testers.part2.rar
-https://nitroflare.com/view/C81F3F64B3D6386/Cracking__Java_Programming_Interview_for_Selenium_Testers.part3.rar
+https://rg.to/file/9dbce6a04f933ca369c83da115743352/Java_For_Complete_Beginners_From_Zero_To_Hero.part1.rar.html
+https://rg.to/file/2662d16bbe88c43af58eec32c95ebdf2/Java_For_Complete_Beginners_From_Zero_To_Hero.part2.rar.html
+https://rg.to/file/4a46109c637ea8a36b40eb8de5875e0b/Java_For_Complete_Beginners_From_Zero_To_Hero.part3.rar.html
+https://nitroflare.com/view/A9F45195EF6674B/Java_For_Complete_Beginners_From_Zero_To_Hero.part1.rar
+https://nitroflare.com/view/2696A1BDABEB2BB/Java_For_Complete_Beginners_From_Zero_To_Hero.part2.rar
+https://nitroflare.com/view/66C54A28689EA72/Java_For_Complete_Beginners_From_Zero_To_Hero.part3.rar
 
 **************************************************
-Learn React and Redux by examples
-https://www.0daydown.com/03/1011722.html
+The Complete Splunk Beginner Course
+https://www.0daydown.com/03/1015124.html
 **************************************************
-https://rg.to/file/3094df976162b82dd9f52c41d46ed315/Learn_React_and_Redux_by_examples.part1.rar.html
-https://rg.to/file/3fa4fa3342cad6c94b478ad090404772/Learn_React_and_Redux_by_examples.part2.rar.html
-https://rg.to/file/723be9a07e3b6fea568f0bbc826ad711/Learn_React_and_Redux_by_examples.part3.rar.html
-https://rg.to/file/10ce8f062862cbff4a6dbda4f8a35fab/Learn_React_and_Redux_by_examples.part4.rar.html
-https://rg.to/file/90a4820ca5c63c6c091a2d52ba57a092/Learn_React_and_Redux_by_examples.part5.rar.html
-https://nitroflare.com/view/6285E9C67934D03/Learn_React_and_Redux_by_examples.part1.rar
-https://nitroflare.com/view/B49A2DA05F8C678/Learn_React_and_Redux_by_examples.part2.rar
-https://nitroflare.com/view/87196ED4DB42339/Learn_React_and_Redux_by_examples.part3.rar
-https://nitroflare.com/view/85B66658179FCBC/Learn_React_and_Redux_by_examples.part4.rar
-https://nitroflare.com/view/20D239FD28730DA/Learn_React_and_Redux_by_examples.part5.rar
+https://rg.to/file/df84d0f17661e69589df21de720ef5a4/TheCompleteSplunkBeginnerCou.part1.rar.html
+https://rg.to/file/9c885d96c6dd6a4dfaf960908be4f2ba/TheCompleteSplunkBeginnerCou.part2.rar.html
+https://nitroflare.com/view/CA7177B097D1EAD/TheCompleteSplunkBeginnerCou.part1.rar
+https://nitroflare.com/view/F4855168968358C/TheCompleteSplunkBeginnerCou.part2.rar
 
 **************************************************
-Skillshare – 3ds Max + Vray : Automotive Studio Lights
-https://www.0daydown.com/03/1011996.html
+WordPress Theme Developer Academy With Bootstrap
+https://www.0daydown.com/03/1015122.html
 **************************************************
-https://rg.to/file/cfa7c198f07f676fc2960266a7dad03f/SkS3dsMax_VrayAutomotiveStudioLights.part1.rar.html
-https://rg.to/file/9772efc10389e403f3699f356ab59ab0/SkS3dsMax_VrayAutomotiveStudioLights.part2.rar.html
-https://rg.to/file/a73b7401d857ede4d18bd86358c83db1/SkS3dsMax_VrayAutomotiveStudioLights.part3.rar.html
-https://rg.to/file/5e0528c817961662c094ae2454e75c58/SkS3dsMax_VrayAutomotiveStudioLights.part4.rar.html
-https://nitroflare.com/view/6E252021631A609/SkS3dsMax%2BVrayAutomotiveStudioLights.part1.rar
-https://nitroflare.com/view/B9A87443DF2A332/SkS3dsMax%2BVrayAutomotiveStudioLights.part2.rar
-https://nitroflare.com/view/AED563AE04878D9/SkS3dsMax%2BVrayAutomotiveStudioLights.part3.rar
-https://nitroflare.com/view/2EF774B5B293F34/SkS3dsMax%2BVrayAutomotiveStudioLights.part4.rar
+https://rg.to/file/2c05cf04b500888fc44c7cadd7144380/WordPressThemeDeveloperAcadem.part1.rar.html
+https://rg.to/file/bd9a361db5898eeaa0e2f63803c22831/WordPressThemeDeveloperAcadem.part2.rar.html
+https://nitroflare.com/view/7FFE0DB5CD3C78B/WordPressThemeDeveloperAcadem.part1.rar
+https://nitroflare.com/view/C554DB7F30AD9D1/WordPressThemeDeveloperAcadem.part2.rar
 
 **************************************************
-Wondershare Filmora:Learn Video Editing using Filmora 9
-https://www.0daydown.com/03/1011997.html
+Build A Web App With Spring Framework and Angular 2
+https://www.0daydown.com/03/1015126.html
 **************************************************
-https://rg.to/file/585a77001a54600d59742fff7fd60481/UdWondershareFilmoraLearnVideoEditingusingFilmora9.part1.rar.html
-https://rg.to/file/0299d347ea27346148caee7b70532835/UdWondershareFilmoraLearnVideoEditingusingFilmora9.part2.rar.html
-https://rg.to/file/9be2bb205abdecd180965fadae3b4832/UdWondershareFilmoraLearnVideoEditingusingFilmora9.part3.rar.html
-https://rg.to/file/085dfcd044d1766aa597bfecbaf8e907/UdWondershareFilmoraLearnVideoEditingusingFilmora9.part4.rar.html
-https://nitroflare.com/view/4A85ACD9942BF00/UdWondershareFilmoraLearnVideoEditingusingFilmora9.part1.rar
-https://nitroflare.com/view/C36000721F84F97/UdWondershareFilmoraLearnVideoEditingusingFilmora9.part2.rar
-https://nitroflare.com/view/97386D7EE844944/UdWondershareFilmoraLearnVideoEditingusingFilmora9.part3.rar
-https://nitroflare.com/view/736911090E4D636/UdWondershareFilmoraLearnVideoEditingusingFilmora9.part4.rar
+http://www.ldeng/
+https://rg.to/file/103a18aea9643ee46eb813aede9cd214/BuildAWebAppWithSpringFram.part1.rar.html
+https://rg.to/file/adc8d070964b789d0df907c093e4f903/BuildAWebAppWithSpringFram.part2.rar.html
+https://rg.to/file/f4c5394ad592a194418714f2b9246863/BuildAWebAppWithSpringFram.part3.rar.html
+https://nitroflare.com/view/8CF0FB96265A732/BuildAWebAppWithSpringFram.part1.rar
+https://nitroflare.com/view/51D6EBD9419831E/BuildAWebAppWithSpringFram.part2.rar
+https://nitroflare.com/view/B2C78F65A1DEB0C/BuildAWebAppWithSpringFram.part3.rar
 
 **************************************************
-SketchUp Pro 2018 for Beginners
-https://www.0daydown.com/03/1011998.html
+PSD to Responsive HTML5: Beginner to Advanced
+https://www.0daydown.com/03/1015130.html
 **************************************************
-https://rg.to/file/d3ec68ff2d8e4873f4ecf62efb1272aa/UdSketchUpPro2018forBeginners.part1.rar.html
-https://rg.to/file/374a966181cdce2b8a158520a13a0421/UdSketchUpPro2018forBeginners.part2.rar.html
-https://nitroflare.com/view/567ED39DC2E7AC6/UdSketchUpPro2018forBeginners.part1.rar
-https://nitroflare.com/view/AECA2EB56A7E70E/UdSketchUpPro2018forBeginners.part2.rar
+https://rg.to/file/03c3dfed96df956b318fff5c49100ea0/PSDtoResponsiveHTML5BeginnertoAdva.part1.rar.html
+https://rg.to/file/23ab923f6ac2b191472ddcbaa64fe3c9/PSDtoResponsiveHTML5BeginnertoAdva.part2.rar.html
+https://rg.to/file/bde74fcabcfd6909c6b16383472edcfb/PSDtoResponsiveHTML5BeginnertoAdva.part3.rar.html
+https://nitroflare.com/view/2BA5F157973BB53/PSDtoResponsiveHTML5BeginnertoAdva.part1.rar
+https://nitroflare.com/view/30F5271ACDE95DB/PSDtoResponsiveHTML5BeginnertoAdva.part2.rar
+https://nitroflare.com/view/74AA1D530994BA7/PSDtoResponsiveHTML5BeginnertoAdva.part3.rar
 
 **************************************************
-Gumroad – Stylized Character Design in 2d and 3d By Alex Negrea
-https://www.0daydown.com/03/1011805.html
+Advanced JavaScript Concepts
+https://www.0daydown.com/03/1015132.html
 **************************************************
-https://rg.to/file/a0f7444cac8f4d75190a24f4976d8443/GRStylizedCharacterDesignin2dand3d.part1.rar.html
-https://rg.to/file/8684dba88002afb5aad16eaacdd8324c/GRStylizedCharacterDesignin2dand3d.part2.rar.html
-https://rg.to/file/7954d63a1805e62b9840f5939723ea2c/GRStylizedCharacterDesignin2dand3d.part3.rar.html
-https://rg.to/file/d1c274ec83513f5cfe8322fec58def97/GRStylizedCharacterDesignin2dand3d.part4.rar.html
-https://rg.to/file/0adb5dd07c8942b09215ac587acbfecd/GRStylizedCharacterDesignin2dand3d.part5.rar.html
-https://rg.to/file/873bd1f3ceebf8f79ef37453b60fc726/GRStylizedCharacterDesignin2dand3d.part6.rar.html
-https://rg.to/file/ce46651cafc6aa3dc23f41a16f3d972b/GRStylizedCharacterDesignin2dand3d.part7.rar.html
-https://rg.to/file/7cbefb5b311df79d924de87d144bdad4/GRStylizedCharacterDesignin2dand3d.part8.rar.html
-https://nitroflare.com/view/480265DA57A62CC/GRStylizedCharacterDesignin2dand3d.part1.rar
-https://nitroflare.com/view/D75336D144EB17B/GRStylizedCharacterDesignin2dand3d.part2.rar
-https://nitroflare.com/view/B666077B0A09532/GRStylizedCharacterDesignin2dand3d.part3.rar
-https://nitroflare.com/view/3892330016231EF/GRStylizedCharacterDesignin2dand3d.part4.rar
-https://nitroflare.com/view/3FE379DEF7AE04D/GRStylizedCharacterDesignin2dand3d.part5.rar
-https://nitroflare.com/view/E67486B32EBE516/GRStylizedCharacterDesignin2dand3d.part6.rar
-https://nitroflare.com/view/9C8F5C9D9E4271C/GRStylizedCharacterDesignin2dand3d.part7.rar
-https://nitroflare.com/view/41B0B57D64F623C/GRStylizedCharacterDesignin2dand3d.part8.rar
+https://rg.to/file/3dfb48a0f67fc35df1a4df731513f8d6/Udemy-AdvancedJaScriptConcepts.part01.rar.html
+https://rg.to/file/5e6bee13fffece01c7214cc0d6278c7a/Udemy-AdvancedJaScriptConcepts.part02.rar.html
+https://rg.to/file/63c5962cbbe58c5dc9402cfd7369a2bf/Udemy-AdvancedJaScriptConcepts.part03.rar.html
+https://rg.to/file/48f1bf03a1f615a71e06c8a5256441a8/Udemy-AdvancedJaScriptConcepts.part04.rar.html
+https://rg.to/file/8d08020d332f946ba8587b33f93527b7/Udemy-AdvancedJaScriptConcepts.part05.rar.html
+https://rg.to/file/20a824525533a3153d8658cd6265e701/Udemy-AdvancedJaScriptConcepts.part06.rar.html
+https://rg.to/file/b1882093a1e1ce4e115afafa99094b5f/Udemy-AdvancedJaScriptConcepts.part07.rar.html
+https://rg.to/file/934ec5ef16367fcd9a81bcc287611f5f/Udemy-AdvancedJaScriptConcepts.part08.rar.html
+https://rg.to/file/440cdd89f05ac5a08003067ce206fa9a/Udemy-AdvancedJaScriptConcepts.part09.rar.html
+https://rg.to/file/4ac94e2cd95b9b3a5c0a3c4ef0e6e9f6/Udemy-AdvancedJaScriptConcepts.part10.rar.html
+https://rg.to/file/a3dc2a1922edd290a4641fc3cddabb4c/Udemy-AdvancedJaScriptConcepts.part11.rar.html
+https://rg.to/file/0c20c724e60f93418b4c9daeb3c3356c/Udemy-AdvancedJaScriptConcepts.part12.rar.html
+https://rg.to/file/12532f930166eacd13602f95f6bb0117/Udemy-AdvancedJaScriptConcepts.part13.rar.html
+https://rg.to/file/8ad47e40e7986ea025b5d80bcc341c33/Udemy-AdvancedJaScriptConcepts.part14.rar.html
+https://rg.to/file/5db96ffba583b16d1aafca856f529c8e/Udemy-AdvancedJaScriptConcepts.part15.rar.html
+https://rg.to/file/c3a2b4c2e188b29d829c27c2655c0ab6/Udemy-AdvancedJaScriptConcepts.part16.rar.html
+https://rg.to/file/22d22316e6da732fe72a6214c2e2633e/Udemy-AdvancedJaScriptConcepts.part17.rar.html
+https://rg.to/file/9557d75f86fe7b3407ebe8fc05aa0146/Udemy-AdvancedJaScriptConcepts.part18.rar.html
+https://nitroflare.com/view/E4743CB0B1C7F43/Udemy-AdvancedJaScriptConcepts.part01.rar
+https://nitroflare.com/view/E671DDB7A7EC316/Udemy-AdvancedJaScriptConcepts.part02.rar
+https://nitroflare.com/view/7976C89D9285F56/Udemy-AdvancedJaScriptConcepts.part03.rar
+https://nitroflare.com/view/AE078C0ADD4545D/Udemy-AdvancedJaScriptConcepts.part04.rar
+https://nitroflare.com/view/B042028B4E5C910/Udemy-AdvancedJaScriptConcepts.part05.rar
+https://nitroflare.com/view/F3936ABA10786F5/Udemy-AdvancedJaScriptConcepts.part06.rar
+https://nitroflare.com/view/35503EA3DDE6A98/Udemy-AdvancedJaScriptConcepts.part07.rar
+https://nitroflare.com/view/4B918E8D4EB2107/Udemy-AdvancedJaScriptConcepts.part08.rar
+https://nitroflare.com/view/A676DF339867004/Udemy-AdvancedJaScriptConcepts.part09.rar
+https://nitroflare.com/view/AA638A6B554AA6C/Udemy-AdvancedJaScriptConcepts.part10.rar
+https://nitroflare.com/view/5E937F9B71B4583/Udemy-AdvancedJaScriptConcepts.part11.rar
+https://nitroflare.com/view/330C5FA1E972AA9/Udemy-AdvancedJaScriptConcepts.part12.rar
+https://nitroflare.com/view/351FFBEC7B30F02/Udemy-AdvancedJaScriptConcepts.part13.rar
+https://nitroflare.com/view/B3876C37FA0EE8E/Udemy-AdvancedJaScriptConcepts.part14.rar
+https://nitroflare.com/view/A2FD0CB5F508ED7/Udemy-AdvancedJaScriptConcepts.part15.rar
+https://nitroflare.com/view/3A7234F28D6E81C/Udemy-AdvancedJaScriptConcepts.part16.rar
+https://nitroflare.com/view/693A8AAD0C7F097/Udemy-AdvancedJaScriptConcepts.part17.rar
+https://nitroflare.com/view/C6BCF3AB23BE7EB/Udemy-AdvancedJaScriptConcepts.part18.rar
 
 **************************************************
-Learn to Program in BackboneJs : Code like a Pro
-https://www.0daydown.com/03/1011489.html
+ITIL 4 Foundation: Complete Course with 2 Practice Exams
+https://www.0daydown.com/03/1015138.html
 **************************************************
-https://rg.to/file/8914bd83c196b7f34667bc2c7bcdf117/Learn_to_Program_in_BackboneJs__Code_like_a_Pro.part1.rar.html
-https://rg.to/file/f8174066062b1bcec820eb22a2e1b8a5/Learn_to_Program_in_BackboneJs__Code_like_a_Pro.part2.rar.html
-https://nitroflare.com/view/E0E95F616B343EE/Learn_to_Program_in_BackboneJs__Code_like_a_Pro.part1.rar
-https://nitroflare.com/view/E4F2B7173B13329/Learn_to_Program_in_BackboneJs__Code_like_a_Pro.part2.rar
+https://rg.to/file/bf00efe9ce063134ca6c4a880fa1b537/ITIL4FoundationCompleteCoursewith2.part1.rar.html
+https://rg.to/file/d66fc54bbfcf5bf1bb575dcd8c6128bb/ITIL4FoundationCompleteCoursewith2.part2.rar.html
+https://rg.to/file/0e39f1761fa0840fc2a3961cb4d30828/ITIL4FoundationCompleteCoursewith2.part3.rar.html
+https://nitroflare.com/view/A21EB30716E4460/ITIL4FoundationCompleteCoursewith2.part1.rar
+https://nitroflare.com/view/19EA85ECE5CC4DF/ITIL4FoundationCompleteCoursewith2.part2.rar
+https://nitroflare.com/view/1BB1D40AE2EDCAC/ITIL4FoundationCompleteCoursewith2.part3.rar
 
 **************************************************
-IIS 10: Configuring Web Server 2016 with PowerShell and GUI
-https://www.0daydown.com/03/1011491.html
+Truefire Matt Schofield's BluesSpeak TUTORiAL
+https://www.0daydown.com/03/1015179.html
 **************************************************
-https://rg.to/file/b257ba5ed4239253876c8b0acf153cb1/IIS_10_Configuring_Web_Server_2016_with_PowerShell_and_GUI.part1.rar.html
-https://rg.to/file/8b6cc6e6da4efd22b84e17285e987e1a/IIS_10_Configuring_Web_Server_2016_with_PowerShell_and_GUI.part2.rar.html
-https://rg.to/file/136eb05f7d796f7de3f56da7da33cd0c/IIS_10_Configuring_Web_Server_2016_with_PowerShell_and_GUI.part3.rar.html
-https://nitroflare.com/view/6B8B20B9E2D9F23/IIS_10_Configuring_Web_Server_2016_with_PowerShell_and_GUI.part1.rar
-https://nitroflare.com/view/030933D96657AFF/IIS_10_Configuring_Web_Server_2016_with_PowerShell_and_GUI.part2.rar
-https://nitroflare.com/view/B2A2A9900599430/IIS_10_Configuring_Web_Server_2016_with_PowerShell_and_GUI.part3.rar
+https://bit.ly/2FmVR3X
+https://rg.to/file/ad5874651ef6ea0ce0330f21cb4a3b72/Matt.part1.rar.html
+https://rg.to/file/ce285d3938f9248639737f8b799333b6/Matt.part2.rar.html
+https://rg.to/file/39063d4cbd5e9f901bffc65e8bae9e3d/Matt.part3.rar.html
+https://nitroflare.com/view/1F1B6F70B04EAF6/Matt.part1.rar
+https://nitroflare.com/view/2945694F3D8E79F/Matt.part2.rar
+https://nitroflare.com/view/F0EEF3B805F14E5/Matt.part3.rar
 
 **************************************************
-Cinema 4D R20 Essential Training: Motion Graphics
-https://www.0daydown.com/03/1011503.html
+Truefire Andy Wood's ShapeShifter TUTORiAL
+https://www.0daydown.com/03/1015180.html
 **************************************************
-https://www.lynda.com/CINEMA-4D-tutorials/Cinema-4D-R20-Essential-Training-Motion-Graphics/753916-2.html
-https://rg.to/file/d3ed294966f009be70f70b04a01ec991/Cinema_4D_R20_Essential_Training_Motion_Graphics.part1.rar.html
-https://rg.to/file/ed8c45af3355ec98184626ada320b180/Cinema_4D_R20_Essential_Training_Motion_Graphics.part2.rar.html
-https://rg.to/file/8cb535afd7ec8deb3467a59731cd6df6/Cinema_4D_R20_Essential_Training_Motion_Graphics.part3.rar.html
-https://rg.to/file/b42b260d7d79c1140f8d567c879e4adb/Cinema_4D_R20_Essential_Training_Motion_Graphics.part4.rar.html
-https://nitroflare.com/view/0230A9C0CACB29D/Cinema_4D_R20_Essential_Training_Motion_Graphics.part1.rar
-https://nitroflare.com/view/1264336995B4E19/Cinema_4D_R20_Essential_Training_Motion_Graphics.part2.rar
-https://nitroflare.com/view/75F95F7C49D80BB/Cinema_4D_R20_Essential_Training_Motion_Graphics.part3.rar
-https://nitroflare.com/view/EB9D3E5D4F65A38/Cinema_4D_R20_Essential_Training_Motion_Graphics.part4.rar
+https://bit.ly/2Cvqwez
+https://rg.to/file/13b1ec09cc0bd257e26909befb54ac5d/Andy.part1.rar.html
+https://rg.to/file/2ba96823d9bfdcab6bbb92f86a901018/Andy.part2.rar.html
+https://rg.to/file/5f5c515acb88f0c6e63f1d785830af8b/Andy.part3.rar.html
+https://nitroflare.com/view/6AEE78392E052B4/Andy.part1.rar
+https://nitroflare.com/view/3EDC16F456D3632/Andy.part2.rar
+https://nitroflare.com/view/EAEC94794668C5F/Andy.part3.rar
 
 **************************************************
-Create Voice Controlled AR Apps 2: Build a Real Estate Brochure
-https://www.0daydown.com/03/1011505.html
+Adobe illustrator in an easy way : create awesome designs
+https://www.0daydown.com/03/1014947.html
 **************************************************
-https://www.lynda.com/Unity-tutorials/Create-Voice-Controlled-AR-Apps-02-Build-Real-Estate-Brochure/5025100-2.html
-https://rg.to/file/0f27b5cae29419de65ee2f24eb985ba8/Create_Voice_Controlled_AR_Apps_2_Build_a_Real_Estate_Brochure.part1.rar.html
-https://rg.to/file/2abb9669b4b8d300f9f3332dfb4b2232/Create_Voice_Controlled_AR_Apps_2_Build_a_Real_Estate_Brochure.part2.rar.html
-https://nitroflare.com/view/EF3BDBE363F8C44/Create_Voice_Controlled_AR_Apps_2_Build_a_Real_Estate_Brochure.part1.rar
-https://nitroflare.com/view/F193A86766BAF20/Create_Voice_Controlled_AR_Apps_2_Build_a_Real_Estate_Brochure.part2.rar
+https://rg.to/file/234aae5b2b4ae221d1bfe4842bcfbdc6/Adobe_illustrator_in_an_easy_way__create_awesome_designs.part1.rar.html
+https://rg.to/file/8003e351ba27b416da97436351439067/Adobe_illustrator_in_an_easy_way__create_awesome_designs.part2.rar.html
+https://nitroflare.com/view/94F6B78B807A8B7/Adobe_illustrator_in_an_easy_way__create_awesome_designs.part1.rar
+https://nitroflare.com/view/EF32C2A4B01C256/Adobe_illustrator_in_an_easy_way__create_awesome_designs.part2.rar
+
+**************************************************
+PERL 5 Programming Course for Beginner to Advanced
+https://www.0daydown.com/03/1014897.html
+**************************************************
+https://rg.to/file/a9048fcfcca0baaef11856fc4179ee09/PERL_5_Programming_Course_for_Beginner_to_Advanced.part1.rar.html
+https://rg.to/file/cf7e3ddfcc8444b5719b00014dcfa82a/PERL_5_Programming_Course_for_Beginner_to_Advanced.part2.rar.html
+https://rg.to/file/2b190a2f5718f9d90f79a470f80d96e2/PERL_5_Programming_Course_for_Beginner_to_Advanced.part3.rar.html
+https://rg.to/file/4c51391e435e2db15389870993516106/PERL_5_Programming_Course_for_Beginner_to_Advanced.part4.rar.html
+https://nitroflare.com/view/95E429DFA0F3396/PERL_5_Programming_Course_for_Beginner_to_Advanced.part1.rar
+https://nitroflare.com/view/0F9809400E8CE40/PERL_5_Programming_Course_for_Beginner_to_Advanced.part2.rar
+https://nitroflare.com/view/F99EF69A431E168/PERL_5_Programming_Course_for_Beginner_to_Advanced.part3.rar
+https://nitroflare.com/view/1C9C1E3CE73CC5E/PERL_5_Programming_Course_for_Beginner_to_Advanced.part4.rar
+
+**************************************************
+Illustrator CC 2019 One-on-One: Fundamentals
+https://www.0daydown.com/03/1014907.html
+**************************************************
+https://rg.to/file/ac2041264f700b6c56c11c2b940c49ad/LcIllustrator_CC_2019_One-on-One_Fundamentals.part1.rar.html
+https://rg.to/file/50c84a6d72d2e00c0392354d5058a3ad/LcIllustrator_CC_2019_One-on-One_Fundamentals.part2.rar.html
+https://rg.to/file/bcb0f877ab0e1cec3222d46f4ad0870e/LcIllustrator_CC_2019_One-on-One_Fundamentals.part3.rar.html
+https://rg.to/file/49a51f24e8478cba333a2f28af216055/LcIllustrator_CC_2019_One-on-One_Fundamentals.part4.rar.html
+https://rg.to/file/698983b2066178e633f06f35d54d789e/LcIllustrator_CC_2019_One-on-One_Fundamentals.part5.rar.html
+https://nitroflare.com/view/33ECCB6765CBE4C/LcIllustrator_CC_2019_One-on-One_Fundamentals.part1.rar
+https://nitroflare.com/view/476A4F938A451BA/LcIllustrator_CC_2019_One-on-One_Fundamentals.part2.rar
+https://nitroflare.com/view/69BD0EF5E67B281/LcIllustrator_CC_2019_One-on-One_Fundamentals.part3.rar
+https://nitroflare.com/view/FF12466D73C6458/LcIllustrator_CC_2019_One-on-One_Fundamentals.part4.rar
+https://nitroflare.com/view/678D90C73BB4BC7/LcIllustrator_CC_2019_One-on-One_Fundamentals.part5.rar
+
+**************************************************
+Lynda – Creating a Short Film: 09 VFX Part 1- Environments
+https://www.0daydown.com/03/1015072.html
+**************************************************
+https://rg.to/file/903c19888bd17a601a042b1c74a833b9/LcCr8ShrtFlm09VFXP1Env.part1.rar.html
+https://rg.to/file/a7582b9ec18f91c5748a712230cb6e86/LcCr8ShrtFlm09VFXP1Env.part2.rar.html
+https://rg.to/file/ca66caefd781966c6a87efea0db20a72/LcCr8ShrtFlm09VFXP1Env.part3.rar.html
+https://rg.to/file/ee575748ec2dc6ee3dba2777663fb424/LcCr8ShrtFlm09VFXP1Env.part4.rar.html
+https://rg.to/file/ccc8d4a26e0798978eb3737286c74dc5/LcCr8ShrtFlm09VFXP1Env.part5.rar.html
+https://nitroflare.com/view/A14CA68F475C9F0/LcCr8ShrtFlm09VFXP1Env.part1.rar
+https://nitroflare.com/view/E50A9AEAA26C428/LcCr8ShrtFlm09VFXP1Env.part2.rar
+https://nitroflare.com/view/BE01600E702E204/LcCr8ShrtFlm09VFXP1Env.part3.rar
+https://nitroflare.com/view/BFDD38B4FCDF2D7/LcCr8ShrtFlm09VFXP1Env.part4.rar
+https://nitroflare.com/view/E77F030937621FA/LcCr8ShrtFlm09VFXP1Env.part5.rar
+
+**************************************************
+Master Machine Learning , Deep Learning with Python
+https://www.0daydown.com/03/1014863.html
+**************************************************
+https://rg.to/file/d0dd3ae11114fd30bc7e7fa03bf9acd0/Master_Machine_Learning__Deep_Learning_with_Python.part1.rar.html
+https://rg.to/file/b302cfa698e3ce577d72fb042c912c45/Master_Machine_Learning__Deep_Learning_with_Python.part2.rar.html
+https://rg.to/file/2633dbf5ecea811fe6fd499745a6a38c/Master_Machine_Learning__Deep_Learning_with_Python.part3.rar.html
+https://nitroflare.com/view/BE92BE991702867/Master_Machine_Learning__Deep_Learning_with_Python.part1.rar
+https://nitroflare.com/view/3085BD0E42E42C6/Master_Machine_Learning__Deep_Learning_with_Python.part2.rar
+https://nitroflare.com/view/A0F357A89567E28/Master_Machine_Learning__Deep_Learning_with_Python.part3.rar
+
+**************************************************
+Troubleshooting Android Performance
+https://www.0daydown.com/03/1014749.html
+**************************************************
+https://rg.to/file/fb8b8b03e31a41a9db3bb6ba7c329180/TroubleshootingAndroidPerformance%5BVid.rar.html
+https://nitroflare.com/view/C8E574BAC23BA06/TroubleshootingAndroidPerformance_Vid.rar
+
+**************************************************
+3DMotive – Catacomb in ZBrush Series Volume 4
+https://www.0daydown.com/03/1014930.html
+**************************************************
+https://rg.to/file/c024cf883beba2b928d02d9a013b25f7/3DMCatacombinZBrushSeriesVolume4.part1.rar.html
+https://rg.to/file/855ca3d23235cfeb8c3330692954bf33/3DMCatacombinZBrushSeriesVolume4.part2.rar.html
+https://rg.to/file/6e058c10f8837396729789d4be7abd39/3DMCatacombinZBrushSeriesVolume4.part3.rar.html
+https://rg.to/file/e474e8275a47b20fcf5241f49ed52c81/3DMCatacombinZBrushSeriesVolume4.part4.rar.html
+https://nitroflare.com/view/7EE583C8616EBB2/3DMCatacombinZBrushSeriesVolume4.part1.rar
+https://nitroflare.com/view/6E68F09843D9ABD/3DMCatacombinZBrushSeriesVolume4.part2.rar
+https://nitroflare.com/view/73D7C2B87F6C94C/3DMCatacombinZBrushSeriesVolume4.part3.rar
+https://nitroflare.com/view/FB5981D68F35463/3DMCatacombinZBrushSeriesVolume4.part4.rar
+
+**************************************************
+Solid Design Patterns in C#
+https://www.0daydown.com/03/1014522.html
+**************************************************
+https://rg.to/file/34f958c87110bc1f5287637ae1c4b6ca/SolidDesignPatternsinC#.part1.rar.html
+https://rg.to/file/52b312ce06c860758779ccf922878faa/SolidDesignPatternsinC#.part2.rar.html
+https://nitroflare.com/view/4DFD19DC0401D17/SolidDesignPatternsinC%23.part1.rar
+https://nitroflare.com/view/99A0707107401AD/SolidDesignPatternsinC%23.part2.rar
+
+**************************************************
+A Layman's guide to Python
+https://www.0daydown.com/03/1014516.html
+**************************************************
+https://rg.to/file/15744183e86fd02d80b7cd84d2ddcb4e/ALayman'sguidetoPython.part1.rar.html
+https://rg.to/file/22daa75b4619621bc1451b7b6a45fcf1/ALayman'sguidetoPython.part2.rar.html
+https://rg.to/file/9a8b4c09f5e2ce9a10babb4218ec0d46/ALayman'sguidetoPython.part3.rar.html
+https://rg.to/file/91e3d1f1cf683ba708ef5677072bba48/ALayman'sguidetoPython.part4.rar.html
+https://rg.to/file/4ad4a27b228c7e460b620da26356f5e3/ALayman'sguidetoPython.part5.rar.html
+https://nitroflare.com/view/CCAB31E810DB38F/ALayman%27sguidetoPython.part1.rar
+https://nitroflare.com/view/DF464F5CA294A8B/ALayman%27sguidetoPython.part2.rar
+https://nitroflare.com/view/719657E68652E68/ALayman%27sguidetoPython.part3.rar
+https://nitroflare.com/view/2B21B47CCC78196/ALayman%27sguidetoPython.part4.rar
+https://nitroflare.com/view/1D820B20A6F3CC0/ALayman%27sguidetoPython.part5.rar
+
+**************************************************
+Introduction to jamovi
+https://www.0daydown.com/03/1014506.html
+**************************************************
+https://rg.to/file/4c7f66b251da89aca84cc0adce2c820f/Introductiontojamovi.part1.rar.html
+https://rg.to/file/3ef58fe93bf71e233c73fe987b92db3c/Introductiontojamovi.part2.rar.html
+https://nitroflare.com/view/FF6917C2EFEED76/Introductiontojamovi.part1.rar
+https://nitroflare.com/view/6E7B6321A479B67/Introductiontojamovi.part2.rar
+
+**************************************************
+Grasshopper: Generative Design for Architecture
+https://www.0daydown.com/03/1014504.html
+**************************************************
+https://rg.to/file/6c799bcc557142387a8638488c03d682/Grasshopper_GenerativeDesignforArchi.rar.html
+https://nitroflare.com/view/03662BE6FF0E3D4/Grasshopper_GenerativeDesignforArchi.rar
+
+**************************************************
+Data Science with Plotly, NumPy, Matplotlib, and Pandas
+https://www.0daydown.com/03/1014500.html
+**************************************************
+https://rg.to/file/58ba9ab7fdbdb1abc305c969660f3520/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part1.rar.html
+https://rg.to/file/4f94a872d19de84c8596dbb28e5d0351/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part2.rar.html
+https://rg.to/file/a063ce8210d3cb4c3d2a4430123e5bad/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part3.rar.html
+https://rg.to/file/c0ea5e7ae8472eced81e43cb0470bbd3/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part4.rar.html
+https://rg.to/file/a914590e0cb0d3e8f300541506ef05a2/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part5.rar.html
+https://rg.to/file/da12cda937f9db06f798f69de6e75bbd/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part6.rar.html
+https://rg.to/file/62fc56b1a4dac2301189b096edb41ee5/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part7.rar.html
+https://rg.to/file/0d0891fee3cefe1c3fb18cc362870df6/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part8.rar.html
+https://nitroflare.com/view/B3B8F04A5D35112/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part1.rar
+https://nitroflare.com/view/F0AD69907EE0DCD/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part2.rar
+https://nitroflare.com/view/9CF6177EF4D7F81/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part3.rar
+https://nitroflare.com/view/4319256016C01BA/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part4.rar
+https://nitroflare.com/view/F41288ABC865932/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part5.rar
+https://nitroflare.com/view/A40888FBDAEE4C4/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part6.rar
+https://nitroflare.com/view/FA35E1DBA43932B/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part7.rar
+https://nitroflare.com/view/7AFAD8AEE6B2864/Data_Science_with_Plotly_NumPy_Matplotlib_and_Pandas.part8.rar
+
+**************************************************
+Design Theory Adapted for Canva
+https://www.0daydown.com/03/1014498.html
+**************************************************
+https://rg.to/file/1bff1e1bf1a9286d4f4b79bbc58a65f3/Design_Theory_Adapted_for_Canva.part1.rar.html
+https://rg.to/file/94dbf68b3124ffec983be568f4398998/Design_Theory_Adapted_for_Canva.part2.rar.html
+https://nitroflare.com/view/2944BFA789FF912/Design_Theory_Adapted_for_Canva.part1.rar
+https://nitroflare.com/view/BE142CD178D131A/Design_Theory_Adapted_for_Canva.part2.rar
 
