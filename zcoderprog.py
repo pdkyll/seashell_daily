@@ -20,6 +20,7 @@ class SeashellCoderprog:
         prefs = {'profile.managed_default_content_settings.images': 2}
         options.add_experimental_option("prefs", prefs)
         options.add_argument("--headless")
+        options.binary_location = "C:/Users/seashell/Desktop/cr-stable/bin/chrome.exe"
         driver = webdriver.Chrome(options=options)
         drv = webdriver.Chrome(options=options)
 
@@ -94,5 +95,5 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("NGINX Cookbook: Advanced Recipes for High Performance Load Balancing")
+mob = SeashellCoderprog("Hands-On Reactive Programming with Java 12")
 mob.process()
