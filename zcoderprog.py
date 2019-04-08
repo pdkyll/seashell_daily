@@ -68,6 +68,7 @@ class SeashellCoderprog:
 
         f.write('*' * 50 + '\n')
         f.write(elem.get_attribute("title"))
+        f.write(elem.get_attribute("href"))
         f.write('\n' + '*' * 50 + '\n')
 
         elems = driver.find_elements_by_css_selector("div.thecontent a")
