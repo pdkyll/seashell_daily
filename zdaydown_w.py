@@ -20,6 +20,7 @@ class Seashell0daydownW:
         prefs = {'profile.managed_default_content_settings.images': 2}
         options.add_experimental_option("prefs", prefs)
         options.add_argument("--headless")
+        options.binary_location = "C:/Users/seashell/Desktop/cr-stable/bin/chrome.exe"
         driver = webdriver.Chrome(options=options)
         drv = webdriver.Chrome(options=options)
 
