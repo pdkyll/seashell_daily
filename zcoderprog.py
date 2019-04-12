@@ -68,6 +68,7 @@ class SeashellCoderprog:
 
         f.write('*' * 50 + '\n')
         f.write(elem.get_attribute("title"))
+        f.write('\n')
         f.write(elem.get_attribute("href"))
         f.write('\n' + '*' * 50 + '\n')
 
@@ -96,5 +97,5 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("Learning Regular Expressions")
+mob = SeashellCoderprog("Cybersecurity Blue Team Toolkit")
 mob.process()
