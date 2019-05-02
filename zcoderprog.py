@@ -14,13 +14,70 @@ class SeashellCoderprog:
         self.pt = 3
         self.pagesize = 5
 
+    def processNew(self):
+
+        options = webdriver.ChromeOptions()
+        prefs = {'profile.managed_default_content_settings.images': 2}
+        options.add_experimental_option("prefs", prefs)
+        options.add_argument("--headless")
+        # options.binary_location = "C:/Users/seashell/Desktop/cr-stable/bin/chrome.exe"
+        driver = webdriver.Chrome(options=options)
+        drv = webdriver.Chrome(options=options)
+
+        driver.implicitly_wait(self.pt)
+        drv.implicitly_wait(self.pt)
+
+        fb = open('urls-Coderprog-books.txt', 'a', encoding="utf-8")
+        fv = open('urls-Coderprog-videos.txt', 'a', encoding="utf-8")
+
+        i = 1
+        while not self.done:
+            start_i = "https://coderprog.com/page/" + str(i)
+            print("\n")
+            print(start_i)
+            driver.get(start_i)
+            elems = driver.find_elements_by_xpath('//article')
+            for elem in elems:
+                titleelem = elem.find_element_by_xpath(".//header//h2//a")
+                title = titleelem.get_attribute("title")
+                if title == self.stoptitle:
+                    self.done = True
+                    print("Meet last done")
+                    break
+
+                desc = elem.find_element_by_xpath('.//a[@rel="bookmark"]/following-sibling::div').text
+                f = fv
+                if "ISBN" in desc:
+                    f = fb
+
+                print(title)
+                print(titleelem.get_attribute("href"))
+
+
+
+                f.write('*' * 50 + '\n')
+                f.write(title)
+                f.write('\n')
+                f.write(titleelem.get_attribute("href"))
+                f.write('\n' + '*' * 50 + '\n')
+
+
+            i += 1
+
+        fb.close()
+        fv.close()
+        drv.close()
+        driver.close()
+
+
+
     def process(self):
 
         options = webdriver.ChromeOptions()
         prefs = {'profile.managed_default_content_settings.images': 2}
         options.add_experimental_option("prefs", prefs)
         options.add_argument("--headless")
-        options.binary_location = "C:/Users/seashell/Desktop/cr-stable/bin/chrome.exe"
+        # options.binary_location = "C:/Users/seashell/Desktop/cr-stable/bin/chrome.exe"
         driver = webdriver.Chrome(options=options)
         drv = webdriver.Chrome(options=options)
 
@@ -47,6 +104,7 @@ class SeashellCoderprog:
                 print(elem.get_attribute("href"))
 
                 self.processitem(drv, elem, fb, fv)
+
                 time.sleep( 0.5 )
 
             i += 1
@@ -98,4 +156,6 @@ class SeashellCoderprog:
 
 
 mob = SeashellCoderprog("Hands-On Java Regular Expressions")
-mob.process()
+
+
+mob.processNew()

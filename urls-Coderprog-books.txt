@@ -1,0 +1,164 @@
+**************************************************
+The Joy of Kotlin
+https://coderprog.com/joy-kotlin/
+**************************************************
+**************************************************
+Financial Software Engineering
+https://coderprog.com/financial-software-engineering/
+**************************************************
+**************************************************
+Concepts of Soft Computing: Fuzzy and ANN with Programming
+https://coderprog.com/concepts-soft-computing-fuzzy-programming/
+**************************************************
+**************************************************
+(ISC)2 SSCP Systems Security Certified Practitioner Official Study Guide, 2nd Edition
+https://coderprog.com/systems-security-certified-practitioner-official-2nd/
+**************************************************
+**************************************************
+Beginning JavaScript: The Ultimate Guide to Modern JavaScript Development, 3rd Edition
+https://coderprog.com/beginning-javascript-ultimate-modern-development-3rd/
+**************************************************
+**************************************************
+Docker in Practice, 2nd Edition
+https://coderprog.com/docker-practice-2nd/
+**************************************************
+**************************************************
+Hands-On Functional Test Automation: With Visual Studio 2017 and Selenium
+https://coderprog.com/hands-functional-test-automation-selenium/
+**************************************************
+**************************************************
+Graph Algorithms: Practical Examples in Apache Spark and Neo4j
+https://coderprog.com/graph-algorithms-practical-examples-apache/
+**************************************************
+**************************************************
+Learning Apache Drill: Query and Analyze Distributed Data Sources with SQL
+https://coderprog.com/learning-apache-drill/
+**************************************************
+**************************************************
+Practical Cloud Security: A Guide for Secure Design and Deployment
+https://coderprog.com/practical-cloud-security-deployment/
+**************************************************
+**************************************************
+SSCP Systems Security Certified Practitioner All-in-One Exam Guide, 3rd Edition
+https://coderprog.com/systems-security-certified-practitioner-guide-3rd/
+**************************************************
+**************************************************
+Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures
+https://coderprog.com/fundamentals-data-visualization-informative-compelling/
+**************************************************
+**************************************************
+Teaching Coding through Game Creation
+https://coderprog.com/teaching-coding-game-creation/
+**************************************************
+**************************************************
+Getting Started with Python: Understand key data structures and use Python in object-oriented programming
+https://coderprog.com/getting-started-python-object-oriented-programming/
+**************************************************
+**************************************************
+Quantum Information: From Foundations to Quantum Technology Applications, 2 Volume Set, 2nd Edition
+https://coderprog.com/quantum-information-foundations-applications-2nd/
+**************************************************
+**************************************************
+Microsoft Excel 2019 Data Analysis and Business Modeling, 6th Edition
+https://coderprog.com/microsoft-excel-analysis-business-modeling-6th/
+**************************************************
+**************************************************
+Complete iOS 12 Development Guide: Become a professional iOS developer by mastering Swift, Xcode 10, ARKit, and Core ML
+https://coderprog.com/complete-ios-12-development-guide/
+**************************************************
+**************************************************
+Natural Language Processing in Action: Understanding, analyzing, and generating text with Python
+https://coderprog.com/natural-language-processing-action/
+**************************************************
+**************************************************
+Adobe Animate CC Classroom in a Book (2019 Release)
+https://coderprog.com/adobe-animate-cc-classroom-book-2019/
+**************************************************
+**************************************************
+Programming Quantum Computers: Essential Algorithms and Code Samples
+https://coderprog.com/programming-quantum-computers-essential-algorithms/
+**************************************************
+**************************************************
+TensorFlow 2.0 Quick Start Guide: Get up to speed with the newly introduced features of TensorFlow 2.0
+https://coderprog.com/tensorflow-2-quick-start-guide/
+**************************************************
+**************************************************
+Getting Started with Kubernetes: Extend your containerization strategy by orchestrating and managing large-scale container deployments, 3rd Edition
+https://coderprog.com/getting-started-kubernetes-containerization-3rd/
+**************************************************
+**************************************************
+Raspberry Pi 3 Home Automation Projects: Bringing your home to life using Raspberry Pi 3, Arduino, and ESP8266
+https://coderprog.com/raspberry-pi-3-home-automation-projects/
+**************************************************
+**************************************************
+Big Data Demystified: How to use big data, data science and AI to make better business decisions and gain competitive advantage
+https://coderprog.com/big-data-demystified-decisions-competitive/
+**************************************************
+**************************************************
+Build Your Own IoT Platform: Develop a Fully Flexible and Scalable Internet of Things Platform in 24 Hours
+https://coderprog.com/build-flexible-scalable-iot-platform/
+**************************************************
+**************************************************
+Practical Haskell: A Real World Guide to Programming, 2nd Edition
+https://coderprog.com/practical-haskell-guide-programming-2nd/
+**************************************************
+**************************************************
+Beginning Azure IoT Edge Computing: Extending the Cloud to the Intelligent Edge
+https://coderprog.com/beginning-azure-iot-edge-computing/
+**************************************************
+**************************************************
+Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics
+https://coderprog.com/agile-project-management-azure-devops/
+**************************************************
+**************************************************
+Visual Analytics with Tableau
+https://coderprog.com/visual-analytics-tableau-alexander-loth/
+**************************************************
+**************************************************
+The Official (ISC)2 Guide to the CISSP CBK Reference, 5th Edition
+https://coderprog.com/official-isc-guide-cissp-cbk-5th/
+**************************************************
+**************************************************
+CompTIA A+ Complete Study Guide: Exam Core 1 220-1001 and Exam Core 2 220-1002, 4th Edition
+https://coderprog.com/comptia-complete-study-guide-exam-4th/
+**************************************************
+**************************************************
+Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats
+https://coderprog.com/rootkits-bootkits-reversing-malware-generation/
+**************************************************
+**************************************************
+Supercharged Python: Take Your Code to the Next Level
+https://coderprog.com/supercharged-python-code-next-level/
+**************************************************
+**************************************************
+Advanced Structural Analysis with MATLAB®
+https://coderprog.com/advanced-structural-analysis-matlab/
+**************************************************
+**************************************************
+Python for Programmers: with Big Data and Artificial Intelligence Case Studies
+https://coderprog.com/python-programmers-artificial-intelligence-studies/
+**************************************************
+**************************************************
+Learn Computer Vision Using OpenCV: With Deep Learning CNNs and RNNs
+https://coderprog.com/learn-computer-vision-using-opencv/
+**************************************************
+**************************************************
+Programming TypeScript: Making Your JavaScript Applications Scale
+https://coderprog.com/programming-typescript-making-javascript-applications/
+**************************************************
+**************************************************
+Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence
+https://coderprog.com/deep-learning-illustrated-artificial-intelligence/
+**************************************************
+**************************************************
+Stream Processing with Apache Flink: Fundamentals, Implementation, and Operation of Streaming Applications
+https://coderprog.com/stream-processing-apache-flink/
+**************************************************
+**************************************************
+Developing Networks using Artificial Intelligence
+https://coderprog.com/developing-networks-using-artificial-intelligence/
+**************************************************
+**************************************************
+Easy Learning Design Patterns Java Practice: Reusable Object-Oriented Software
+https://coderprog.com/easy-learning-design-patterns-practice/
+**************************************************

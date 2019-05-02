@@ -1,0 +1,124 @@
+**************************************************
+Data Wrangling with Python
+https://coderprog.com/data-wrangling-python-video/
+**************************************************
+**************************************************
+Data Wrangling with Python
+https://coderprog.com/data-wrangling-python-video/
+**************************************************
+**************************************************
+Hands-On Artificial Intelligence for Small Businesses
+https://coderprog.com/hands-ai-small-businesses-video/
+**************************************************
+**************************************************
+Implementing Azure Cognitive Services for Vision
+https://coderprog.com/implementing-azure-cognitive-services-vision/
+**************************************************
+**************************************************
+TensorFlow.js in 3 Hours
+https://coderprog.com/tensorflowjs-3-hours-video/
+**************************************************
+**************************************************
+Exploring Graph Algorithms with Neo4j
+https://coderprog.com/exploring-graph-algorithms-neo4j-video/
+**************************************************
+**************************************************
+OpenCV 4 for Secret Agents
+https://coderprog.com/opencv-4-secret-agents-video/
+**************************************************
+**************************************************
+Learning React (Video)
+https://coderprog.com/learning-react-video/
+**************************************************
+**************************************************
+GraphQL Projects
+https://coderprog.com/graphql-projects-video/
+**************************************************
+**************************************************
+Mastering Metasploit 5.0
+https://coderprog.com/mastering-metasploit-5-video/
+**************************************************
+**************************************************
+ECMAScript 2019 New Features
+https://coderprog.com/ecmascript-2019-new-features-video/
+**************************************************
+**************************************************
+SAS Programming in 7 Steps
+https://coderprog.com/sas-programming-7-steps-video/
+**************************************************
+**************************************************
+RESTful API Design with Node, Express, and MongoDB
+https://coderprog.com/restful-api-design-node-express-mongodb-video/
+**************************************************
+**************************************************
+Ultimate Java Masterclass
+https://coderprog.com/ultimate-java-masterclass-video/
+**************************************************
+**************************************************
+Learning Google Cloud Platform
+https://coderprog.com/learning-google-cloud-platform-video/
+**************************************************
+**************************************************
+Cracking the Coding Interview: Concurrency and Parallelism
+https://coderprog.com/cracking-coding-interview-concurrency-parallelism/
+**************************************************
+**************************************************
+Mastering AWS Development
+https://coderprog.com/mastering-aws-development-video/
+**************************************************
+**************************************************
+Electron 5.0 Tips, Tricks, and Techniques
+https://coderprog.com/electron-5-tips-tricks-techniques-video/
+**************************************************
+**************************************************
+Hands-On Amazon DynamoDB for Developers
+https://coderprog.com/hands-amazon-dynamodb-developers-video/
+**************************************************
+**************************************************
+SAS in Practice
+https://coderprog.com/sas-practice-video/
+**************************************************
+**************************************************
+Architecting Azure Solutions for PaaS
+https://coderprog.com/architecting-azure-solutions-paas-video/
+**************************************************
+**************************************************
+Real World Projects in Python 3.x
+https://coderprog.com/real-world-projects-python-3x-video/
+**************************************************
+**************************************************
+Exploratory Data Analysis with Pandas and Python 3.x
+https://coderprog.com/exploratory-data-analysis-pandas-python-3x/
+**************************************************
+**************************************************
+Troubleshooting Python Deep Learning
+https://coderprog.com/troubleshooting-python-deep-learning-video/
+**************************************************
+**************************************************
+Implementing Windows Server 2019 High Availability
+https://coderprog.com/implementing-windows-server-2019-availability/
+**************************************************
+**************************************************
+Learning TensorFlow 2.0
+https://coderprog.com/learning-tensorflow-2-video/
+**************************************************
+**************************************************
+Mastering GitLab
+https://coderprog.com/mastering-gitlab-video/
+**************************************************
+**************************************************
+Hands-On Android Animations
+https://coderprog.com/hands-android-animations-video/
+**************************************************
+**************************************************
+Cert Prep: Red Hat Certified System Engineer (EX300)
+https://coderprog.com/red-hat-certified-system-engineer-ex300/
+**************************************************
+**************************************************
+MongoDB for MEAN Stack Developers
+https://coderprog.com/mongodb-mean-stack-developers-video/
+**************************************************
+**************************************************
+Mastering Python 3.x
+https://coderprog.com/mastering-python-3x-video/
+**************************************************
