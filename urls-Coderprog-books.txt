@@ -1,0 +1,436 @@
+**************************************************
+Get Programming: Learn to code with Python
+https://coderprog.com/get-programming-learn-code-python/
+**************************************************
+**************************************************
+Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats
+https://coderprog.com/rootkits-bootkits-reversing-malware-generation/
+**************************************************
+**************************************************
+Computer Graphics Programming in OpenGL with C++
+https://coderprog.com/computer-graphics-programming-opengl-c/
+**************************************************
+**************************************************
+Refactoring: Improving the Design of Existing Code, 2nd Edition
+https://coderprog.com/refactoring-improving-existing-2nd/
+**************************************************
+**************************************************
+Complete iOS 12 Development Guide: Become a professional iOS developer by mastering Swift, Xcode 10, ARKit, and Core ML
+https://coderprog.com/complete-ios-12-development-guide/
+**************************************************
+**************************************************
+JavaScript on Things: Hacking hardware for web developers
+https://coderprog.com/javascript-things/
+**************************************************
+**************************************************
+Core Java Volume II: Advanced Features, 11th Edition
+https://coderprog.com/core-java-volume-2-advanced-features-11th/
+**************************************************
+**************************************************
+Mastering OpenCV 4: A comprehensive guide to building computer vision and image processing applications with C++, 3rd Edition
+https://coderprog.com/mastering-opencv-comprehensive-processing-3rd/
+**************************************************
+**************************************************
+Modern JavaScript Web Development Cookbook: Easy solutions to common and everyday JavaScript development problems
+https://coderprog.com/modern-javascript-web-development-cookbook/
+**************************************************
+**************************************************
+XML Parsing with PHP: a php[architect] guide
+https://coderprog.com/xml-parsing-php-architect-guide/
+**************************************************
+**************************************************
+Emotionally Intelligent Design: Rethinking How We Create Products
+https://coderprog.com/emotionally-intelligent-design-rethinking/
+**************************************************
+**************************************************
+Java EE 8 Microservices: Learn how the various components of Java EE 8 can be used to implement the microservice architecture
+https://coderprog.com/java-ee-8-microservices-architecture/
+**************************************************
+**************************************************
+Julia Programming Projects: Learn Julia 1.x by building apps for data analysis, visualization, machine learning, and the web
+https://coderprog.com/julia-programming-projects-analysis-visualization/
+**************************************************
+**************************************************
+Web Development with ReasonML: Type-Safe, Functional Programming for JavaScript Developers
+https://coderprog.com/web-development-reasonml-functional-programming/
+**************************************************
+**************************************************
+Practical Oracle JET: Developing Enterprise Applications in JavaScript
+https://coderprog.com/practical-oracle-jet-developing-applications/
+**************************************************
+**************************************************
+Python for Teenagers: Learn to Program like a Superhero!
+https://coderprog.com/python-teenagers-learn-program-superhero/
+**************************************************
+**************************************************
+JavaScript Programming Pattern: Looping intelligence
+https://coderprog.com/javascript-programming-pattern-looping-intelligence/
+**************************************************
+**************************************************
+The Object-Oriented Thought Process, 5th Edition
+https://coderprog.com/object-oriented-thought-process-5th/
+**************************************************
+**************************************************
+Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts
+https://coderprog.com/software-architects-handbook-implementing-architecture/
+**************************************************
+**************************************************
+Data Analysis with Python: A Modern Approach
+https://coderprog.com/data-analysis-python-modern-approach/
+**************************************************
+**************************************************
+Mastering JavaScript Design Patterns, 3rd Edition
+https://coderprog.com/mastering-javascript-design-patterns-3rd/
+**************************************************
+**************************************************
+Learn Adobe Illustrator CC for Graphic Design and Illustration: Adobe Certified Associate Exam Preparation, 2nd Edition
+https://coderprog.com/learn-illustrator-graphic-design-illustration-2nd/
+**************************************************
+**************************************************
+Cyberdanger: Understanding and Guarding Against Cybercrime
+https://coderprog.com/cyberdanger-understanding-guarding-against-cybercrime/
+**************************************************
+**************************************************
+Python Crash Course: A Hands-On, Project-Based Introduction to Programming, 2nd Edition
+https://coderprog.com/python-crash-course-2nd/
+**************************************************
+**************************************************
+Hands-On Network Forensics: Investigate network attacks and find evidence using common network forensic tools
+https://coderprog.com/hands-network-forensics-investigate-evidences/
+**************************************************
+**************************************************
+Hands-On Cybersecurity for Finance: Identify vulnerabilities and secure your financial services from security breaches
+https://coderprog.com/hands-cybersecurity-finance-vulnerabilities/
+**************************************************
+**************************************************
+C Programming Cookbook: Over 40 recipes exploring data structures, pointers, interprocess communication, and database in C
+https://coderprog.com/programming-cookbook-structures-interprocess-communication/
+**************************************************
+**************************************************
+Securing Network Infrastructure: Discover practical network security with Nmap and Nessus 7
+https://coderprog.com/securing-network-infrastructure-discover-practical/
+**************************************************
+**************************************************
+The Data Science Handbook
+https://coderprog.com/the-data-science-handbook/
+**************************************************
+**************************************************
+Granular Neural Networks, Pattern Recognition and Bioinformatics
+https://coderprog.com/granular-neural-networks-recognition-bioinformatics/
+**************************************************
+**************************************************
+Advanced Python Programming: Build high performance, concurrent, and multi-threaded apps with Python using proven design patterns
+https://coderprog.com/advanced-python-programming-performance-multi-threaded/
+**************************************************
+**************************************************
+Building Serverless Microservices in Python: A complete guide to building, testing, and deploying microservices using serverless computing on AWS
+https://coderprog.com/building-serverless-microservices-python/
+**************************************************
+**************************************************
+Preventing Ransomware: Understand, prevent, and remediate ransomware attacks
+https://coderprog.com/preventing-ransomware-understand-remediat/
+**************************************************
+**************************************************
+Node.js Complete Reference Guide: Discover a more sustainable way of writing software with high levels of reusability and collaboration using Node.js
+https://coderprog.com/nodejs-complete-reference-guide-collaboration/
+**************************************************
+**************************************************
+Hands-On Network Programming with C# and .NET Core
+https://coderprog.com/hands-network-programming-c-net-core/
+**************************************************
+**************************************************
+Hands-On Machine Learning for Algorithmic Trading: Design and implement investment strategies based on smart algorithms that learn from data using Python
+https://coderprog.com/hands-machine-learning-algorithmic-trading/
+**************************************************
+**************************************************
+Nmap 6 Cookbook: The Fat Free Guide to Network Security Scanning
+https://coderprog.com/nmap-cookbook-network-security-scanning/
+**************************************************
+**************************************************
+C++ Fundamentals: Hit the ground running with C++, the language that supports tech giants globally
+https://coderprog.com/c-fundamentals-running-language-supports/
+**************************************************
+**************************************************
+WordPress 5 Complete: Build beautiful and feature-rich websites from scratch, 7th Edition
+https://coderprog.com/wordpress-complete-beautiful-websites-7th/
+**************************************************
+**************************************************
+Big Data Analysis with Python: Combine Spark and Python to unlock the powers of parallel computing and machine learning
+https://coderprog.com/big-data-analysis-python-computing/
+**************************************************
+**************************************************
+The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science
+https://coderprog.com/enterprise-big-data-lake-delivering/
+**************************************************
+**************************************************
+The Essential Guide to Telecommunications, 6th Edition
+https://coderprog.com/essential-guide-telecommunication-6th/
+**************************************************
+**************************************************
+Hands-On Full Stack Development with Go: Build full stack web applications with Go, React, Gin, and GopherJS
+https://coderprog.com/hands-full-stack-development-go/
+**************************************************
+**************************************************
+Understanding Security Issues
+https://coderprog.com/understanding-security-issues/
+**************************************************
+**************************************************
+The Well Grounded Rubyist, 3rd Edition
+https://coderprog.com/well-grounded-rubyist-3rd/
+**************************************************
+**************************************************
+Linux in Action
+https://coderprog.com/linux-action/
+**************************************************
+**************************************************
+Continuous Delivery in Java: Essential Tools and Best Practices for Deploying Code to Production
+https://coderprog.com/continuous-delivery-java-essential-production/
+**************************************************
+**************************************************
+Java in a Nutshell: A Desktop Quick Reference, 7th Edition
+https://coderprog.com/java-nutshell-desktop-quick-reference-7th/
+**************************************************
+**************************************************
+Xamarin in Action: Creating native cross-platform mobile apps
+https://coderprog.com/xamarin-in-action/
+**************************************************
+**************************************************
+Design for How People Think: Using Brain Science to Build Better Products
+https://coderprog.com/designing-how-people-think-products/
+**************************************************
+**************************************************
+Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line
+https://coderprog.com/cybersecurity-ops-bash-analyze-command/
+**************************************************
+**************************************************
+CompTIA Network+ Certification Guide: The ultimate guide to passing the N10-007 exam
+https://coderprog.com/comptia-network-certification-guide-n10-007/
+**************************************************
+**************************************************
+CISSP Cert Guide, 3rd Edition
+https://coderprog.com/cissp-cert-guide-3rd/
+**************************************************
+**************************************************
+C++ Concurrency in Action, 2nd Edition
+https://coderprog.com/c-concurrency-action-2nd/
+**************************************************
+**************************************************
+C# in Depth, 4th Edition
+https://coderprog.com/c-depth-4th/
+**************************************************
+**************************************************
+Machine Learning in Production: Developing and Optimizing Data Science Workflows and Applications
+https://coderprog.com/machine-learning-production-applications/
+**************************************************
+**************************************************
+React Native in Action
+https://coderprog.com/react-native-action/
+**************************************************
+**************************************************
+CompTIA A+ Certification Study Guide, (Exams 220-1001 & 220-1002), 10th Edition
+https://coderprog.com/comptia-certification-study-guide-10th/
+**************************************************
+**************************************************
+Deep Learning For Dummies
+https://coderprog.com/deep-learning-dummies/
+**************************************************
+**************************************************
+Hands-On Game Development Patterns with Unity 2019: Create engaging games by using industry-standard design patterns with C#
+https://coderprog.com/hands-game-development-patterns-unity-2019/
+**************************************************
+**************************************************
+Building Computer Vision Projects with OpenCV 4 and C++: Implement complex computer vision algorithms and explore deep learning and face detection
+https://coderprog.com/building-computer-vision-projects-opencv-4-c/
+**************************************************
+**************************************************
+Using Excel for Business Analysis: A Guide to Financial Modelling Fundamentals
+https://coderprog.com/using-excel-business-analysis-fundamentals/
+**************************************************
+**************************************************
+Deep Learning with Microsoft Cognitive Toolkit Quick Start Guide: A practical guide to building neural networks using Microsoft’s open source deep learning framework
+https://coderprog.com/deep-learning-cognitive-toolkit-guide/
+**************************************************
+**************************************************
+Learn Adobe After Effects CC for Visual Effects and Motion Graphics
+https://coderprog.com/learn-adobe-effects-visual-graphic/
+**************************************************
+**************************************************
+Hands-On Machine Learning with IBM Watson: Leverage IBM Watson to implement machine learning techniques and algorithms using Python
+https://coderprog.com/hands-machine-learning-ibm-watson/
+**************************************************
+**************************************************
+Blockchain Development with Hyperledger: Build decentralized applications with Hyperledger Fabric and Composer Paperback
+https://coderprog.com/blockchain-development-hyperledger-decentralized-apps/
+**************************************************
+**************************************************
+Principles and Practice of Big Data: Preparing, Sharing, and Analyzing Complex Information, 2nd Edition
+https://coderprog.com/principles-practice-big-data-2nd/
+**************************************************
+**************************************************
+Grokking Deep Learning
+https://coderprog.com/grokking-deep-learning/
+**************************************************
+**************************************************
+Testing Vue.js Applications
+https://coderprog.com/testing-vuejs-applications/
+**************************************************
+**************************************************
+Swift in Depth
+https://coderprog.com/swift-depth/
+**************************************************
+**************************************************
+Building Ethereum DApps: Decentralized Applications on the Ethereum Blockchain
+https://coderprog.com/building-ethereum-dapps-decentralized-apps/
+**************************************************
+**************************************************
+Python Machine Learning
+https://coderprog.com/python-machine-learning-wei-meng-lee/
+**************************************************
+**************************************************
+Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications
+https://coderprog.com/programming-webassembly-rust-development-applications/
+**************************************************
+**************************************************
+HTML, CSS, and JavaScript All in One, Sams Teach Yourself, 3rd Edition
+https://coderprog.com/html-css-javascript-all-one-3rd/
+**************************************************
+**************************************************
+Introducing Python: Modern Computing in Simple Packages, 2nd Edition
+https://coderprog.com/introducing-python-modern-computing-packages-2nd/
+**************************************************
+**************************************************
+Deep Learning and the Game of Go
+https://coderprog.com/deep-learning-game-go/
+**************************************************
+**************************************************
+Deep Learning with R
+https://coderprog.com/deep-learning-with-r/
+**************************************************
+**************************************************
+D3 for the Impatient: Interactive Graphics for Programmers and Scientists
+https://coderprog.com/d3-impatient-interactive-programmers-scientists/
+**************************************************
+**************************************************
+Adobe Illustrator CC Classroom in a Book (2019 Release)
+https://coderprog.com/adobe-illustrator-classroom-book-2019/
+**************************************************
+**************************************************
+Shell Scripting: Expert Recipes for Linux, Bash, and more
+https://coderprog.com/shell-scripting-expert-recipes-linux/
+**************************************************
+**************************************************
+Mastering Unix Shell Scripting: Bash, Bourne, and Korn Shell Scripting for Programmers, System Administrators, and UNIX Gurus, 2nd Edition
+https://coderprog.com/mastering-unix-shell-scripting-administrators-2nd/
+**************************************************
+**************************************************
+Computer Science Illuminated, 7th Edition
+https://coderprog.com/computer-science-illuminated-7th/
+**************************************************
+**************************************************
+Data Wrangling with JavaScript
+https://coderprog.com/data-wrangling-javascript/
+**************************************************
+**************************************************
+Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More
+https://coderprog.com/deep-learning-life-sciences/
+**************************************************
+**************************************************
+Laravel: Up & Running: A Framework for Building Modern PHP Apps, 2nd Edition
+https://coderprog.com/laravel-running-building-modern-php-2nd/
+**************************************************
+**************************************************
+React Material-UI Cookbook: Build captivating user experiences using React and Material-UI
+https://coderprog.com/react-material-ui-cookbook/
+**************************************************
+**************************************************
+Internet of Things Projects with ESP32: Build exciting and powerful IoT projects using the all-new Espressif ESP32
+https://coderprog.com/internet-things-projects-esp32/
+**************************************************
+**************************************************
+Mastering Ansible: Effectively automate configuration management and deployment challenges with Ansible 2.7, 3rd Edition
+https://coderprog.com/mastering-ansible-effectively-management-3rd/
+**************************************************
+**************************************************
+Learning Python Networking: A complete guide to build and deploy strong networking capabilities using Python 3.7 and Ansible, 2nd Edition
+https://coderprog.com/learning-python-networking-capabilities-2nd/
+**************************************************
+**************************************************
+Mastering OpenCV 4 with Python: A practical guide covering topics from image processing, augmented reality to deep learning with OpenCV 4 and Python 3.7
+https://coderprog.com/mastering-opencv-python-practical-processing/
+**************************************************
+**************************************************
+Mastering MongoDB 4.x: Expert techniques to run high-volume and fault-tolerant database solutions using MongoDB 4.x, 2nd Edition
+https://coderprog.com/mastering-mongodb-4x-high-fault-tolerant-2nd/
+**************************************************
+**************************************************
+Kali Linux – An Ethical Hacker’s Cookbook: Practical recipes that combine strategies, attacks, and tools for advanced penetration testing, 2nd Edition
+https://coderprog.com/kali-linux-ethical-hackers-cookbook-2nd/
+**************************************************
+**************************************************
+Securing the Cloud: Security Strategies for the Ubiquitous Data Center
+https://coderprog.com/securing-cloud-security-strategies-ubiquitous/
+**************************************************
+**************************************************
+Calculus Essentials For Dummies
+https://coderprog.com/calculus-essentials-dummies/
+**************************************************
+**************************************************
+Java Fundamentals: A fast-paced and pragmatic introduction to one of the world’s most popular programming languages
+https://coderprog.com/java-fundamentals-fast-paced-introduction-programming/
+**************************************************
+**************************************************
+Machine Learning with R Quick Start Guide: A beginner’s guide to implementing machine learning techniques from scratch using R 3.5
+https://coderprog.com/machine-learning-r-quick-start-guide/
+**************************************************
+**************************************************
+Learning C# by Developing Games with Unity 2019: Code in C# and build 3D games with Unity, 4th Edition
+https://coderprog.com/learning-c-developing-games-unity-2019-4th/
+**************************************************
+**************************************************
+Google Flutter Mobile Development Quick Start Guide: Get up and running with iOS and Android mobile app development
+https://coderprog.com/google-flutter-mobile-development-quick-start-guide/
+**************************************************
+**************************************************
+Learning Tableau 2019: Tools for Business Intelligence, data prep, and visual analytics, 3rd Edition
+https://coderprog.com/learning-tableau-intelligence-analytics-3rd/
+**************************************************
+**************************************************
+Mastering Geospatial Development with QGIS 3.x: An in-depth guide to becoming proficient in spatial data analysis using QGIS 3.4 and 3.6 with Python, 3rd Edition
+https://coderprog.com/mastering-geospatial-development-qgis-3x-3rd/
+**************************************************
+**************************************************
+Deep Neural Networks: WASD Neuronet Models, Algorithms, and Applications
+https://coderprog.com/deep-neural-networks-algorithms-applications/
+**************************************************
+**************************************************
+Deep Learning in the Browser
+https://coderprog.com/deep-learning-browser/
+**************************************************
+**************************************************
+Mastering PostgreSQL 11: Expert techniques to build scalable, reliable, and fault-tolerant database applications, 2nd Edition
+https://coderprog.com/mastering-postgresql-11-2nd/
+**************************************************
+**************************************************
+Practical Guide to Large Database Migration
+https://coderprog.com/practical-guide-large-database-migration/
+**************************************************
+**************************************************
+Python All-in-One For Dummies
+https://coderprog.com/python-all-one-dummies/
+**************************************************
+**************************************************
+Discrete Wavelet Transformations: An Elementary Approach with Applications, 2nd Edition
+https://coderprog.com/discrete-wavelet-transformations-2nd/
+**************************************************
+**************************************************
+SQL All In One For Dummies, 3rd Edition
+https://coderprog.com/sql-all-one-dummies-3rd/
+**************************************************
+**************************************************
+Enabling Technologies for the Internet of Things: Wireless Circuits, Systems and Networks
+https://coderprog.com/enabling-technologies-internet-things/
+**************************************************
+**************************************************
+Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation Spatial Computing
+https://coderprog.com/creating-augmented-virtual-realities-ractice/
+**************************************************

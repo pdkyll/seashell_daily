@@ -1,0 +1,96 @@
+**************************************************
+Kotlin for Android: Creating a Two-Screen App
+https://coderprog.com/kotlin-android-creating-two-screen-app/
+**************************************************
+**************************************************
+Hands-On Web Development with Bootstrap and Vue
+https://coderprog.com/hands-web-development-bootstrap-vue-video/
+**************************************************
+**************************************************
+Programming Foundations: Design Patterns
+https://coderprog.com/programming-foundations-design-patterns/
+**************************************************
+**************************************************
+Mastering Regular Expressions in JavaScript
+https://coderprog.com/mastering-regular-expressions-javascript/
+**************************************************
+**************************************************
+Linux System Engineer: iSCSI Storage Area Networks
+https://coderprog.com/rhce-iscsi-storage-area-networks/
+**************************************************
+**************************************************
+Linux System Engineer: Web Servers and DNS Using Apache, NGINX, and BIND
+https://coderprog.com/rhce-web-servers-dns-apache-nginx-bind/
+**************************************************
+**************************************************
+Linux System Engineer: Network Filesystems Using NFS and Samba
+https://coderprog.com/rhce-network-filesystems-nfs-samba/
+**************************************************
+**************************************************
+Linux System Engineer: Authentication with LDAP and Kerberos
+https://coderprog.com/rhce-cert-prep-authentication-ldap-kerberos/
+**************************************************
+**************************************************
+Computer Security: Art and Science, 2nd Edition
+https://coderprog.com/computer-security-art-science-2nd/
+**************************************************
+**************************************************
+The Complete Flutter Development Bootcamp with Dart
+https://coderprog.com/complete-flutter-development-bootcamp-dart/
+**************************************************
+**************************************************
+Java EE 7: Enterprise Java Beans EJB
+https://coderprog.com/java-ee-7-enterprise-java-beans-ejb/
+**************************************************
+**************************************************
+Programming Foundations: Web Security
+https://coderprog.com/programming-foundations-web-security-video/
+**************************************************
+**************************************************
+Learning ASP.NET Core MVC
+https://coderprog.com/learning-aspnet-core-mvc-video/
+**************************************************
+**************************************************
+Web Scraping: Python Data Playbook
+https://coderprog.com/web-scraping-python-data-playbook/
+**************************************************
+**************************************************
+Cloud Security Considerations for the Financial Services Industry
+https://coderprog.com/cloud-security-financial-services-industry/
+**************************************************
+**************************************************
+CSS: Selectors
+https://coderprog.com/css-selectors-video/
+**************************************************
+**************************************************
+Introducing Maven
+https://coderprog.com/introducing-maven-video/
+**************************************************
+**************************************************
+C: Data Structures, Pointers, and File Systems
+https://coderprog.com/c-data-structures-pointers-file-systems/
+**************************************************
+**************************************************
+C: Data Structures, Pointers, and File Systems
+https://coderprog.com/c-data-structures-pointers-file-systems/
+**************************************************
+**************************************************
+Linux System Engineer: Networking and SSH
+https://coderprog.com/linux-system-engineer-networking-ssh/
+**************************************************
+**************************************************
+Mastering Swift 5 Programming
+https://coderprog.com/mastering-swift-5-programming-video/
+**************************************************
+**************************************************
+Linux System Engineer: Advanced Disk Systems and System Backup
+https://coderprog.com/linux-system-engineer-advanced-disk-systems/
+**************************************************
+**************************************************
+Android Development Essential Training: App Architecture
+https://coderprog.com/android-development-essential-app-architecture/
+**************************************************
+**************************************************
+Advanced Java Programming
+https://coderprog.com/advanced-java-programming-video/
+**************************************************
