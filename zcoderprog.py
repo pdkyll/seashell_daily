@@ -155,7 +155,7 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("The Joy of Kotlin")
+mob = SeashellCoderprog("Get Programming: Learn to code with Python")
 
 
 mob.processNew()
