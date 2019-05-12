@@ -1,96 +1,60 @@
 **************************************************
-Kotlin for Android: Creating a Two-Screen App
-https://coderprog.com/kotlin-android-creating-two-screen-app/
+Applied Machine Learning: Foundations
+https://coderprog.com/applied-machine-learning-loundations-video/
 **************************************************
 **************************************************
-Hands-On Web Development with Bootstrap and Vue
-https://coderprog.com/hands-web-development-bootstrap-vue-video/
+Python for Time Series Data Analysis
+https://coderprog.com/python-time-series-data-analysis/
 **************************************************
 **************************************************
-Programming Foundations: Design Patterns
-https://coderprog.com/programming-foundations-design-patterns/
+Node.js Essential Training
+https://coderprog.com/node-js-essential-training/
 **************************************************
 **************************************************
-Mastering Regular Expressions in JavaScript
-https://coderprog.com/mastering-regular-expressions-javascript/
+Kotlin for Android: Best Practices
+https://coderprog.com/kotlin-android-best-practices-video/
 **************************************************
 **************************************************
-Linux System Engineer: iSCSI Storage Area Networks
-https://coderprog.com/rhce-iscsi-storage-area-networks/
+CompTIA A+ (220-1001) Cert Prep 7: Understanding Networking
+https://coderprog.com/comptia-220-1001-understanding-networking/
 **************************************************
 **************************************************
-Linux System Engineer: Web Servers and DNS Using Apache, NGINX, and BIND
-https://coderprog.com/rhce-web-servers-dns-apache-nginx-bind/
+CompTIA A+ (220-1001) Cert Prep 6: Physical Networking
+https://coderprog.com/comptia-220-1001-physical-networking/
 **************************************************
 **************************************************
-Linux System Engineer: Network Filesystems Using NFS and Samba
-https://coderprog.com/rhce-network-filesystems-nfs-samba/
+Deploying Exchange Server 2019
+https://coderprog.com/deploying-exchange-server-2019-video/
 **************************************************
 **************************************************
-Linux System Engineer: Authentication with LDAP and Kerberos
-https://coderprog.com/rhce-cert-prep-authentication-ldap-kerberos/
+Web Security: Same-Origin Policies
+https://coderprog.com/web-security-same-origin-policies/
 **************************************************
 **************************************************
-Computer Security: Art and Science, 2nd Edition
-https://coderprog.com/computer-security-art-science-2nd/
+Windows Server 2019: Deploying Containers
+https://coderprog.com/windows-server-2019-deploying-containers/
 **************************************************
 **************************************************
-The Complete Flutter Development Bootcamp with Dart
-https://coderprog.com/complete-flutter-development-bootcamp-dart/
+Agile Software Development: Remote Teams
+https://coderprog.com/agile-software-development-remote-teams/
 **************************************************
 **************************************************
-Java EE 7: Enterprise Java Beans EJB
-https://coderprog.com/java-ee-7-enterprise-java-beans-ejb/
+Azure for Developers: Implementing VMs and Batch Jobs
+https://coderprog.com/azure-developers-implementing-vms-batch-jobs/
 **************************************************
 **************************************************
-Programming Foundations: Web Security
-https://coderprog.com/programming-foundations-web-security-video/
+Distributed Tracing
+https://coderprog.com/distributed-tracing-video/
 **************************************************
 **************************************************
-Learning ASP.NET Core MVC
-https://coderprog.com/learning-aspnet-core-mvc-video/
+ASP.NET Web Forms Essential Training: 1
+https://coderprog.com/aspnet-web-forms-essential-training-1/
 **************************************************
 **************************************************
-Web Scraping: Python Data Playbook
-https://coderprog.com/web-scraping-python-data-playbook/
+VMware vSphere 6.5 Updates and Upgrades
+https://coderprog.com/vmware-vsphere-6-5-updates-upgrades/
 **************************************************
 **************************************************
-Cloud Security Considerations for the Financial Services Industry
-https://coderprog.com/cloud-security-financial-services-industry/
-**************************************************
-**************************************************
-CSS: Selectors
-https://coderprog.com/css-selectors-video/
-**************************************************
-**************************************************
-Introducing Maven
-https://coderprog.com/introducing-maven-video/
-**************************************************
-**************************************************
-C: Data Structures, Pointers, and File Systems
-https://coderprog.com/c-data-structures-pointers-file-systems/
-**************************************************
-**************************************************
-C: Data Structures, Pointers, and File Systems
-https://coderprog.com/c-data-structures-pointers-file-systems/
-**************************************************
-**************************************************
-Linux System Engineer: Networking and SSH
-https://coderprog.com/linux-system-engineer-networking-ssh/
-**************************************************
-**************************************************
-Mastering Swift 5 Programming
-https://coderprog.com/mastering-swift-5-programming-video/
-**************************************************
-**************************************************
-Linux System Engineer: Advanced Disk Systems and System Backup
-https://coderprog.com/linux-system-engineer-advanced-disk-systems/
-**************************************************
-**************************************************
-Android Development Essential Training: App Architecture
-https://coderprog.com/android-development-essential-app-architecture/
-**************************************************
-**************************************************
-Advanced Java Programming
-https://coderprog.com/advanced-java-programming-video/
+Functional Programming in JavaScript: A Practical Guide
+https://coderprog.com/functional-programming-javascript-practical/
 **************************************************

@@ -20,7 +20,7 @@ class SeashellCoderprog:
         prefs = {'profile.managed_default_content_settings.images': 2}
         options.add_experimental_option("prefs", prefs)
         options.add_argument("--headless")
-        # options.binary_location = "C:/Users/seashell/Desktop/cr-stable/bin/chrome.exe"
+        options.binary_location = "C:/Users/seashell/Desktop/cr-stable/bin/chrome.exe"
         driver = webdriver.Chrome(options=options)
         drv = webdriver.Chrome(options=options)
 
@@ -155,7 +155,7 @@ class SeashellCoderprog:
     #     print(driver.current_url)
 
 
-mob = SeashellCoderprog("Get Programming: Learn to code with Python")
+mob = SeashellCoderprog("Applied Machine Learning: Foundations")
 
 
 mob.processNew()
