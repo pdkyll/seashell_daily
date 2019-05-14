@@ -10,7 +10,7 @@ class SeashellMobilism:
     def __init__(self, lastdate):
         self.lastdate = self.toDate(lastdate)
         self.done = False
-        self.kws = ['x86', 'icon pack', 'KLWP', 'WhatsApp', 'facebook', 'Substratum', 'GO Launcher', 'Hindi',
+        self.kws = ['x86', 'iconpack', 'icon pack', 'KLWP', 'WhatsApp', 'facebook', 'Substratum', 'GO Launcher', 'Hindi',
                     'Dictionary', 'Learn English', 'Smart Launcher', 'P Launcher', 'Twitter', 'Spanish', 'French',
                     'Netflix', 'Gboard', 'Microsoft Launcher', 'Turbo Launcher', 'Chrooma', 'Fleksy',
                     'Launcher Oreo', 'Google Drive', 'MosaLingua', 'ATV Launcher', 'Total Launcher', 'Drivemode',
@@ -140,7 +140,7 @@ class SeashellMobilism:
         return not linkhref.startswith(self.lkws)
 
 
-mob = SeashellMobilism("May 2nd, 2019, 1:20 pm")
+mob = SeashellMobilism("May 7th, 2019, 8:47 pm")
 mob.process()
 # https://forum.mobilism.org/viewforum.php?f=399
-# https://forum.mobilism.org/viewtopic.php?f=428&t=3125050
+# https://forum.mobilism.org/viewtopic.php?f=431&t=3134897
