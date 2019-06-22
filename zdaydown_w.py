@@ -78,14 +78,16 @@ class Seashell0daydownW:
             dlink = e.get_attribute("href")
 
             if "pan.baidu.com" in dlink:
-                f.write('###')
+                f.write('###\n\n')
+                # rstr = e.find_element_by_xpath('..').text \
+                #     .replace("Download 百度云", "\n") \
+                #     .replace("链接: ", "\n") \
+                #     .replace(" 密码: ", "\n")\
+                #     .replace(" 提取码: ", "\n")
                 rstr = e.find_element_by_xpath('..').text \
-                    .replace("Download 百度云", "\n") \
-                    .replace("链接: ", "\n") \
-                    .replace(" 密码: ", "\n")\
-                    .replace(" 提取码: ", "\n")
+                    .replace("Download 百度云", "")
                 f.write(rstr)
-                f.write('\n###')
+                f.write('\n\n###')
             else:
                 f.write(dlink)
             f.write('\n')
