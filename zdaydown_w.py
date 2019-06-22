@@ -7,12 +7,12 @@ from datetime import datetime
 import re
 import time
 
+
 class Seashell0daydownW:
     def __init__(self, stopurl):
         self.stopurl = stopurl
         self.done = False
         self.pt = 3
-
 
     def process(self):
 
@@ -28,6 +28,7 @@ class Seashell0daydownW:
         drv.implicitly_wait(self.pt)
 
         f = open('urls-0daydown-Windows.txt', 'a', encoding="utf-8")
+        fb = open('urls-0daydown-Windows-b.txt', 'a', encoding="utf-8")
 
         i = 1
         while not self.done:
@@ -37,7 +38,7 @@ class Seashell0daydownW:
             driver.get(start_i)
             elems = driver.find_elements_by_class_name("thumbnail")
 
-            if len(elems)==0 :
+            if len(elems) == 0:
                 break
 
             for elem in elems:
@@ -48,17 +49,18 @@ class Seashell0daydownW:
                     print("Meet last done")
                     break
 
-                #print(elem.get_attribute("href"))
+                # print(elem.get_attribute("href"))
 
-                self.processitem(drv, elem, f)
-                time.sleep( 0.5 )
+                self.processitem(drv, elem, f, fb)
+                time.sleep(0.5)
             i += 1
 
         f.close()
+        fb.close()
         drv.close()
         driver.close()
 
-    def processitem(self, driver, elem, f):
+    def processitem(self, driver, elem, f, fb):
 
         itemurl = elem.get_attribute("href")
         driver.get(itemurl)
@@ -74,7 +76,9 @@ class Seashell0daydownW:
 
         elems = driver.find_elements_by_class_name("external")
 
+        count = 0
         for e in elems:
+            count = count + 1
             dlink = e.get_attribute("href")
 
             if "pan.baidu.com" in dlink:
@@ -86,14 +90,15 @@ class Seashell0daydownW:
                 #     .replace(" 提取码: ", "\n")
                 rstr = e.find_element_by_xpath('..').text \
                     .replace("Download 百度云", "")
-                f.write(rstr)
+                f.write(rstr.strip())
                 f.write('\n\n###')
+                if count==1:
+                    fb.write(rstr.strip())
+                    fb.write('\n')
             else:
                 f.write(dlink)
             f.write('\n')
         f.write('\n')
-
-
 
 # mob = Seashell0daydownW("https://www.0daydown.com/02/1001971.html")
 # mob.process()
