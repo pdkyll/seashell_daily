@@ -6,6 +6,16 @@ from selenium.webdriver.common.keys import Keys
 from datetime import datetime
 import re
 import time
+import json
+
+
+class Ditem:
+
+    def __init__(self):
+        self.title = ""
+        self.url = ""
+        self.bdurl = ""
+        self.filenames = []
 
 
 class Seashell0daydownW:
@@ -13,6 +23,10 @@ class Seashell0daydownW:
         self.stopurl = stopurl
         self.done = False
         self.pt = 3
+        self.ditems = []
+
+    def obj_dict(obj):
+        return obj.__dict__
 
     def process(self):
 
@@ -28,7 +42,7 @@ class Seashell0daydownW:
         drv.implicitly_wait(self.pt)
 
         f = open('urls-0daydown-Windows.txt', 'a', encoding="utf-8")
-        fb = open('urls-0daydown-Windows-b.txt', 'a', encoding="utf-8")
+        fb = open('urls-0daydown-Windows1.txt', 'a', encoding="utf-8")
 
         i = 1
         while not self.done:
@@ -56,11 +70,15 @@ class Seashell0daydownW:
             i += 1
 
         f.close()
-        fb.close()
         drv.close()
         driver.close()
 
+        fb = open('urls-0daydown-Windows.json', 'a', encoding="utf-8")
+        fb.write(json.dumps([ob.__dict__ for ob in self.ditems], ensure_ascii=False))
+        fb.close()
+
     def processitem(self, driver, elem, f, fb):
+        ditem = Ditem()
 
         itemurl = elem.get_attribute("href")
         driver.get(itemurl)
@@ -72,13 +90,14 @@ class Seashell0daydownW:
         f.write(itemurl)
         f.write('\n' + '*' * 50 + '\n')
 
+        ditem.title = title
+        ditem.url = itemurl
+
         print(title)
 
         elems = driver.find_elements_by_class_name("external")
 
-        count = 0
         for e in elems:
-            count = count + 1
             dlink = e.get_attribute("href")
 
             if "pan.baidu.com" in dlink:
@@ -92,13 +111,17 @@ class Seashell0daydownW:
                     .replace("Download 百度云", "")
                 f.write(rstr.strip())
                 f.write('\n\n###')
-                if count==1:
+                if ditem.bdurl == "":
+                    ditem.bdurl = rstr.strip()
                     fb.write(rstr.strip())
-                    fb.write('\n')
+                    fb.write("\n")
             else:
                 f.write(dlink)
+                if ("nitroflare.com" in dlink) and (ditem.bdurl == ""):
+                    ditem.filenames.append(dlink.split('/')[-1])
             f.write('\n')
         f.write('\n')
+        self.ditems.append(ditem)
 
 # mob = Seashell0daydownW("https://www.0daydown.com/02/1001971.html")
 # mob.process()
