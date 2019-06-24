@@ -7,15 +7,9 @@ from datetime import datetime
 import re
 import time
 import json
+import os
 
 
-class Ditem:
-
-    def __init__(self):
-        self.title = ""
-        self.url = ""
-        self.bdurl = ""
-        self.filenames = []
 
 
 class Seashell0daydownW:
@@ -123,5 +117,30 @@ class Seashell0daydownW:
         f.write('\n')
         self.ditems.append(ditem)
 
+class Ditem:
+
+    DEST="/download/"
+
+    def __init__(self):
+        self.title = ""
+        self.url = ""
+        self.bdurl = ""
+        self.filenames = []
+
+    def folderfiles(self):
+        with open('urls-0daydown-Windows.json', 'rb') as json_file:
+            data = json.load(json_file)
+            for i in data:
+                if len(i['filenames'])>0:
+                    directory = self.DEST +i['title']
+                    if not os.path.exists(directory):
+                        os.makedirs(directory)
+                    for j in i['filenames']:
+                        os.rename(self.DEST+j, directory+"/"+j)
+
+
+
 # mob = Seashell0daydownW("https://www.0daydown.com/02/1001971.html")
 # mob.process()
+ff = Ditem()
+ff.folderfiles()
