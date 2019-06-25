@@ -10,8 +10,6 @@ import json
 import os
 
 
-
-
 class Seashell0daydownW:
     def __init__(self, stopurl):
         self.stopurl = stopurl
@@ -117,9 +115,9 @@ class Seashell0daydownW:
         f.write('\n')
         self.ditems.append(ditem)
 
-class Ditem:
 
-    DEST="/download/"
+class Ditem:
+    DEST = "/download/@@@@@@MMMMMM/batch/111/"
 
     def __init__(self):
         self.title = ""
@@ -127,20 +125,37 @@ class Ditem:
         self.bdurl = ""
         self.filenames = []
 
-    def folderfiles(self):
+    def folderfiles(self, mypath):
         with open('urls-0daydown-Windows.json', 'rb') as json_file:
             data = json.load(json_file)
             for i in data:
-                if len(i['filenames'])>0:
-                    directory = self.DEST +i['title']
-                    if not os.path.exists(directory):
-                        os.makedirs(directory)
+                if (len(i['filenames']) > 0) and (len(i['bdurl'])>0):
+                    directory = mypath + i['title'].replace("/"," ")
                     for j in i['filenames']:
-                        os.rename(self.DEST+j, directory+"/"+j)
+                        if os.path.exists(mypath + j):
+                            if not os.path.exists(directory):
+                                os.makedirs(directory)
+                            os.rename(mypath + j, directory + "/" + j)
+                        j = j.replace("_"," ")
+                        if os.path.exists(mypath + j):
+                            if not os.path.exists(directory):
+                                os.makedirs(directory)
+                            os.rename(mypath + j, directory + "/" + j)
 
+    def folderUnFolderFiles(self, mypath):
+        for (dirpath, dirnames, filenames) in os.walk(mypath):
+            for x in filenames:
+                # print(x)
+                # print(os.path.splitext(x)[0])
+                directory = mypath + os.path.splitext(x)[0]
+                if not os.path.exists(directory):
+                    os.makedirs(directory)
+                os.rename(mypath + x, directory + "/" + x)
+            break
 
 
 # mob = Seashell0daydownW("https://www.0daydown.com/02/1001971.html")
 # mob.process()
 ff = Ditem()
-ff.folderfiles()
+#ff.folderfiles("/download/@@@@@@MMMMMM/batch/")
+ff.folderUnFolderFiles('/download/0days/')
