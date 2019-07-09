@@ -158,4 +158,5 @@ class Ditem:
 # mob.process()
 ff = Ditem()
 #ff.folderfiles("/download/@@@@@@MMMMMM/batch/")
+#ff.folderUnFolderFiles('/download/0days/')
 ff.folderUnFolderFiles('/download/00000jd/000day/@@@@@SSSSSSSSS/')
