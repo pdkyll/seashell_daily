@@ -22,7 +22,9 @@ class Seashell0daydownT:
         prefs = {'profile.managed_default_content_settings.images': 2}
         options.add_experimental_option("prefs", prefs)
         options.add_argument("--headless")
-        options.binary_location = "C:/Users/seashell/Desktop/cr-stable/bin/chrome.exe"
+#        options.binary_location = "C:/Users/seashell/Desktop/cr-stable/bin/chrome.exe"
+#        options.binary_location = "S:/TOOLS/cr-stable/bin/chrome.exe"
+
         driver = webdriver.Chrome(options=options)
         drv = webdriver.Chrome(options=options)
 
@@ -82,7 +84,7 @@ class Seashell0daydownT:
         f.write('\n')
 
 
-mob = Seashell0daydownT("https://www.0daydown.com/07/1075954.html")
+mob = Seashell0daydownT("https://www.0daydown.com/08/1090869.html")
 mob.process()
-mob = Seashell0daydownW("https://www.0daydown.com/07/899112.html")
+mob = Seashell0daydownW("https://www.0daydown.com/08/990133.html")
 mob.process()
