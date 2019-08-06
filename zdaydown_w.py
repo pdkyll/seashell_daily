@@ -148,7 +148,7 @@ class Ditem:
                 # print(x)
                 # print(os.path.splitext(x)[0])
                 directory = mypath + os.path.splitext(x)[0]
-                directory = directory.replace("_"," ").replace("Downloadly.ir","")
+                directory = directory.replace("_"," ").replace("Downloadly.ir","").strip()
 
                 if not os.path.exists(directory):
                     os.makedirs(directory)
@@ -159,6 +159,6 @@ class Ditem:
 # mob = Seashell0daydownW("https://www.0daydown.com/02/1001971.html")
 # mob.process()
 ff = Ditem()
-#ff.folderfiles("/download/@@@@@@MMMMMM/batch/")
+# ff.folderfiles("/download/@@@@@@MMMMMM/batch/")
 #ff.folderUnFolderFiles('/download/0days/')
 ff.folderUnFolderFiles('/download/00000jd/000day/@@@@@SSSSSSSSS/')
