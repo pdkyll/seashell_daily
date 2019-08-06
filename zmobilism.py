@@ -61,8 +61,8 @@ class SeashellMobilism:
         prefs = {'profile.managed_default_content_settings.images': 2}
         options.add_experimental_option("prefs", prefs)
         options.add_argument("--headless")
-        driver = webdriver.Chrome(chrome_options=options)
-        drv = webdriver.Chrome(chrome_options=options)
+        driver = webdriver.Chrome(options=options)
+        drv = webdriver.Chrome(options=options)
 
         driver.implicitly_wait(10)
         drv.implicitly_wait(10)
