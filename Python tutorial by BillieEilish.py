@@ -5,8 +5,8 @@ from colorama import Fore, Style
 from colorama import init, Fore, Back, Style
 init(convert=True)
 
-import pyfiglet
-from pyfiglet import Figlet
+# import pyfiglet
+# from pyfiglet import Figlet
 
 print(Fore.MAGENTA + """
 .___________. __    __  .___________.  ______   .______       __       ___       __      
