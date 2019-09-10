@@ -84,7 +84,7 @@ class Seashell0daydownT:
         f.write('\n')
 
 
-mob = Seashell0daydownT("https://www.0daydown.com/08/1090869.html")
+mob = Seashell0daydownT("https://www.0daydown.com/09/1114279.html")
 mob.process()
-mob = Seashell0daydownW("https://www.0daydown.com/08/990133.html")
+mob = Seashell0daydownW("https://www.0daydown.com/09/1114514.html")
 mob.process()
