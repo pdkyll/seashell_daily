@@ -49,13 +49,11 @@ class SeashellMobilism:
         # driver = webdriver.PhantomJS(service_args=['--load-images=no'])
         # drv = webdriver.PhantomJS(service_args=['--load-images=no'])
 
-        # firefox_profile = webdriver.FirefoxProfile()
-        # firefox_profile.set_preference('permissions.default.image', 2)
-        # firefox_profile.set_preference('dom.ipc.plugins.enabled.libflashplayer.so', 'false')
-        # options = webdriver.FirefoxOptions()
-        # options.add_argument("--headless")
-        # driver = webdriver.Firefox(firefox_profile=firefox_profile,firefox_options=options)
-        # drv = webdriver.Firefox(firefox_profile=firefox_profile,firefox_options=options)
+        # from selenium.webdriver.firefox.options import Options
+        # options = Options()
+        # options.headless=True
+        # driver = webdriver.Firefox(options=options)
+        # drv = webdriver.Firefox(options)
 
         options = webdriver.ChromeOptions()
         prefs = {'profile.managed_default_content_settings.images': 2}
@@ -64,12 +62,13 @@ class SeashellMobilism:
         driver = webdriver.Chrome(options=options)
         drv = webdriver.Chrome(options=options)
 
+
         driver.implicitly_wait(10)
         drv.implicitly_wait(10)
 
         f = open('urls-Mobilism.txt', 'a', encoding="utf-8")
 
-        i = 0
+        i = 640
         while not self.done:
             self.done = True
             start_i = "https://forum.mobilism.org/viewforum.php?f=399&start=" + str(i)
@@ -140,7 +139,7 @@ class SeashellMobilism:
         return not linkhref.startswith(self.lkws)
 
 
-mob = SeashellMobilism("Oct 22nd, 2019, 12:46 pm")
+mob = SeashellMobilism("Oct 29th, 2019, 4:26 pm")
 mob.process()
 # https://forum.mobilism.org/viewforum.php?f=399
-# https://forum.mobilism.org/viewtopic.php?f=427&t=3364012
+# https://forum.mobilism.org/viewtopic.php?f=1333&t=3374191
