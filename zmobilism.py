@@ -68,7 +68,7 @@ class SeashellMobilism:
 
         f = open('urls-Mobilism.txt', 'a', encoding="utf-8")
 
-        i = 640
+        i = 0
         while not self.done:
             self.done = True
             start_i = "https://forum.mobilism.org/viewforum.php?f=399&start=" + str(i)
