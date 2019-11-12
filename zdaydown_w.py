@@ -162,3 +162,13 @@ ff = Ditem()
 #ff.folderfiles("/download/@@@@@@MMMMMM/batch/")
 #ff.folderUnFolderFiles('/download/0days/')
 ff.folderUnFolderFiles('/download/00000jd/000day/@@@@@SSSSSSSSS/')
+
+# for subdir, dirs, files in os.walk('/download/00000jd/000day/@@@@@SSSSSSSSS/DMSoft/'):
+#     for dir in dirs:
+#         #print(os.path.join(subdir, file))
+#         print(dir)
+#         if dir.startswith('DMSoft '):
+#             print(dir[7:])
+#             os.rename('/download/00000jd/000day/@@@@@SSSSSSSSS/DMSoft/' + dir, '/download/00000jd/000day/@@@@@SSSSSSSSS/DMSoft/' + dir[7:])
+#
+#

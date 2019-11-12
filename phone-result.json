@@ -1,0 +1,106 @@
+{
+ "@xmlns:android": "http://schemas.android.com/apk/res/android",
+ "@android:versionCode": "5",
+ "@android:versionName": "5",
+ "@android:installLocation": "1",
+ "@android:compileSdkVersion": "23",
+ "@android:compileSdkVersionCodename": "6.0-2438415",
+ "@package": "ptv.hp.apt.str",
+ "@platformBuildVersionCode": "28",
+ "@platformBuildVersionName": "9",
+ "uses-sdk": {
+  "@android:minSdkVersion": "9",
+  "@android:targetSdkVersion": "26"
+ },
+ "supports-screens": {
+  "@android:anyDensity": "true",
+  "@android:smallScreens": "true",
+  "@android:normalScreens": "true",
+  "@android:largeScreens": "true"
+ },
+ "uses-permission": [
+  {
+   "@android:name": "android.permission.INTERNET"
+  },
+  {
+   "@android:name": "android.permission.ACCESS_NETWORK_STATE"
+  },
+  {
+   "@android:name": "android.permission.ACCESS_WIFI_STATE"
+  },
+  {
+   "@android:name": "android.permission.WRITE_EXTERNAL_STORAGE"
+  },
+  {
+   "@android:name": "android.permission.ACCESS_FINE_LOCATION"
+  }
+ ],
+ "application": {
+  "@android:theme": "@7F060001",
+  "@android:label": "Porn TV",
+  "@android:icon": "@7F020015",
+  "activity": [
+   {
+    "@android:theme": "@android:01030010",
+    "@android:name": "com.google.android.gms.common.api.GoogleApiActivity",
+    "@android:exported": "false"
+   },
+   {
+    "@android:label": "Porn TV",
+    "@android:name": ".main",
+    "@android:launchMode": "1",
+    "@android:screenOrientation": "4294967295",
+    "@android:windowSoftInputMode": "0x00000002",
+    "intent-filter": {
+     "action": {
+      "@android:name": "android.intent.action.MAIN"
+     },
+     "category": {
+      "@android:name": "android.intent.category.LAUNCHER"
+     }
+    }
+   },
+   {
+    "@android:label": "Porn TV",
+    "@android:name": ".fav_module",
+    "@android:launchMode": "1",
+    "@android:screenOrientation": "4294967295",
+    "@android:windowSoftInputMode": "0x00000002"
+   },
+   {
+    "@android:label": "Porn TV",
+    "@android:name": ".page_play",
+    "@android:launchMode": "1",
+    "@android:screenOrientation": "4294967295",
+    "@android:windowSoftInputMode": "0x00000002"
+   },
+   {
+    "@android:label": "Porn TV",
+    "@android:name": ".webview_module",
+    "@android:launchMode": "1",
+    "@android:screenOrientation": "4294967295",
+    "@android:windowSoftInputMode": "0x00000002"
+   }
+  ],
+  "meta-data": {
+   "@android:name": "com.google.android.gms.version",
+   "@android:value": "@7F050000"
+  },
+  "service": [
+   {
+    "@android:name": ".starter"
+   },
+   {
+    "@android:name": "anywheresoftware.b4a.samples.httputils2.httputils2service"
+   }
+  ],
+  "receiver": [
+   {
+    "@android:name": ".starter$starter_BR"
+   },
+   {
+    "@android:name": "anywheresoftware.b4a.samples.httputils2.httputils2service$httputils2service_BR"
+   }
+  ]
+ }
+}
