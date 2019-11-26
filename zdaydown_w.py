@@ -148,12 +148,20 @@ class Ditem:
                 # print(x)
                 # print(os.path.splitext(x)[0])
                 directory = mypath + os.path.splitext(x)[0]
-                directory = directory.replace("_"," ").replace("Downloadly.ir","").strip()
+                directory = directory.replace("_"," ").replace("Downloadly.ir","").replace("[FileCR]","").strip()
 
                 if not os.path.exists(directory):
                     os.makedirs(directory)
                 os.rename(mypath + x, directory + "/" + x)
             break
+
+    def replaceinFolder(self, mypath,oldstr,newstr):
+        for subdir, dirs, files in os.walk(mypath):
+            for dir in dirs:
+                newname = dir.replace(oldstr,newstr).strip()
+                if dir!=newname:
+                    os.rename(mypath + dir, mypath + newname)
+
 
 
 # mob = Seashell0daydownW("https://www.0daydown.com/02/1001971.html")
@@ -161,14 +169,7 @@ class Ditem:
 ff = Ditem()
 #ff.folderfiles("/download/@@@@@@MMMMMM/batch/")
 #ff.folderUnFolderFiles('/download/0days/')
+# ff.replaceinFolder('/download/00000jd/000day/@@@@@SSSSSSSSS/',' [FileCR]','')
 ff.folderUnFolderFiles('/download/00000jd/000day/@@@@@SSSSSSSSS/')
 
-# for subdir, dirs, files in os.walk('/download/00000jd/000day/@@@@@SSSSSSSSS/DMSoft/'):
-#     for dir in dirs:
-#         #print(os.path.join(subdir, file))
-#         print(dir)
-#         if dir.startswith('DMSoft '):
-#             print(dir[7:])
-#             os.rename('/download/00000jd/000day/@@@@@SSSSSSSSS/DMSoft/' + dir, '/download/00000jd/000day/@@@@@SSSSSSSSS/DMSoft/' + dir[7:])
-#
-#
+

@@ -34,7 +34,10 @@ class Ditem:
         elif '@versionCode' in m_dict:
             self.ver=m_dict['@android:versionCode']
 
-        self.label=m_dict['application']['@android:label']
+        if '@android:label' in m_dict['application']:
+            self.label=m_dict['application']['@android:label']
+        elif '@label' in m_dict:
+            self.label=m_dict['application']['@label']
 
         statbuf = os.stat(dirname)
         self.mtime = statbuf.st_mtime
@@ -45,17 +48,19 @@ def showFile(dirname):
     # m_xml = apk.get_org_manifest()
     # print(m_xml)
 
-    m_dict = apk.get_manifest()
-    print(json.dumps(m_dict, indent=1))
+    # m_dict = apk.get_manifest()
+    # print(json.dumps(m_dict, indent=1))
+    #
+    # f = open('phone-result.json', 'w', encoding="utf-8")
+    # f.write(json.dumps(m_dict, indent=1))
+    # f.close()
 
-    f = open('phone-result.json', 'w', encoding="utf-8")
-    f.write(json.dumps(m_dict, indent=1))
-    f.close()
+    item= Ditem(dirname)
 
     # get any item you want from dict
-    print('package:', m_dict['@package'])
-    print('android:versionName:', m_dict['@android:versionName'])
-    print('label:', m_dict['application']['@android:label'])
+    print('package:', item.package)
+    print('android:versionName:', item.ver)
+    print('label:', item.label)
 
 apkdict = {}
 
@@ -121,7 +126,10 @@ def moveFile(dirname,dir):
 
     print(dirname)
     print(dst_path)
-    os.replace(dirname, dst_path)
+    try:
+        os.replace(dirname, dst_path)
+    except:
+        pass
 
 
 def processResult():
@@ -165,7 +173,7 @@ def processDirAPKName(mypath):
         break
 
 
-#showFile('/download/00000jd/000ph/_ TV v5.apk')
+# showFile('/download/00000jd/000ph/Manager APK.v8.1.0.p.apk')
 #processDir('/download/00000jd/000ph/')
-#processResult()
-processDirAPKName('/download/00000jd/000ph/')
+processResult()
+# processDirAPKName('/download/00000jd/000ph/')
