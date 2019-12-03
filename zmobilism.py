@@ -139,7 +139,7 @@ class SeashellMobilism:
         return not linkhref.startswith(self.lkws)
 
 
-mob = SeashellMobilism("Nov 19th, 2019, 1:59 pm")
+mob = SeashellMobilism("Nov 26th, 2019, 3:32 pm")
 mob.process()
 # https://forum.mobilism.org/viewforum.php?f=399
-# https://forum.mobilism.org/viewtopic.php?f=438&t=3405626
+# https://forum.mobilism.org/viewtopic.php?f=424&t=3416061
