@@ -59,6 +59,7 @@ class SeashellBookflare:
                     self.done = False
                 else:
                     self.done = True
+                    break
             i += 1
             if i==226:
                 self.done = True
@@ -106,7 +107,5 @@ class SeashellBookflare:
         return pdatetime >= self.lastdate
 
 
-z = SeashellBookflare("2018-11-28 19:42:23")
+z = SeashellBookflare("2019-12-29 19:13:40")
 z.process()
-# https://forum.mobilism.org/viewforum.php?f=399
-# https://forum.mobilism.org/viewtopic.php?f=423&t=3437693
