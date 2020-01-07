@@ -104,8 +104,9 @@ class SeashellBookflare:
         # if "Yesterday" in timetxt or "Today" in timetxt or "ago" in timetxt:
         #     return True
         pdatetime = self.toDate(timetxt)
-        return pdatetime >= self.lastdate
+        return pdatetime > self.lastdate
 
 
-z = SeashellBookflare("2019-12-29 19:13:40")
+z = SeashellBookflare("2020-01-04 12:25:25")
 z.process()
+#2020-01-07 20:01:32
