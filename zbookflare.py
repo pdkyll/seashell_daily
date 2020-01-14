@@ -107,6 +107,6 @@ class SeashellBookflare:
         return pdatetime > self.lastdate
 
 
-z = SeashellBookflare("2020-01-04 12:25:25")
+z = SeashellBookflare("2020-01-09 06:41:40")
 z.process()
-#2020-01-07 20:01:32
+#2020-01-10 06:32:14
