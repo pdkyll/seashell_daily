@@ -32,7 +32,7 @@ class SeashellBookflare:
         driver.implicitly_wait(10)
         drv.implicitly_wait(10)
 
-        f = open('urls-Bookflare.txt', 'a', encoding="utf-8")
+        f = open('urls-Bookflare.txt', 'w', encoding="utf-8")
 
         i = 1
         while not self.done:
@@ -107,6 +107,6 @@ class SeashellBookflare:
         return pdatetime > self.lastdate
 
 
-z = SeashellBookflare("2020-01-13 22:21:50")
+z = SeashellBookflare("2020-01-19 10:19:14")
 z.process()
 #
