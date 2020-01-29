@@ -148,7 +148,7 @@ class Ditem:
                 # print(x)
                 # print(os.path.splitext(x)[0])
                 directory = mypath + os.path.splitext(x)[0]
-                directory = directory.replace("_",".").replace("Downloadly.ir","").replace("[FileCR]","").strip()
+                directory = directory.replace("_",".").replace(".Downloadly.ir","").replace("Downloadly.ir","").replace("[FileCR]","").strip()
                 # directory += " _"
 
                 if not os.path.exists(directory):

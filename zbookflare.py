@@ -109,4 +109,4 @@ class SeashellBookflare:
 
 z = SeashellBookflare("2020-01-19 10:19:14")
 z.process()
-#
+# 2020-01-29 19:36:05
