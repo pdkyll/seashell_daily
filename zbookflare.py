@@ -47,11 +47,14 @@ class SeashellBookflare:
                 # self.processitem(drv, elem)
                 j = j + 1
 
-                if self.isnew(driver.find_element_by_xpath("(//time)[" + str(j) + "]").get_attribute("datetime")):
+                timetxt = driver.find_element_by_xpath("(//time)[" + str(j) + "]").get_attribute("datetime")
+                if self.isnew(timetxt):
                     print(elem.text)
                     f.write('*' * 50 + '\n')
                     f.write('Todo ')
                     f.write(elem.text)
+                    f.write('\n')
+                    f.write(timetxt)
                     f.write('\n')
                     f.write(elem.get_attribute("href"))
                     f.write('\n' + '*' * 50 + '\n')
@@ -107,6 +110,6 @@ class SeashellBookflare:
         return pdatetime > self.lastdate
 
 
-z = SeashellBookflare("2020-02-01 09:34:14")
+z = SeashellBookflare("2020-02-05 04:57:52")
 z.process()
-# 2020-02-04 19:55:29
+# 2020-02-08 20:07:27

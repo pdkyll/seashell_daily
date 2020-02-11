@@ -66,7 +66,7 @@ class SeashellMobilism:
         driver.implicitly_wait(10)
         drv.implicitly_wait(10)
 
-        f = open('urls-Mobilism.txt', 'a', encoding="utf-8")
+        f = open('urls-Mobilism.txt', 'w', encoding="utf-8")
 
         i = 0
         while not self.done:
@@ -139,7 +139,7 @@ class SeashellMobilism:
         return not linkhref.startswith(self.lkws)
 
 
-mob = SeashellMobilism("Jan 21st, 2020, 3:55 pm")
+mob = SeashellMobilism("Jan 29th, 2020, 2:43 pm")
 mob.process()
 # https://forum.mobilism.org/viewforum.php?f=399
-# https://forum.mobilism.org/viewtopic.php?f=425&t=3499003
+# https://forum.mobilism.org/viewtopic.php?f=421&t=3517764
