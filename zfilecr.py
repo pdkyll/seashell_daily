@@ -75,6 +75,6 @@ class SeashellFilecr:
 
 
 
-z = SeashellFilecr("https://filecr.com/elearning/what-hi-fi/")
+z = SeashellFilecr("https://filecr.com/elearning/javascript-everywhere-by-adam-d-scott/")
 z.process()
 

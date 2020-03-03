@@ -2,9 +2,9 @@
 # print(sys.path)
 
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from datetime import datetime
-import re
+# from selenium.webdriver.common.keys import Keys
+# from datetime import datetime
+# import re
 import time
 import json
 import os
@@ -17,8 +17,8 @@ class Seashell0daydownW:
         self.pt = 3
         self.ditems = []
 
-    def obj_dict(obj):
-        return obj.__dict__
+    # def obj_dict(obj):
+    #     return obj.__dict__
 
     def process(self):
 
@@ -125,30 +125,34 @@ class Ditem:
         self.bdurl = ""
         self.filenames = []
 
-    def folderfiles(self, mypath):
+    @staticmethod
+    def folderfiles(mypath):
         with open('urls-0daydown-Windows.json', 'rb') as json_file:
             data = json.load(json_file)
             for i in data:
-                if (len(i['filenames']) > 0) and (len(i['bdurl'])>0):
-                    directory = mypath + i['title'].replace("/"," ")
+                if (len(i['filenames']) > 0) and (len(i['bdurl']) > 0):
+                    directory = mypath + i['title'].replace("/", " ")
                     for j in i['filenames']:
                         if os.path.exists(mypath + j):
                             if not os.path.exists(directory):
                                 os.makedirs(directory)
                             os.rename(mypath + j, directory + "/" + j)
-                        j = j.replace("_"," ")
+                        j = j.replace("_", " ")
                         if os.path.exists(mypath + j):
                             if not os.path.exists(directory):
                                 os.makedirs(directory)
                             os.rename(mypath + j, directory + "/" + j)
 
-    def folderUnFolderFiles(self, mypath):
+    @staticmethod
+    def folderunfolderfiles(mypath):
         for (dirpath, dirnames, filenames) in os.walk(mypath):
             for x in filenames:
                 # print(x)
                 # print(os.path.splitext(x)[0])
                 directory = mypath + os.path.splitext(x)[0]
-                directory = directory.replace("_",".").replace(".Downloadly.ir","").replace("Downloadly.ir","").replace("[FileCR]","").strip()
+                directory = directory.replace("_", ".").replace(".Downloadly.ir", "").replace("Downloadly.ir",
+                                                                                              "").replace("[FileCR]",
+                                                                                                          "").strip()
                 # directory += " _"
 
                 if not os.path.exists(directory):
@@ -156,21 +160,19 @@ class Ditem:
                 os.rename(mypath + x, directory + "/" + x)
             break
 
-    def replaceinFolder(self, mypath,oldstr,newstr):
+    @staticmethod
+    def replaceinfolder(mypath, oldstr, newstr):
         for subdir, dirs, files in os.walk(mypath):
-            for dir in dirs:
-                newname = dir.replace(oldstr,newstr).strip()
-                if dir!=newname:
-                    os.rename(mypath + dir, mypath + newname)
-
+            for diritem in dirs:
+                newname = diritem.replace(oldstr, newstr).strip()
+                if diritem != newname:
+                    os.rename(mypath + diritem, mypath + newname)
 
 
 # mob = Seashell0daydownW("https://www.0daydown.com/02/1001971.html")
 # mob.process()
-ff = Ditem()
-#ff.folderfiles("/download/@@@@@@MMMMMM/batch/")
-#ff.folderUnFolderFiles('/download/0days/')
-# ff.replaceinFolder('/download/00000jd/000day/@@@@@SSSSSSSSS/',' [FileCR]','')
-ff.folderUnFolderFiles('/download/00000jd/000day/@@@@@SSSSSSSSS/')
-
-
+# ff = Ditem()
+# ff.folderfiles("/download/@@@@@@MMMMMM/batch/")
+# ff.folderUnFolderFiles('/download/0days/')
+Ditem.replaceinfolder('/download/00000jd/000day/@@@@@SSSSSSSSS/','[FTUApps.com] -','')
+Ditem.folderunfolderfiles('/download/00000jd/000day/@@@@@SSSSSSSSS/')

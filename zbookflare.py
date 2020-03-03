@@ -64,7 +64,7 @@ class SeashellBookflare:
                     self.done = True
                     break
             i += 1
-            if i==226:
+            if i == 226:
                 self.done = True
 
         f.close()
@@ -78,10 +78,10 @@ class SeashellBookflare:
         # elems = driver.find_elements_by_xpath('//a[@rel="noopener"]')
         elems = driver.find_elements_by_css_selector("a[rel^='noopener']")
 
-        if len(elems)==0:
-            f.write("###"+itemurl)
+        if len(elems) == 0:
+            f.write("###" + itemurl)
             f.write('\n')
-            print("###"+itemurl)
+            print("###" + itemurl)
         else:
             for e in elems:
                 # print(e.text)
